@@ -87,7 +87,9 @@ def generate_calendar(year: int = 2027, output_path: str = "tides_west_2027.ics"
         event.add('dtstart', current_date)
         event.add('dtend', current_date + delta)
         
-        summary = f"[물때] {tide_info['badge']}"
+        leap_prefix = "윤" if is_leap else ""
+        lunar_date_str = f"음 {leap_prefix}{l_month}월{l_day}일"
+        summary = f"{tide_info['name']}/{lunar_date_str}"
         event.add('summary', summary)
 
         leap_str = " (윤달)" if is_leap else ""
