@@ -1,52 +1,86 @@
-# 🌊 2027년 서해 물때표 구글 캘린더 (Tide Calendar)
+# 🌊 2027년 서해 물때표 구글 캘린더 (낚시 & 해루질)
 
-2027년 서해안 주요 거점의 **일별 물때(7물때식)**와 **월별 대표 어종별 맞춤 출조 지수(신호등 컬러 🟢🟡⚪🔴 / 별점 ★★★★★)**를 구글 캘린더 및 애플 캘린더에서 바로 구독할 수 있는 프로젝트입니다.
-
----
-
-## 📌 주요 특징 및 표기 방식
-
-### 1. 캘린더 제목: 신호등 컬러 뱃지 & 한 글자 어종 축약
-스마트폰 구글 캘린더 월간/주간 뷰에서 **제목 앞의 신호등 컬러만으로 오늘 낚시 가기 좋은 날인지 0.1초 만에 확인**할 수 있으며, 뒤에 어종 약칭(`[쭈]`, `[갑]`, `[광]` 등)을 한 글자로 덧붙여 화면에 잘리지 않도록 최적화했습니다.
-
-* **제목 포맷**: **`{신호등}{지역}{물때}-(일평균고저차cm)비율%[{어종약칭}]`**
-* **제목 예시**:
-  - `🟢인천1물-(184)20%[쭈]` (최적 물때)
-  - `🟡인천3물-(406)45%[쭈]` (양호 물때)
-  - `⚪인천5물-(622)69%[쭈]` (보통 물때)
-  - `🔴인천8물-(782)87%[쭈]` (70% 이상 사리 급류 비추)
-* **신호등 컬러 기준**:
-  - 🟢 **초록 (최고 / 대박 물때)**: 별점 5점 (해당 어종에 최적화된 황금 조류)
-  - 🟡 **노랑 (양호 / 추천)**: 별점 4점 (출조하기 무난하고 좋은 물때)
-  - ⚪ **흰색/회색 (보통)**: 별점 3점 (평범한 수준, 낚시 가능)
-  - 🔴 **빨강 (비추천 / 주의)**: 70% 이상 사리 급류 등 낚시 난이도 매우 높음
-
-#### 📅 월별 대표 출조 어종 및 약칭
-| 월 | 대표 대상어 | 약칭 | 최적 물때 특성 (🟢 최고) |
-| :---: | :---: | :---: | :--- |
-| **1~2월** | *(동계 비시즌)* | - | 물때 및 고저차 기본 정보 제공 |
-| **3월** | **우럭** | `[우]` | 조류 완만한 소조기~중조기 (고저차 35~55% 최고) |
-| **4월, 5월** | **광어** | `[광]` | 다운샷 배 흘림에 적합한 중조기 (고저차 45~65% 최고) |
-| **6월** | **참돔** | `[참]` | 타이라바 넥타이가 펄럭이는 활발한 조류 (고저차 55~75% 최고) |
-| **7월** | **농어** | `[농]` | 외수질 산새우 - 조류 거셀수록 먹이활동 폭발 (고저차 55~80% 최고) |
-| **8월** | **백조기** | `[백]` | 가벼운 바닥 채비 - 물살 느릴수록 낚시 편함 (고저차 42% 이하 최고) |
-| **9월** | **쭈꾸미** | `[쭈]` | 두족류 에기 낚시 - 봉돌 가볍게 바닥 찍는 소조기 (고저차 38% 이하 최고) |
-| **10월** | **갑오징어** | `[갑]` | 에기 액션 및 적당한 배 흘림이 살아나는 중조기 (고저차 45~65% 최고) |
-| **11월** | **쭈꾸미** | `[쭈]` | 늦가을 쭈꾸미 - 물 안 가는 소조기 최고 (고저차 38% 이하 최고) |
-| **12월** | **광어** | `[광]` | 초겨울 대광어 다운샷 - 적당한 배 흘림 조류 최고 |
+2027년 서해안 주요 9개 거점의 **[낚시물때]** 및 **[해루질물때]** 전용 캘린더를 구글 캘린더 / 애플 캘린더에서 바로 구독할 수 있는 프로젝트입니다.
 
 ---
 
-### 2. 일정 상세 내용 (클릭 시 복수 어종 평가 제공)
-일정을 클릭하면 당월에 출조 가능한 **복수 어종들의 종합 출조 적합도와 별점(★) 및 추천 채비 팁**이 모두 제공됩니다:
+## 📌 캘린더 종류 및 신호등 컬러 가이드
 
+### 1. 🎣 [지역-낚시물때] 캘린더
+월별 대표 대상어에 맞는 조류 유속(고저차 비율%)을 분석하여 출조 신호등을 표시합니다.
+* **제목 포맷**: **`{신호등}{지역}{물때}-(고저차)비율%[{어종약칭}]`** (예: `🟢인천1물-(184)20%[쭈]`)
+* **신호등 기준**:
+  - 🟢 **최고 (5점)**: 해당 어종에 최적화된 황금 조류
+  - 🟡 **양호 (4점)**: 출조하기 좋은 물때
+  - ⚪ **보통 (3점)**: 무난한 물때, 낚시 가능
+  - 🔴 **비추 (1~2점)**: 70% 이상 사리 급류 등 낚시 난이도 높음
+* **월별 대표 어종**: 3월 우럭`[우]`, 4~5월 광어`[광]`, 6월 참돔`[참]`, 7월 농어`[농]`, 8월 백조기`[백]`, 9월 쭈꾸미`[쭈]`, 10월 갑오징어`[갑]`, 11월 쭈꾸미`[쭈]`, 12월 광어`[광]`
+
+---
+
+### 2. 🤿 [지역-해루질물때] 캘린더
+물이 가장 많이 빠져 갯벌과 바닥이 멀리 드러나는 사리(대조기) 물때를 분석하여 해루질 신호등을 표시합니다.
+* **제목 포맷**: **`{신호등}{지역}{물때}-(고저차)비율%[해]`** (예: `🟢인천8물-(940)104%[해]`)
+* **신호등 기준**:
+  - 🟢 **최상 (95% 이상)**: 대박 물때! 물이 극도로 빠져 깊은 갯벌/바닥 노출 (마이너스 조위 등)
+  - 🟡 **좋음 (88% ~ 94%)**: 해루질 적극 추천 물때, 갯벌 넓게 노출
+  - ⚪ **괜찮음 (80% ~ 87%)**: 무난한 조과, 발목/무릎 해루질 적정
+  - 🔴 **별로 (80% 미만)**: 물이 충분히 안 빠짐, 비추천
+
+---
+
+## 🔗 구글 캘린더 구독 링크 (URL로 추가)
+
+> 💡 **구글 캘린더 등록 안내**:  
+> 구글 캘린더 좌측 **다른 캘린더 `+` → [URL로 추가]**에서 원하는 캘린더의 링크를 복사해 넣으시면 즉시 추가됩니다.
+
+### 🎣 1. 낚시물때 캘린더 (어종별 맞춤 출조 지수 탑재)
+
+| 거점 항구 | 캘린더 명칭 | 구글 캘린더 등록 링크 |
+| :--- | :--- | :--- |
+| **인천** | 2027 인천-낚시물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_incheon_2027.ics?v=6` |
+| **평택** | 2027 평택-낚시물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_pyeongtaek_2027.ics?v=6` |
+| **신진도 (안흥)** | 2027 신진도-낚시물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_sinjindo_2027.ics?v=6` |
+| **마검포 (태안)** | 2027 마검포-낚시물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_mageompo_2027.ics?v=6` |
+| **원산도 (보령)** | 2027 원산도-낚시물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_wonsando_2027.ics?v=6` |
+| **무창포 (보령)** | 2027 무창포-낚시물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_muchangpo_2027.ics?v=6` |
+| **홍원항 (서천)** | 2027 홍원항-낚시물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_hongwon_2027.ics?v=6` |
+| **군산** | 2027 군산-낚시물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_gunsan_2027.ics?v=6` |
+| **목포** | 2027 목포-낚시물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_mokpo_2027.ics?v=6` |
+
+---
+
+### 🤿 2. 해루질물때 캘린더 (간조 최저수위 & 안전 퇴수가이드 탑재)
+
+| 거점 항구 | 캘린더 명칭 | 구글 캘린더 등록 링크 |
+| :--- | :--- | :--- |
+| **인천** | 2027 인천-해루질물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_incheon_haerujil_2027.ics?v=6` |
+| **평택** | 2027 평택-해루질물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_pyeongtaek_haerujil_2027.ics?v=6` |
+| **신진도 (안흥)** | 2027 신진도-해루질물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_sinjindo_haerujil_2027.ics?v=6` |
+| **마검포 (태안)** | 2027 마검포-해루질물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_mageompo_haerujil_2027.ics?v=6` |
+| **원산도 (보령)** | 2027 원산도-해루질물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_wonsando_haerujil_2027.ics?v=6` |
+| **무창포 (보령)** | 2027 무창포-해루질물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_muchangpo_haerujil_2027.ics?v=6` |
+| **홍원항 (서천)** | 2027 홍원항-해루질물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_hongwon_haerujil_2027.ics?v=6` |
+| **군산** | 2027 군산-해루질물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_gunsan_haerujil_2027.ics?v=6` |
+| **목포** | 2027 목포-해루질물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_mokpo_haerujil_2027.ics?v=6` |
+
+---
+
+### 🌊 3. 서해 전역 기본 물때 (물때명 & 음력만)
+* **등록 링크**: `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/tides_west_2027.ics?v=6`
+* **표기 형태**: `13물/음 12월7일`, `조금/음 12월8일`
+
+---
+
+## 📱 일정 클릭 시 상세 내용
+
+### 🎣 낚시물때 일정 내용
 ```text
-📍 관측지점: 서해 인천
+📍 관측지점: 서해 인천 (낚시물때)
 📅 양력: 2027년 09월 10일 (금)
 🌙 음력/월령: 8.10
 🌊 물때: 1물
 📏 일일 평균 고저차: 184 cm (20% / 기준 900cm)
-📏 일일 최대 고저차: 227 cm
 
 🎯 [9월 주요 어종별 출조 적합도]:
   • 쭈꾸미 (주력) : ★★★★★ 🟢 (최적의 조류! 봉돌 10~12호 가볍게 운용)
@@ -54,49 +88,45 @@
   • 광어 : ★★☆☆☆ 🔴 (조류 너무 느리거나 너무 빠름)
   • 우럭 : ★★★☆☆ ⚪ (조류 다소 정체, 활성도 보통)
 
-🔻 [간조/저조 - 물 빠질 때]:
-  • 06:36 : 수위 416cm (▼-228)
-  • 18:30 : 수위 330cm (▼-227)
-
-🌊 [만조/고조 - 물 찰 때]:
-  • 12:05 : 수위 644cm (▲+228)
+🔻 [간조]: 06:36(416cm), 18:30(330cm)
+🌊 [만조]: 12:05(644cm)
 ☀️ 일출/일몰: 06:12/18:50
-🤿 해루질 팁: 최저 간조 시각 2시간 전부터 진입 권장
+```
+
+### 🤿 해루질물때 일정 내용
+```text
+📍 관측지점: 서해 인천 (해루질물때)
+📅 양력: 2027년 09월 03일 (금)
+🌙 음력/월령: 8.03
+🌊 물때: 9물
+📏 일일 평균 고저차: 960 cm (107% / 기준 900cm)
+
+🤿 [해루질 적합도]: ★★★★★
+👉 평가: 최상 🟢 (해루질 황금 물때! 물 극도로 빠짐, 대박 기대)
+🔻 최저 간조(가장 물 많이 빠질 때): 00:21 (-23cm)
+
+⏰ [해루질 시간 가이드]:
+  • 🚪 진입 추천: 간조 2시간 전부터 진입
+  • 🚨 철수 필수: 간조 시각 1시간 후 반드시 퇴수! (물돌이 시작되면 위험)
+
+🔻 [당일 간조]: 00:21(-23cm), 12:47(-60cm)
+🌊 [당일 만조]: 06:40(898cm), 19:10(900cm)
+☀️ 일출/일몰: 06:06/19:00
+⚠️ 해루질 안전수칙: 2인 1조 동행, 구명조끼 필수, 퇴수 시간 엄수
 ```
 
 ---
 
-## 🔗 구글 캘린더 즉시 구독 링크 (URL로 추가)
-
-> 💡 **구글 캘린더 즉시 반영 안내**:  
-> 구글 캘린더는 URL 끝에 버전 파라미터(`?v=5`)가 붙은 신규 URL로 등록할 때 캐시를 무시하고 즉시 최신 간소화 신호등 캘린더를 가져옵니다.  
-> 기존 캘린더가 있다면 삭제 후 아래 링크로 다시 등록해 주세요!
-
-| 거점 항구 | 캘린더 명칭 | 구글 캘린더 등록 링크 (신호등 & 한 글자 어종 약칭) |
-| :--- | :--- | :--- |
-| **🌊 서해 전역** | 서해 7물때표 (물때/음력) | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/tides_west_2027.ics?v=5` |
-| **인천** | 2027 서해 물때표 [인천] | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_incheon_2027.ics?v=5` |
-| **평택** | 2027 서해 물때표 [평택] | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_pyeongtaek_2027.ics?v=5` |
-| **신진도 (안흥)** | 2027 서해 물때표 [신진도] | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_sinjindo_2027.ics?v=5` |
-| **마검포 (태안)** | 2027 서해 물때표 [마검포] | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_mageompo_2027.ics?v=5` |
-| **원산도 (보령)** | 2027 서해 물때표 [원산도] | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_wonsando_2027.ics?v=5` |
-| **무창포 (보령)** | 2027 서해 물때표 [무창포] | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_muchangpo_2027.ics?v=5` |
-| **홍원항 (서천)** | 2027 서해 물때표 [홍원항] | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_hongwon_2027.ics?v=5` |
-| **군산** | 2027 서해 물때표 [군산] | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_gunsan_2027.ics?v=5` |
-| **목포** | 2027 서해 물때표 [목포] | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_mokpo_2027.ics?v=5` |
-
----
-
-## 💻 프로젝트 스크립트 실행 방법
+## 💻 스크립트 실행 방법
 
 ```bash
 # 가상환경 생성 및 의존성 설치
 python3 -m venv venv
 ./venv/bin/pip install -r requirements.txt
 
-# 1. 서해 전역 7물때 기본 캘린더 생성 (물때/음력 포맷)
+# 1. 서해 전역 기본 물때 캘린더 생성
 ./venv/bin/python generate_tides_2027.py
 
-# 2. 9개 주요 거점 상세 조석 및 어종별 출조 지수 캘린더 일괄 생성
+# 2. 9개 거점 [낚시물때] 및 [해루질물때] 18개 캘린더 일괄 생성
 ./venv/bin/python fetch_port_tides.py
 ```
