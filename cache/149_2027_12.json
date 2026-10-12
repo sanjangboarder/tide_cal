@@ -1,0 +1,1036 @@
+[
+  {
+    "year": 2027,
+    "month": 12,
+    "day": 1,
+    "day_of_week": "수",
+    "lunar_info": "11.4",
+    "tide_name": "10물",
+    "high_tides": [
+      {
+        "time": "06:09",
+        "level": 763,
+        "diff": "▲+593"
+      },
+      {
+        "time": "18:36",
+        "level": 854,
+        "diff": "▲+770"
+      }
+    ],
+    "low_tides": [
+      {
+        "time": "00:34",
+        "level": 170,
+        "diff": "▼-701"
+      },
+      {
+        "time": "12:24",
+        "level": 84,
+        "diff": "▼-679"
+      }
+    ],
+    "sun": "07:27/17:16",
+    "moon": "10:10/19:49"
+  },
+  {
+    "year": 2027,
+    "month": 12,
+    "day": 2,
+    "day_of_week": "목",
+    "lunar_info": "11.5",
+    "tide_name": "11물",
+    "high_tides": [
+      {
+        "time": "06:45",
+        "level": 745,
+        "diff": "▲+557"
+      },
+      {
+        "time": "19:10",
+        "level": 831,
+        "diff": "▲+724"
+      }
+    ],
+    "low_tides": [
+      {
+        "time": "01:09",
+        "level": 188,
+        "diff": "▼-666"
+      },
+      {
+        "time": "12:58",
+        "level": 107,
+        "diff": "▼-638"
+      }
+    ],
+    "sun": "07:28/17:16",
+    "moon": "10:48/20:50"
+  },
+  {
+    "year": 2027,
+    "month": 12,
+    "day": 3,
+    "day_of_week": "금",
+    "lunar_info": "11.6",
+    "tide_name": "12물",
+    "high_tides": [
+      {
+        "time": "07:21",
+        "level": 721,
+        "diff": "▲+511"
+      },
+      {
+        "time": "19:44",
+        "level": 802,
+        "diff": "▲+665"
+      }
+    ],
+    "low_tides": [
+      {
+        "time": "01:43",
+        "level": 210,
+        "diff": "▼-621"
+      },
+      {
+        "time": "13:31",
+        "level": 137,
+        "diff": "▼-584"
+      }
+    ],
+    "sun": "07:29/17:16",
+    "moon": "11:21/21:49"
+  },
+  {
+    "year": 2027,
+    "month": 12,
+    "day": 4,
+    "day_of_week": "토",
+    "lunar_info": "11.7",
+    "tide_name": "13물",
+    "high_tides": [
+      {
+        "time": "07:57",
+        "level": 694,
+        "diff": "▲+459"
+      },
+      {
+        "time": "20:20",
+        "level": 766,
+        "diff": "▲+591"
+      }
+    ],
+    "low_tides": [
+      {
+        "time": "02:16",
+        "level": 235,
+        "diff": "▼-567"
+      },
+      {
+        "time": "14:06",
+        "level": 175,
+        "diff": "▼-519"
+      }
+    ],
+    "sun": "07:30/17:16",
+    "moon": "11:49/22:47"
+  },
+  {
+    "year": 2027,
+    "month": 12,
+    "day": 5,
+    "day_of_week": "일",
+    "lunar_info": "11.8",
+    "tide_name": "조금",
+    "high_tides": [
+      {
+        "time": "08:39",
+        "level": 663,
+        "diff": "▲+402"
+      },
+      {
+        "time": "21:02",
+        "level": 725,
+        "diff": "▲+504"
+      }
+    ],
+    "low_tides": [
+      {
+        "time": "02:53",
+        "level": 261,
+        "diff": "▼-505"
+      },
+      {
+        "time": "14:46",
+        "level": 221,
+        "diff": "▼-442"
+      }
+    ],
+    "sun": "07:30/17:16",
+    "moon": "12:14/23:45"
+  },
+  {
+    "year": 2027,
+    "month": 12,
+    "day": 6,
+    "day_of_week": "월",
+    "lunar_info": "11.9",
+    "tide_name": "무시",
+    "high_tides": [
+      {
+        "time": "09:31",
+        "level": 635,
+        "diff": "▲+350"
+      },
+      {
+        "time": "21:52",
+        "level": 683,
+        "diff": "▲+413"
+      }
+    ],
+    "low_tides": [
+      {
+        "time": "03:36",
+        "level": 285,
+        "diff": "▼-440"
+      },
+      {
+        "time": "15:36",
+        "level": 270,
+        "diff": "▼-365"
+      }
+    ],
+    "sun": "07:31/17:16",
+    "moon": "12:38/ ----"
+  },
+  {
+    "year": 2027,
+    "month": 12,
+    "day": 7,
+    "day_of_week": "화",
+    "lunar_info": "11.10",
+    "tide_name": "1물",
+    "high_tides": [
+      {
+        "time": "10:37",
+        "level": 620,
+        "diff": "▲+320"
+      },
+      {
+        "time": "22:56",
+        "level": 651,
+        "diff": "▲+341"
+      }
+    ],
+    "low_tides": [
+      {
+        "time": "04:31",
+        "level": 300,
+        "diff": "▼-383"
+      },
+      {
+        "time": "16:41",
+        "level": 310,
+        "diff": "▼-310"
+      }
+    ],
+    "sun": "07:32/17:16",
+    "moon": "13:01/00:42"
+  },
+  {
+    "year": 2027,
+    "month": 12,
+    "day": 8,
+    "day_of_week": "수",
+    "lunar_info": "11.11",
+    "tide_name": "2물",
+    "high_tides": [
+      {
+        "time": "11:55",
+        "level": 633,
+        "diff": "▲+338"
+      }
+    ],
+    "low_tides": [
+      {
+        "time": "05:39",
+        "level": 295,
+        "diff": "▼-356"
+      },
+      {
+        "time": "18:03",
+        "level": 325,
+        "diff": "▼-308"
+      }
+    ],
+    "sun": "07:33/17:16",
+    "moon": "13:25/01:40"
+  },
+  {
+    "year": 2027,
+    "month": 12,
+    "day": 9,
+    "day_of_week": "목",
+    "lunar_info": "11.12",
+    "tide_name": "3물",
+    "high_tides": [
+      {
+        "time": "00:10",
+        "level": 642,
+        "diff": "▲+317"
+      },
+      {
+        "time": "13:06",
+        "level": 675,
+        "diff": "▲+409"
+      }
+    ],
+    "low_tides": [
+      {
+        "time": "06:47",
+        "level": 266,
+        "diff": "▼-376"
+      },
+      {
+        "time": "19:23",
+        "level": 308,
+        "diff": "▼-367"
+      }
+    ],
+    "sun": "07:34/17:16",
+    "moon": "13:52/02:40"
+  },
+  {
+    "year": 2027,
+    "month": 12,
+    "day": 10,
+    "day_of_week": "금",
+    "lunar_info": "11.13",
+    "tide_name": "4물",
+    "high_tides": [
+      {
+        "time": "01:17",
+        "level": 658,
+        "diff": "▲+350"
+      },
+      {
+        "time": "14:03",
+        "level": 731,
+        "diff": "▲+513"
+      }
+    ],
+    "low_tides": [
+      {
+        "time": "07:46",
+        "level": 218,
+        "diff": "▼-440"
+      },
+      {
+        "time": "20:27",
+        "level": 271,
+        "diff": "▼-460"
+      }
+    ],
+    "sun": "07:35/17:16",
+    "moon": "14:22/03:43"
+  },
+  {
+    "year": 2027,
+    "month": 12,
+    "day": 11,
+    "day_of_week": "토",
+    "lunar_info": "11.14",
+    "tide_name": "5물",
+    "high_tides": [
+      {
+        "time": "02:13",
+        "level": 688,
+        "diff": "▲+417"
+      },
+      {
+        "time": "14:52",
+        "level": 788,
+        "diff": "▲+623"
+      }
+    ],
+    "low_tides": [
+      {
+        "time": "08:37",
+        "level": 165,
+        "diff": "▼-523"
+      },
+      {
+        "time": "21:20",
+        "level": 230,
+        "diff": "▼-558"
+      }
+    ],
+    "sun": "07:35/17:16",
+    "moon": "14:58/04:49"
+  },
+  {
+    "year": 2027,
+    "month": 12,
+    "day": 12,
+    "day_of_week": "일",
+    "lunar_info": "11.15",
+    "tide_name": "6물",
+    "high_tides": [
+      {
+        "time": "03:02",
+        "level": 722,
+        "diff": "▲+492"
+      },
+      {
+        "time": "15:38",
+        "level": 837,
+        "diff": "▲+723"
+      }
+    ],
+    "low_tides": [
+      {
+        "time": "09:24",
+        "level": 114,
+        "diff": "▼-608"
+      },
+      {
+        "time": "22:10",
+        "level": 193,
+        "diff": "▼-644"
+      }
+    ],
+    "sun": "07:36/17:16",
+    "moon": "15:43/05:58"
+  },
+  {
+    "year": 2027,
+    "month": 12,
+    "day": 13,
+    "day_of_week": "월",
+    "lunar_info": "11.16",
+    "tide_name": "7물",
+    "high_tides": [
+      {
+        "time": "03:49",
+        "level": 753,
+        "diff": "▲+560"
+      },
+      {
+        "time": "16:23",
+        "level": 874,
+        "diff": "▲+802"
+      }
+    ],
+    "low_tides": [
+      {
+        "time": "10:11",
+        "level": 72,
+        "diff": "▼-681"
+      },
+      {
+        "time": "22:57",
+        "level": 164,
+        "diff": "▼-710"
+      }
+    ],
+    "sun": "07:37/17:17",
+    "moon": "16:37/07:06"
+  },
+  {
+    "year": 2027,
+    "month": 12,
+    "day": 14,
+    "day_of_week": "화",
+    "lunar_info": "11.17",
+    "tide_name": "8물",
+    "high_tides": [
+      {
+        "time": "04:34",
+        "level": 777,
+        "diff": "▲+613"
+      },
+      {
+        "time": "17:08",
+        "level": 899,
+        "diff": "▲+858"
+      }
+    ],
+    "low_tides": [
+      {
+        "time": "10:57",
+        "level": 41,
+        "diff": "▼-736"
+      },
+      {
+        "time": "23:43",
+        "level": 143,
+        "diff": "▼-756"
+      }
+    ],
+    "sun": "07:38/17:17",
+    "moon": "17:42/08:11"
+  },
+  {
+    "year": 2027,
+    "month": 12,
+    "day": 15,
+    "day_of_week": "수",
+    "lunar_info": "11.18",
+    "tide_name": "9물",
+    "high_tides": [
+      {
+        "time": "05:19",
+        "level": 793,
+        "diff": "▲+650"
+      },
+      {
+        "time": "17:52",
+        "level": 912,
+        "diff": "▲+890"
+      }
+    ],
+    "low_tides": [
+      {
+        "time": "11:43",
+        "level": 22,
+        "diff": "▼-771"
+      }
+    ],
+    "sun": "07:38/17:17",
+    "moon": "18:54/09:08"
+  },
+  {
+    "year": 2027,
+    "month": 12,
+    "day": 16,
+    "day_of_week": "목",
+    "lunar_info": "11.19",
+    "tide_name": "10물",
+    "high_tides": [
+      {
+        "time": "06:05",
+        "level": 800,
+        "diff": "▲+671"
+      },
+      {
+        "time": "18:37",
+        "level": 913,
+        "diff": "▲+896"
+      }
+    ],
+    "low_tides": [
+      {
+        "time": "00:29",
+        "level": 129,
+        "diff": "▼-783"
+      },
+      {
+        "time": "12:29",
+        "level": 17,
+        "diff": "▼-783"
+      }
+    ],
+    "sun": "07:39/17:17",
+    "moon": "20:09/09:55"
+  },
+  {
+    "year": 2027,
+    "month": 12,
+    "day": 17,
+    "day_of_week": "금",
+    "lunar_info": "11.20",
+    "tide_name": "11물",
+    "high_tides": [
+      {
+        "time": "06:51",
+        "level": 798,
+        "diff": "▲+674"
+      },
+      {
+        "time": "19:22",
+        "level": 900,
+        "diff": "▲+871"
+      }
+    ],
+    "low_tides": [
+      {
+        "time": "01:13",
+        "level": 124,
+        "diff": "▼-789"
+      },
+      {
+        "time": "13:14",
+        "level": 29,
+        "diff": "▼-769"
+      }
+    ],
+    "sun": "07:40/17:18",
+    "moon": "21:23/10:35"
+  },
+  {
+    "year": 2027,
+    "month": 12,
+    "day": 18,
+    "day_of_week": "토",
+    "lunar_info": "11.21",
+    "tide_name": "12물",
+    "high_tides": [
+      {
+        "time": "07:37",
+        "level": 786,
+        "diff": "▲+657"
+      },
+      {
+        "time": "20:07",
+        "level": 871,
+        "diff": "▲+812"
+      }
+    ],
+    "low_tides": [
+      {
+        "time": "01:57",
+        "level": 129,
+        "diff": "▼-771"
+      },
+      {
+        "time": "14:00",
+        "level": 59,
+        "diff": "▼-727"
+      }
+    ],
+    "sun": "07:40/17:18",
+    "moon": "22:35/11:09"
+  },
+  {
+    "year": 2027,
+    "month": 12,
+    "day": 19,
+    "day_of_week": "일",
+    "lunar_info": "11.22",
+    "tide_name": "13물",
+    "high_tides": [
+      {
+        "time": "08:26",
+        "level": 765,
+        "diff": "▲+622"
+      },
+      {
+        "time": "20:53",
+        "level": 829,
+        "diff": "▲+722"
+      }
+    ],
+    "low_tides": [
+      {
+        "time": "02:42",
+        "level": 143,
+        "diff": "▼-728"
+      },
+      {
+        "time": "14:47",
+        "level": 107,
+        "diff": "▼-658"
+      }
+    ],
+    "sun": "07:41/17:19",
+    "moon": "23:45/11:39"
+  },
+  {
+    "year": 2027,
+    "month": 12,
+    "day": 20,
+    "day_of_week": "월",
+    "lunar_info": "11.23",
+    "tide_name": "조금",
+    "high_tides": [
+      {
+        "time": "09:21",
+        "level": 737,
+        "diff": "▲+573"
+      },
+      {
+        "time": "21:45",
+        "level": 776,
+        "diff": "▲+608"
+      }
+    ],
+    "low_tides": [
+      {
+        "time": "03:29",
+        "level": 164,
+        "diff": "▼-665"
+      },
+      {
+        "time": "15:39",
+        "level": 168,
+        "diff": "▼-569"
+      }
+    ],
+    "sun": "07:42/17:19",
+    "moon": "---- /12:07"
+  },
+  {
+    "year": 2027,
+    "month": 12,
+    "day": 21,
+    "day_of_week": "화",
+    "lunar_info": "11.24",
+    "tide_name": "무시",
+    "high_tides": [
+      {
+        "time": "10:24",
+        "level": 711,
+        "diff": "▲+524"
+      },
+      {
+        "time": "22:44",
+        "level": 723,
+        "diff": "▲+492"
+      }
+    ],
+    "low_tides": [
+      {
+        "time": "04:22",
+        "level": 187,
+        "diff": "▼-589"
+      },
+      {
+        "time": "16:41",
+        "level": 231,
+        "diff": "▼-480"
+      }
+    ],
+    "sun": "07:42/17:19",
+    "moon": "00:53/12:35"
+  },
+  {
+    "year": 2027,
+    "month": 12,
+    "day": 22,
+    "day_of_week": "수",
+    "lunar_info": "11.25",
+    "tide_name": "1물",
+    "high_tides": [
+      {
+        "time": "11:40",
+        "level": 700,
+        "diff": "▲+497"
+      },
+      {
+        "time": "23:56",
+        "level": 683,
+        "diff": "▲+406"
+      }
+    ],
+    "low_tides": [
+      {
+        "time": "05:23",
+        "level": 203,
+        "diff": "▼-520"
+      },
+      {
+        "time": "17:56",
+        "level": 277,
+        "diff": "▼-423"
+      }
+    ],
+    "sun": "07:43/17:20",
+    "moon": "02:00/13:04"
+  },
+  {
+    "year": 2027,
+    "month": 12,
+    "day": 23,
+    "day_of_week": "목",
+    "lunar_info": "11.26",
+    "tide_name": "2물",
+    "high_tides": [
+      {
+        "time": "12:59",
+        "level": 715,
+        "diff": "▲+512"
+      }
+    ],
+    "low_tides": [
+      {
+        "time": "06:33",
+        "level": 203,
+        "diff": "▼-480"
+      },
+      {
+        "time": "19:20",
+        "level": 289,
+        "diff": "▼-426"
+      }
+    ],
+    "sun": "07:43/17:20",
+    "moon": "03:07/13:37"
+  },
+  {
+    "year": 2027,
+    "month": 12,
+    "day": 24,
+    "day_of_week": "금",
+    "lunar_info": "11.27",
+    "tide_name": "3물",
+    "high_tides": [
+      {
+        "time": "01:12",
+        "level": 669,
+        "diff": "▲+380"
+      },
+      {
+        "time": "14:10",
+        "level": 749,
+        "diff": "▲+565"
+      }
+    ],
+    "low_tides": [
+      {
+        "time": "07:41",
+        "level": 184,
+        "diff": "▼-485"
+      },
+      {
+        "time": "20:36",
+        "level": 269,
+        "diff": "▼-480"
+      }
+    ],
+    "sun": "07:44/17:21",
+    "moon": "04:14/14:13"
+  },
+  {
+    "year": 2027,
+    "month": 12,
+    "day": 25,
+    "day_of_week": "토",
+    "lunar_info": "11.28",
+    "tide_name": "4물",
+    "high_tides": [
+      {
+        "time": "02:19",
+        "level": 679,
+        "diff": "▲+410"
+      },
+      {
+        "time": "15:08",
+        "level": 786,
+        "diff": "▲+632"
+      }
+    ],
+    "low_tides": [
+      {
+        "time": "08:42",
+        "level": 154,
+        "diff": "▼-525"
+      },
+      {
+        "time": "21:37",
+        "level": 237,
+        "diff": "▼-549"
+      }
+    ],
+    "sun": "07:44/17:22",
+    "moon": "05:19/14:56"
+  },
+  {
+    "year": 2027,
+    "month": 12,
+    "day": 26,
+    "day_of_week": "일",
+    "lunar_info": "11.29",
+    "tide_name": "5물",
+    "high_tides": [
+      {
+        "time": "03:16",
+        "level": 700,
+        "diff": "▲+463"
+      },
+      {
+        "time": "15:57",
+        "level": 816,
+        "diff": "▲+692"
+      }
+    ],
+    "low_tides": [
+      {
+        "time": "09:34",
+        "level": 124,
+        "diff": "▼-576"
+      },
+      {
+        "time": "22:27",
+        "level": 207,
+        "diff": "▼-609"
+      }
+    ],
+    "sun": "07:44/17:22",
+    "moon": "06:21/15:45"
+  },
+  {
+    "year": 2027,
+    "month": 12,
+    "day": 27,
+    "day_of_week": "월",
+    "lunar_info": "11.30",
+    "tide_name": "6물",
+    "high_tides": [
+      {
+        "time": "04:04",
+        "level": 723,
+        "diff": "▲+516"
+      },
+      {
+        "time": "16:40",
+        "level": 836,
+        "diff": "▲+736"
+      }
+    ],
+    "low_tides": [
+      {
+        "time": "10:20",
+        "level": 100,
+        "diff": "▼-623"
+      },
+      {
+        "time": "23:11",
+        "level": 184,
+        "diff": "▼-652"
+      }
+    ],
+    "sun": "07:45/17:23",
+    "moon": "07:17/16:39"
+  },
+  {
+    "year": 2027,
+    "month": 12,
+    "day": 28,
+    "day_of_week": "화",
+    "lunar_info": "12.1",
+    "tide_name": "7물",
+    "high_tides": [
+      {
+        "time": "04:46",
+        "level": 742,
+        "diff": "▲+558"
+      },
+      {
+        "time": "17:18",
+        "level": 845,
+        "diff": "▲+759"
+      }
+    ],
+    "low_tides": [
+      {
+        "time": "11:02",
+        "level": 86,
+        "diff": "▼-656"
+      },
+      {
+        "time": "23:50",
+        "level": 170,
+        "diff": "▼-675"
+      }
+    ],
+    "sun": "07:45/17:23",
+    "moon": "08:05/17:38"
+  },
+  {
+    "year": 2027,
+    "month": 12,
+    "day": 29,
+    "day_of_week": "수",
+    "lunar_info": "12.2",
+    "tide_name": "8물",
+    "high_tides": [
+      {
+        "time": "05:25",
+        "level": 754,
+        "diff": "▲+584"
+      },
+      {
+        "time": "17:53",
+        "level": 847,
+        "diff": "▲+768"
+      }
+    ],
+    "low_tides": [
+      {
+        "time": "11:40",
+        "level": 79,
+        "diff": "▼-675"
+      }
+    ],
+    "sun": "07:45/17:24",
+    "moon": "08:46/18:38"
+  },
+  {
+    "year": 2027,
+    "month": 12,
+    "day": 30,
+    "day_of_week": "목",
+    "lunar_info": "12.3",
+    "tide_name": "9물",
+    "high_tides": [
+      {
+        "time": "06:01",
+        "level": 759,
+        "diff": "▲+596"
+      },
+      {
+        "time": "18:24",
+        "level": 844,
+        "diff": "▲+765"
+      }
+    ],
+    "low_tides": [
+      {
+        "time": "00:25",
+        "level": 163,
+        "diff": "▼-684"
+      },
+      {
+        "time": "12:15",
+        "level": 79,
+        "diff": "▼-680"
+      }
+    ],
+    "sun": "07:46/17:25",
+    "moon": "09:21/19:39"
+  },
+  {
+    "year": 2027,
+    "month": 12,
+    "day": 31,
+    "day_of_week": "금",
+    "lunar_info": "12.4",
+    "tide_name": "10물",
+    "high_tides": [
+      {
+        "time": "06:34",
+        "level": 758,
+        "diff": "▲+596"
+      },
+      {
+        "time": "18:54",
+        "level": 836,
+        "diff": "▲+750"
+      }
+    ],
+    "low_tides": [
+      {
+        "time": "00:57",
+        "level": 162,
+        "diff": "▼-682"
+      },
+      {
+        "time": "12:48",
+        "level": 86,
+        "diff": "▼-672"
+      }
+    ],
+    "sun": "07:46/17:26",
+    "moon": "09:50/20:37"
+  }
+]
