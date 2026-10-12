@@ -11,7 +11,7 @@ BEGIN:VEVENT
 SUMMARY:🔴무시/조류세기330(47%)-[해]
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270101@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 01월 01일 (금)\n🌙 음력/월령: 11.24\n🌊 물때:
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:🔴1물/조류세기293(42%)-[해]
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270102@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 01월 02일 (토)\n🌙 음력/월령: 11.25\n🌊 물때:
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:🔴2물/조류세기329(47%)-[해]
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270103@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 01월 03일 (일)\n🌙 음력/월령: 11.26\n🌊 물때:
@@ -86,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:🔴3물/조류세기325(46%)-[해]
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270104@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 01월 04일 (월)\n🌙 음력/월령: 11.27\n🌊 물때:
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:🔴4물/조류세기364(52%)-[해]
 DTSTART;VALUE=DATE:20270105
 DTEND;VALUE=DATE:20270106
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270105@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 01월 05일 (화)\n🌙 음력/월령: 11.28\n🌊 물때:
@@ -136,7 +136,7 @@ BEGIN:VEVENT
 SUMMARY:🔴5물/조류세기405(58%)-[해]
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270106@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 01월 06일 (수)\n🌙 음력/월령: 11.29\n🌊 물때:
@@ -161,7 +161,7 @@ BEGIN:VEVENT
 SUMMARY:🔴6물/조류세기443(63%)-[해]
 DTSTART;VALUE=DATE:20270107
 DTEND;VALUE=DATE:20270108
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270107@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 01월 07일 (목)\n🌙 음력/월령: 11.30\n🌊 물때:
@@ -186,7 +186,7 @@ BEGIN:VEVENT
 SUMMARY:🔴7물/조류세기476(68%)-[해]
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270108@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 01월 08일 (금)\n🌙 음력/월령: 12.1\n🌊 물때: 
@@ -211,7 +211,7 @@ BEGIN:VEVENT
 SUMMARY:🔴8물/조류세기503(72%)-[해]
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270109@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 01월 09일 (토)\n🌙 음력/월령: 12.2\n🌊 물때: 
@@ -236,7 +236,7 @@ BEGIN:VEVENT
 SUMMARY:🔴9물/조류세기552(79%)-[해]
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270110@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 01월 10일 (일)\n🌙 음력/월령: 12.3\n🌊 물때: 
@@ -261,7 +261,7 @@ BEGIN:VEVENT
 SUMMARY:🔴10물/조류세기524(75%)-[해]
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270112
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270111@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 01월 11일 (월)\n🌙 음력/월령: 12.4\n🌊 물때: 
@@ -286,7 +286,7 @@ BEGIN:VEVENT
 SUMMARY:🔴11물/조류세기518(74%)-[해]
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270112@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 01월 12일 (화)\n🌙 음력/월령: 12.5\n🌊 물때: 
@@ -311,7 +311,7 @@ BEGIN:VEVENT
 SUMMARY:🔴12물/조류세기498(71%)-[해]
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270113@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 01월 13일 (수)\n🌙 음력/월령: 12.6\n🌊 물때: 
@@ -336,7 +336,7 @@ BEGIN:VEVENT
 SUMMARY:🔴13물/조류세기464(66%)-[해]
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270114@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 01월 14일 (목)\n🌙 음력/월령: 12.7\n🌊 물때: 
@@ -361,7 +361,7 @@ BEGIN:VEVENT
 SUMMARY:🔴조금/조류세기419(60%)-[해]
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270115@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 01월 15일 (금)\n🌙 음력/월령: 12.8\n🌊 물때: 
@@ -386,7 +386,7 @@ BEGIN:VEVENT
 SUMMARY:🔴무시/조류세기364(52%)-[해]
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270116@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 01월 16일 (토)\n🌙 음력/월령: 12.9\n🌊 물때: 
@@ -411,7 +411,7 @@ BEGIN:VEVENT
 SUMMARY:🔴1물/조류세기318(45%)-[해]
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270117@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 01월 17일 (일)\n🌙 음력/월령: 12.10\n🌊 물때:
@@ -436,7 +436,7 @@ BEGIN:VEVENT
 SUMMARY:🔴2물/조류세기304(43%)-[해]
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270119
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270118@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 01월 18일 (월)\n🌙 음력/월령: 12.11\n🌊 물때:
@@ -461,7 +461,7 @@ BEGIN:VEVENT
 SUMMARY:🔴3물/조류세기387(55%)-[해]
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270120
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270119@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 01월 19일 (화)\n🌙 음력/월령: 12.12\n🌊 물때:
@@ -486,7 +486,7 @@ BEGIN:VEVENT
 SUMMARY:🔴4물/조류세기402(57%)-[해]
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270120@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 01월 20일 (수)\n🌙 음력/월령: 12.13\n🌊 물때:
@@ -511,7 +511,7 @@ BEGIN:VEVENT
 SUMMARY:🔴5물/조류세기483(69%)-[해]
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270121@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 01월 21일 (목)\n🌙 음력/월령: 12.14\n🌊 물때:
@@ -536,7 +536,7 @@ BEGIN:VEVENT
 SUMMARY:⚪6물/조류세기562(80%)-[해]
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270122@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 01월 22일 (금)\n🌙 음력/월령: 12.15\n🌊 물때:
@@ -561,7 +561,7 @@ BEGIN:VEVENT
 SUMMARY:🟡7물/조류세기621(89%)-[해]
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270123@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 01월 23일 (토)\n🌙 음력/월령: 12.16\n🌊 물때:
@@ -583,27 +583,27 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🟢8물/조류세기695(99%)-[해]
+SUMMARY:🟢8물/조류세기695(최대세기)-[해]
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270124@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 01월 24일 (일)\n🌙 음력/월령: 12.17\n🌊 물때:
-  8물\n📏 일일 평균 고저차: 695 cm (99% / 기준 700cm)\n📏 일
- 일 최대 고저차: 749 cm\n\n🤿 [해루질 적합도]: ★★★★
- ★\n👉 평가: 최상 🟢 (해루질 황금 물때! 물 극도로 빠
- 짐\, 대박 기대)\n🔻 최저 간조(가장 물 많이 빠질 때): 11
- :20 (-29cm)\n\n⏰ [해루질 시간 가이드]:\n  • 🚪 진입 추천
- : 간조 2시간 전부터 진입\n  • 🚨 철수 필수: 간조 시각
-  1시간 후 반드시 퇴수! (물돌이 시작되면 위험)\n\n🔻 [
- 당일 간조 시각 & 조위]:\n  • 11:20 : 수위 -29cm (▼-641)\n\n
- 🌊 [당일 만조 시각 & 조위]:\n  • 04:32 : 수위 612cm (▲+549
- )\n  • 17:11 : 수위 720cm (▲+749)\n\n☀️ 일출/일몰: 07:43/17:
- 51\n🌕 월출/월몰: 20:03/08:48\n\n⚠️ 해루질 안전수칙:\n  1
- . 반드시 2인 1조 이상 동행\n  2. 구명조끼 및 호루라기/
- 스마트폰 방수팩 필수\n  3. 안개 발생 시 즉시 나침반/스
- 마트폰 지도 확인 후 퇴수
+  8물\n📏 일일 평균 고저차: 695 cm (최대세기 (99%) / 기준 7
+ 00cm)\n📏 일일 최대 고저차: 749 cm\n\n🤿 [해루질 적합도]:
+  ★★★★★\n👉 평가: 최상 🟢 (해루질 황금 물때! 물 
+ 극도로 빠짐\, 대박 기대)\n🔻 최저 간조(가장 물 많이 
+ 빠질 때): 11:20 (-29cm)\n\n⏰ [해루질 시간 가이드]:\n  • 
+ 🚪 진입 추천: 간조 2시간 전부터 진입\n  • 🚨 철수 필
+ 수: 간조 시각 1시간 후 반드시 퇴수! (물돌이 시작되면 
+ 위험)\n\n🔻 [당일 간조 시각 & 조위]:\n  • 11:20 : 수위 -29
+ cm (▼-641)\n\n🌊 [당일 만조 시각 & 조위]:\n  • 04:32 : 수
+ 위 612cm (▲+549)\n  • 17:11 : 수위 720cm (▲+749)\n\n☀️ 일출
+ /일몰: 07:43/17:51\n🌕 월출/월몰: 20:03/08:48\n\n⚠️ 해루질 
+ 안전수칙:\n  1. 반드시 2인 1조 이상 동행\n  2. 구명조끼 
+ 및 호루라기/스마트폰 방수팩 필수\n  3. 안개 발생 시 즉
+ 시 나침반/스마트폰 지도 확인 후 퇴수
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -611,7 +611,7 @@ BEGIN:VEVENT
 SUMMARY:🟢9물/조류세기663(95%)-[해]
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270126
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270125@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 01월 25일 (월)\n🌙 음력/월령: 12.18\n🌊 물때:
@@ -636,7 +636,7 @@ BEGIN:VEVENT
 SUMMARY:🟡10물/조류세기622(89%)-[해]
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270127
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270126@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 01월 26일 (화)\n🌙 음력/월령: 12.19\n🌊 물때:
@@ -661,7 +661,7 @@ BEGIN:VEVENT
 SUMMARY:⚪11물/조류세기600(86%)-[해]
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270127@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 01월 27일 (수)\n🌙 음력/월령: 12.20\n🌊 물때:
@@ -686,7 +686,7 @@ BEGIN:VEVENT
 SUMMARY:🔴12물/조류세기526(75%)-[해]
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270128@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 01월 28일 (목)\n🌙 음력/월령: 12.21\n🌊 물때:
@@ -711,7 +711,7 @@ BEGIN:VEVENT
 SUMMARY:🔴13물/조류세기433(62%)-[해]
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270129@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 01월 29일 (금)\n🌙 음력/월령: 12.22\n🌊 물때:
@@ -736,7 +736,7 @@ BEGIN:VEVENT
 SUMMARY:🔴조금/조류세기332(47%)-[해]
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270130@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 01월 30일 (토)\n🌙 음력/월령: 12.23\n🌊 물때:
@@ -761,7 +761,7 @@ BEGIN:VEVENT
 SUMMARY:🔴무시/조류세기245(35%)-[해]
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270131@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 01월 31일 (일)\n🌙 음력/월령: 12.24\n🌊 물때:
@@ -786,7 +786,7 @@ BEGIN:VEVENT
 SUMMARY:🔴1물/조류세기214(31%)-[해]
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270201@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 02월 01일 (월)\n🌙 음력/월령: 12.25\n🌊 물때:
@@ -811,7 +811,7 @@ BEGIN:VEVENT
 SUMMARY:🔴2물/조류세기283(40%)-[해]
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270203
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270202@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 02월 02일 (화)\n🌙 음력/월령: 12.26\n🌊 물때:
@@ -836,7 +836,7 @@ BEGIN:VEVENT
 SUMMARY:🔴3물/조류세기296(42%)-[해]
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270203@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 02월 03일 (수)\n🌙 음력/월령: 12.27\n🌊 물때:
@@ -861,7 +861,7 @@ BEGIN:VEVENT
 SUMMARY:🔴4물/조류세기366(52%)-[해]
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270205
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270204@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 02월 04일 (목)\n🌙 음력/월령: 12.28\n🌊 물때:
@@ -886,7 +886,7 @@ BEGIN:VEVENT
 SUMMARY:🔴5물/조류세기434(62%)-[해]
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270205@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 02월 05일 (금)\n🌙 음력/월령: 12.29\n🌊 물때:
@@ -911,7 +911,7 @@ BEGIN:VEVENT
 SUMMARY:🔴6물/조류세기492(70%)-[해]
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270206@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 02월 06일 (토)\n🌙 음력/월령: 12.30\n🌊 물때:
@@ -936,7 +936,7 @@ BEGIN:VEVENT
 SUMMARY:🔴7물/조류세기539(77%)-[해]
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270207@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 02월 07일 (일)\n🌙 음력/월령: 1.1\n🌊 물때: 7
@@ -961,7 +961,7 @@ BEGIN:VEVENT
 SUMMARY:⚪8물/조류세기570(81%)-[해]
 DTSTART;VALUE=DATE:20270208
 DTEND;VALUE=DATE:20270209
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270208@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 02월 08일 (월)\n🌙 음력/월령: 1.2\n🌊 물때: 8
@@ -986,7 +986,7 @@ BEGIN:VEVENT
 SUMMARY:⚪9물/조류세기598(85%)-[해]
 DTSTART;VALUE=DATE:20270209
 DTEND;VALUE=DATE:20270210
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270209@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 02월 09일 (화)\n🌙 음력/월령: 1.3\n🌊 물때: 9
@@ -1011,7 +1011,7 @@ BEGIN:VEVENT
 SUMMARY:⚪10물/조류세기580(83%)-[해]
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270210@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 02월 10일 (수)\n🌙 음력/월령: 1.4\n🌊 물때: 1
@@ -1036,7 +1036,7 @@ BEGIN:VEVENT
 SUMMARY:⚪11물/조류세기564(81%)-[해]
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270212
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270211@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 02월 11일 (목)\n🌙 음력/월령: 1.5\n🌊 물때: 1
@@ -1061,7 +1061,7 @@ BEGIN:VEVENT
 SUMMARY:🔴12물/조류세기530(76%)-[해]
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270212@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 02월 12일 (금)\n🌙 음력/월령: 1.6\n🌊 물때: 1
@@ -1086,7 +1086,7 @@ BEGIN:VEVENT
 SUMMARY:🔴13물/조류세기475(68%)-[해]
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270213@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 02월 13일 (토)\n🌙 음력/월령: 1.7\n🌊 물때: 1
@@ -1111,7 +1111,7 @@ BEGIN:VEVENT
 SUMMARY:🔴조금/조류세기402(57%)-[해]
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270214@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 02월 14일 (일)\n🌙 음력/월령: 1.8\n🌊 물때: 
@@ -1136,7 +1136,7 @@ BEGIN:VEVENT
 SUMMARY:🔴무시/조류세기319(46%)-[해]
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270216
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270215@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 02월 15일 (월)\n🌙 음력/월령: 1.9\n🌊 물때: 
@@ -1161,7 +1161,7 @@ BEGIN:VEVENT
 SUMMARY:🔴1물/조류세기267(38%)-[해]
 DTSTART;VALUE=DATE:20270216
 DTEND;VALUE=DATE:20270217
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270216@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 02월 16일 (화)\n🌙 음력/월령: 1.10\n🌊 물때: 
@@ -1186,7 +1186,7 @@ BEGIN:VEVENT
 SUMMARY:🔴2물/조류세기346(49%)-[해]
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270217@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 02월 17일 (수)\n🌙 음력/월령: 1.11\n🌊 물때: 
@@ -1211,7 +1211,7 @@ BEGIN:VEVENT
 SUMMARY:🔴3물/조류세기372(53%)-[해]
 DTSTART;VALUE=DATE:20270218
 DTEND;VALUE=DATE:20270219
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270218@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 02월 18일 (목)\n🌙 음력/월령: 1.12\n🌊 물때: 
@@ -1236,7 +1236,7 @@ BEGIN:VEVENT
 SUMMARY:🔴4물/조류세기478(68%)-[해]
 DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270220
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270219@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 02월 19일 (금)\n🌙 음력/월령: 1.13\n🌊 물때: 
@@ -1261,7 +1261,7 @@ BEGIN:VEVENT
 SUMMARY:⚪5물/조류세기576(82%)-[해]
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270220@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 02월 20일 (토)\n🌙 음력/월령: 1.14\n🌊 물때: 
@@ -1286,7 +1286,7 @@ BEGIN:VEVENT
 SUMMARY:🟡6물/조류세기648(93%)-[해]
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270221@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 02월 21일 (일)\n🌙 음력/월령: 1.15\n🌊 물때: 
@@ -1311,7 +1311,7 @@ BEGIN:VEVENT
 SUMMARY:🟢7물/조류세기688(98%)-[해]
 DTSTART;VALUE=DATE:20270222
 DTEND;VALUE=DATE:20270223
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270222@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 02월 22일 (월)\n🌙 음력/월령: 1.16\n🌊 물때: 
@@ -1333,27 +1333,27 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🟢8물/조류세기710(101%)-[해]
+SUMMARY:🟢8물/조류세기710(최대세기)-[해]
 DTSTART;VALUE=DATE:20270223
 DTEND;VALUE=DATE:20270224
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270223@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 02월 23일 (화)\n🌙 음력/월령: 1.17\n🌊 물때: 
- 8물\n📏 일일 평균 고저차: 710 cm (101% / 기준 700cm)\n📏 일
- 일 최대 고저차: 724 cm\n\n🤿 [해루질 적합도]: ★★★★
- ★\n👉 평가: 최상 🟢 (해루질 황금 물때! 물 극도로 빠
- 짐\, 대박 기대)\n🔻 최저 간조(가장 물 많이 빠질 때): 11
- :48 (-24cm)\n\n⏰ [해루질 시간 가이드]:\n  • 🚪 진입 추천
- : 간조 2시간 전부터 진입\n  • 🚨 철수 필수: 간조 시각
-  1시간 후 반드시 퇴수! (물돌이 시작되면 위험)\n\n🔻 [
- 당일 간조 시각 & 조위]:\n  • 11:48 : 수위 -24cm (▼-697)\n\n
- 🌊 [당일 만조 시각 & 조위]:\n  • 05:02 : 수위 673cm (▲+659
- )\n  • 17:23 : 수위 700cm (▲+724)\n\n☀️ 일출/일몰: 07:14/18:
- 23\n🌕 월출/월몰: 21:08/08:11\n\n⚠️ 해루질 안전수칙:\n  1
- . 반드시 2인 1조 이상 동행\n  2. 구명조끼 및 호루라기/
- 스마트폰 방수팩 필수\n  3. 안개 발생 시 즉시 나침반/스
- 마트폰 지도 확인 후 퇴수
+ 8물\n📏 일일 평균 고저차: 710 cm (최대세기 (101%) / 기준 7
+ 00cm)\n📏 일일 최대 고저차: 724 cm\n\n🤿 [해루질 적합도]:
+  ★★★★★\n👉 평가: 최상 🟢 (해루질 황금 물때! 물 
+ 극도로 빠짐\, 대박 기대)\n🔻 최저 간조(가장 물 많이 
+ 빠질 때): 11:48 (-24cm)\n\n⏰ [해루질 시간 가이드]:\n  • 
+ 🚪 진입 추천: 간조 2시간 전부터 진입\n  • 🚨 철수 필
+ 수: 간조 시각 1시간 후 반드시 퇴수! (물돌이 시작되면 
+ 위험)\n\n🔻 [당일 간조 시각 & 조위]:\n  • 11:48 : 수위 -24
+ cm (▼-697)\n\n🌊 [당일 만조 시각 & 조위]:\n  • 05:02 : 수
+ 위 673cm (▲+659)\n  • 17:23 : 수위 700cm (▲+724)\n\n☀️ 일출
+ /일몰: 07:14/18:23\n🌕 월출/월몰: 21:08/08:11\n\n⚠️ 해루질 
+ 안전수칙:\n  1. 반드시 2인 1조 이상 동행\n  2. 구명조끼 
+ 및 호루라기/스마트폰 방수팩 필수\n  3. 안개 발생 시 즉
+ 시 나침반/스마트폰 지도 확인 후 퇴수
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1361,7 +1361,7 @@ BEGIN:VEVENT
 SUMMARY:🟢9물/조류세기672(96%)-[해]
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270224@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 02월 24일 (수)\n🌙 음력/월령: 1.18\n🌊 물때: 
@@ -1386,7 +1386,7 @@ BEGIN:VEVENT
 SUMMARY:🟡10물/조류세기621(89%)-[해]
 DTSTART;VALUE=DATE:20270225
 DTEND;VALUE=DATE:20270226
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270225@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 02월 25일 (목)\n🌙 음력/월령: 1.19\n🌊 물때: 
@@ -1411,7 +1411,7 @@ BEGIN:VEVENT
 SUMMARY:🔴11물/조류세기542(77%)-[해]
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270227
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270226@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 02월 26일 (금)\n🌙 음력/월령: 1.20\n🌊 물때: 
@@ -1436,7 +1436,7 @@ BEGIN:VEVENT
 SUMMARY:🔴12물/조류세기444(63%)-[해]
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270227@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 02월 27일 (토)\n🌙 음력/월령: 1.21\n🌊 물때: 
@@ -1461,7 +1461,7 @@ BEGIN:VEVENT
 SUMMARY:🔴13물/조류세기334(48%)-[해]
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270228@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 02월 28일 (일)\n🌙 음력/월령: 1.22\n🌊 물때: 
@@ -1486,7 +1486,7 @@ BEGIN:VEVENT
 SUMMARY:🔴조금/조류세기228(33%)-[해]
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270302
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270301@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 03월 01일 (월)\n🌙 음력/월령: 1.23\n🌊 물때: 
@@ -1511,7 +1511,7 @@ BEGIN:VEVENT
 SUMMARY:🔴무시/조류세기167(24%)-[해]
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270303
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270302@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 03월 02일 (화)\n🌙 음력/월령: 1.24\n🌊 물때: 
@@ -1536,7 +1536,7 @@ BEGIN:VEVENT
 SUMMARY:🔴1물/조류세기230(33%)-[해]
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270304
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270303@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 03월 03일 (수)\n🌙 음력/월령: 1.25\n🌊 물때: 
@@ -1561,7 +1561,7 @@ BEGIN:VEVENT
 SUMMARY:🔴2물/조류세기258(37%)-[해]
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270304@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 03월 04일 (목)\n🌙 음력/월령: 1.26\n🌊 물때: 
@@ -1586,7 +1586,7 @@ BEGIN:VEVENT
 SUMMARY:🔴3물/조류세기348(50%)-[해]
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270306
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270305@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 03월 05일 (금)\n🌙 음력/월령: 1.27\n🌊 물때: 
@@ -1611,7 +1611,7 @@ BEGIN:VEVENT
 SUMMARY:🔴4물/조류세기434(62%)-[해]
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270306@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 03월 06일 (토)\n🌙 음력/월령: 1.28\n🌊 물때: 
@@ -1636,7 +1636,7 @@ BEGIN:VEVENT
 SUMMARY:🔴5물/조류세기508(73%)-[해]
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270307@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 03월 07일 (일)\n🌙 음력/월령: 1.29\n🌊 물때: 
@@ -1661,7 +1661,7 @@ BEGIN:VEVENT
 SUMMARY:⚪7물/조류세기562(80%)-[해]
 DTSTART;VALUE=DATE:20270308
 DTEND;VALUE=DATE:20270309
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270308@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 03월 08일 (월)\n🌙 음력/월령: 2.1\n🌊 물때: 7
@@ -1686,7 +1686,7 @@ BEGIN:VEVENT
 SUMMARY:⚪8물/조류세기598(85%)-[해]
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270310
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270309@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 03월 09일 (화)\n🌙 음력/월령: 2.2\n🌊 물때: 8
@@ -1711,7 +1711,7 @@ BEGIN:VEVENT
 SUMMARY:🟡9물/조류세기614(88%)-[해]
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270311
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270310@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 03월 10일 (수)\n🌙 음력/월령: 2.3\n🌊 물때: 9
@@ -1736,7 +1736,7 @@ BEGIN:VEVENT
 SUMMARY:⚪10물/조류세기603(86%)-[해]
 DTSTART;VALUE=DATE:20270311
 DTEND;VALUE=DATE:20270312
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270311@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 03월 11일 (목)\n🌙 음력/월령: 2.4\n🌊 물때: 1
@@ -1761,7 +1761,7 @@ BEGIN:VEVENT
 SUMMARY:⚪11물/조류세기592(85%)-[해]
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270313
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270312@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 03월 12일 (금)\n🌙 음력/월령: 2.5\n🌊 물때: 1
@@ -1786,7 +1786,7 @@ BEGIN:VEVENT
 SUMMARY:🔴12물/조류세기552(79%)-[해]
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270313@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 03월 13일 (토)\n🌙 음력/월령: 2.6\n🌊 물때: 1
@@ -1811,7 +1811,7 @@ BEGIN:VEVENT
 SUMMARY:🔴13물/조류세기488(70%)-[해]
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270314@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 03월 14일 (일)\n🌙 음력/월령: 2.7\n🌊 물때: 1
@@ -1836,7 +1836,7 @@ BEGIN:VEVENT
 SUMMARY:🔴조금/조류세기401(57%)-[해]
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270316
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270315@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 03월 15일 (월)\n🌙 음력/월령: 2.8\n🌊 물때: 
@@ -1861,7 +1861,7 @@ BEGIN:VEVENT
 SUMMARY:🔴무시/조류세기306(44%)-[해]
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270317
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270316@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 03월 16일 (화)\n🌙 음력/월령: 2.9\n🌊 물때: 
@@ -1886,7 +1886,7 @@ BEGIN:VEVENT
 SUMMARY:🔴1물/조류세기254(36%)-[해]
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270318
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270317@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 03월 17일 (수)\n🌙 음력/월령: 2.10\n🌊 물때: 
@@ -1911,7 +1911,7 @@ BEGIN:VEVENT
 SUMMARY:🔴2물/조류세기341(49%)-[해]
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270319
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270318@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 03월 18일 (목)\n🌙 음력/월령: 2.11\n🌊 물때: 
@@ -1936,7 +1936,7 @@ BEGIN:VEVENT
 SUMMARY:🔴3물/조류세기376(54%)-[해]
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270319@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 03월 19일 (금)\n🌙 음력/월령: 2.12\n🌊 물때: 
@@ -1961,7 +1961,7 @@ BEGIN:VEVENT
 SUMMARY:🔴4물/조류세기486(69%)-[해]
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270320@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 03월 20일 (토)\n🌙 음력/월령: 2.13\n🌊 물때: 
@@ -1986,7 +1986,7 @@ BEGIN:VEVENT
 SUMMARY:⚪5물/조류세기581(83%)-[해]
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270321@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 03월 21일 (일)\n🌙 음력/월령: 2.14\n🌊 물때: 
@@ -2011,7 +2011,7 @@ BEGIN:VEVENT
 SUMMARY:🟡6물/조류세기644(92%)-[해]
 DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270323
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270322@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 03월 22일 (월)\n🌙 음력/월령: 2.15\n🌊 물때: 
@@ -2036,7 +2036,7 @@ BEGIN:VEVENT
 SUMMARY:🟢7물/조류세기672(96%)-[해]
 DTSTART;VALUE=DATE:20270323
 DTEND;VALUE=DATE:20270324
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270323@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 03월 23일 (화)\n🌙 음력/월령: 2.16\n🌊 물때: 
@@ -2061,7 +2061,7 @@ BEGIN:VEVENT
 SUMMARY:🟢8물/조류세기668(95%)-[해]
 DTSTART;VALUE=DATE:20270324
 DTEND;VALUE=DATE:20270325
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270324@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 03월 24일 (수)\n🌙 음력/월령: 2.17\n🌊 물때: 
@@ -2086,7 +2086,7 @@ BEGIN:VEVENT
 SUMMARY:🟡9물/조류세기625(89%)-[해]
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270326
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270325@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 03월 25일 (목)\n🌙 음력/월령: 2.18\n🌊 물때: 
@@ -2111,7 +2111,7 @@ BEGIN:VEVENT
 SUMMARY:⚪10물/조류세기591(84%)-[해]
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270326@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 03월 26일 (금)\n🌙 음력/월령: 2.19\n🌊 물때: 
@@ -2136,7 +2136,7 @@ BEGIN:VEVENT
 SUMMARY:🔴11물/조류세기520(74%)-[해]
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270328
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270327@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 03월 27일 (토)\n🌙 음력/월령: 2.20\n🌊 물때: 
@@ -2161,7 +2161,7 @@ BEGIN:VEVENT
 SUMMARY:🔴12물/조류세기434(62%)-[해]
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270328@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 03월 28일 (일)\n🌙 음력/월령: 2.21\n🌊 물때: 
@@ -2186,7 +2186,7 @@ BEGIN:VEVENT
 SUMMARY:🔴13물/조류세기338(48%)-[해]
 DTSTART;VALUE=DATE:20270329
 DTEND;VALUE=DATE:20270330
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270329@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 03월 29일 (월)\n🌙 음력/월령: 2.22\n🌊 물때: 
@@ -2211,7 +2211,7 @@ BEGIN:VEVENT
 SUMMARY:🔴조금/조류세기242(35%)-[해]
 DTSTART;VALUE=DATE:20270330
 DTEND;VALUE=DATE:20270331
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270330@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 03월 30일 (화)\n🌙 음력/월령: 2.23\n🌊 물때: 
@@ -2236,7 +2236,7 @@ BEGIN:VEVENT
 SUMMARY:🔴무시/조류세기170(24%)-[해]
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270401
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270331@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 03월 31일 (수)\n🌙 음력/월령: 2.24\n🌊 물때: 
@@ -2261,7 +2261,7 @@ BEGIN:VEVENT
 SUMMARY:🔴1물/조류세기212(30%)-[해]
 DTSTART;VALUE=DATE:20270401
 DTEND;VALUE=DATE:20270402
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270401@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 04월 01일 (목)\n🌙 음력/월령: 2.25\n🌊 물때: 
@@ -2286,7 +2286,7 @@ BEGIN:VEVENT
 SUMMARY:🔴2물/조류세기234(33%)-[해]
 DTSTART;VALUE=DATE:20270402
 DTEND;VALUE=DATE:20270403
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270402@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 04월 02일 (금)\n🌙 음력/월령: 2.26\n🌊 물때: 
@@ -2311,7 +2311,7 @@ BEGIN:VEVENT
 SUMMARY:🔴3물/조류세기326(47%)-[해]
 DTSTART;VALUE=DATE:20270403
 DTEND;VALUE=DATE:20270404
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270403@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 04월 03일 (토)\n🌙 음력/월령: 2.27\n🌊 물때: 
@@ -2336,7 +2336,7 @@ BEGIN:VEVENT
 SUMMARY:🔴4물/조류세기418(60%)-[해]
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270404@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 04월 04일 (일)\n🌙 음력/월령: 2.28\n🌊 물때: 
@@ -2361,7 +2361,7 @@ BEGIN:VEVENT
 SUMMARY:🔴5물/조류세기494(71%)-[해]
 DTSTART;VALUE=DATE:20270405
 DTEND;VALUE=DATE:20270406
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270405@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 04월 05일 (월)\n🌙 음력/월령: 2.29\n🌊 물때: 
@@ -2386,7 +2386,7 @@ BEGIN:VEVENT
 SUMMARY:🔴6물/조류세기554(79%)-[해]
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270407
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270406@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 04월 06일 (화)\n🌙 음력/월령: 2.30\n🌊 물때: 
@@ -2411,7 +2411,7 @@ BEGIN:VEVENT
 SUMMARY:⚪7물/조류세기591(84%)-[해]
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270407@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 04월 07일 (수)\n🌙 음력/월령: 3.1\n🌊 물때: 7
@@ -2436,7 +2436,7 @@ BEGIN:VEVENT
 SUMMARY:⚪8물/조류세기608(87%)-[해]
 DTSTART;VALUE=DATE:20270408
 DTEND;VALUE=DATE:20270409
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270408@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 04월 08일 (목)\n🌙 음력/월령: 3.2\n🌊 물때: 8
@@ -2461,7 +2461,7 @@ BEGIN:VEVENT
 SUMMARY:⚪9물/조류세기604(86%)-[해]
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270410
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270409@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 04월 09일 (금)\n🌙 음력/월령: 3.3\n🌊 물때: 9
@@ -2486,7 +2486,7 @@ BEGIN:VEVENT
 SUMMARY:🔴10물/조류세기551(79%)-[해]
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270411
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270410@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 04월 10일 (토)\n🌙 음력/월령: 3.4\n🌊 물때: 1
@@ -2511,7 +2511,7 @@ BEGIN:VEVENT
 SUMMARY:🔴11물/조류세기541(77%)-[해]
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270411@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 04월 11일 (일)\n🌙 음력/월령: 3.5\n🌊 물때: 1
@@ -2536,7 +2536,7 @@ BEGIN:VEVENT
 SUMMARY:🔴12물/조류세기475(68%)-[해]
 DTSTART;VALUE=DATE:20270412
 DTEND;VALUE=DATE:20270413
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270412@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 04월 12일 (월)\n🌙 음력/월령: 3.6\n🌊 물때: 1
@@ -2561,7 +2561,7 @@ BEGIN:VEVENT
 SUMMARY:🔴13물/조류세기393(56%)-[해]
 DTSTART;VALUE=DATE:20270413
 DTEND;VALUE=DATE:20270414
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270413@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 04월 13일 (화)\n🌙 음력/월령: 3.7\n🌊 물때: 1
@@ -2586,7 +2586,7 @@ BEGIN:VEVENT
 SUMMARY:🔴조금/조류세기316(45%)-[해]
 DTSTART;VALUE=DATE:20270414
 DTEND;VALUE=DATE:20270415
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270414@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 04월 14일 (수)\n🌙 음력/월령: 3.8\n🌊 물때: 
@@ -2611,7 +2611,7 @@ BEGIN:VEVENT
 SUMMARY:🔴무시/조류세기285(41%)-[해]
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270415@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 04월 15일 (목)\n🌙 음력/월령: 3.9\n🌊 물때: 
@@ -2636,7 +2636,7 @@ BEGIN:VEVENT
 SUMMARY:🔴1물/조류세기358(51%)-[해]
 DTSTART;VALUE=DATE:20270416
 DTEND;VALUE=DATE:20270417
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270416@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 04월 16일 (금)\n🌙 음력/월령: 3.10\n🌊 물때: 
@@ -2661,7 +2661,7 @@ BEGIN:VEVENT
 SUMMARY:🔴2물/조류세기390(56%)-[해]
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270418
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270417@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 04월 17일 (토)\n🌙 음력/월령: 3.11\n🌊 물때: 
@@ -2686,7 +2686,7 @@ BEGIN:VEVENT
 SUMMARY:🔴3물/조류세기478(68%)-[해]
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270418@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 04월 18일 (일)\n🌙 음력/월령: 3.12\n🌊 물때: 
@@ -2711,7 +2711,7 @@ BEGIN:VEVENT
 SUMMARY:🔴4물/조류세기550(79%)-[해]
 DTSTART;VALUE=DATE:20270419
 DTEND;VALUE=DATE:20270420
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270419@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 04월 19일 (월)\n🌙 음력/월령: 3.13\n🌊 물때: 
@@ -2736,7 +2736,7 @@ BEGIN:VEVENT
 SUMMARY:⚪5물/조류세기594(85%)-[해]
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270421
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270420@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 04월 20일 (화)\n🌙 음력/월령: 3.14\n🌊 물때: 
@@ -2761,7 +2761,7 @@ BEGIN:VEVENT
 SUMMARY:⚪6물/조류세기608(87%)-[해]
 DTSTART;VALUE=DATE:20270421
 DTEND;VALUE=DATE:20270422
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270421@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 04월 21일 (수)\n🌙 음력/월령: 3.15\n🌊 물때: 
@@ -2786,7 +2786,7 @@ BEGIN:VEVENT
 SUMMARY:⚪7물/조류세기598(85%)-[해]
 DTSTART;VALUE=DATE:20270422
 DTEND;VALUE=DATE:20270423
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270422@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 04월 22일 (목)\n🌙 음력/월령: 3.16\n🌊 물때: 
@@ -2811,7 +2811,7 @@ BEGIN:VEVENT
 SUMMARY:⚪8물/조류세기568(81%)-[해]
 DTSTART;VALUE=DATE:20270423
 DTEND;VALUE=DATE:20270424
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270423@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 04월 23일 (금)\n🌙 음력/월령: 3.17\n🌊 물때: 
@@ -2836,7 +2836,7 @@ BEGIN:VEVENT
 SUMMARY:🔴9물/조류세기498(71%)-[해]
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270425
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270424@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 04월 24일 (토)\n🌙 음력/월령: 3.18\n🌊 물때: 
@@ -2861,7 +2861,7 @@ BEGIN:VEVENT
 SUMMARY:🔴10물/조류세기482(69%)-[해]
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270425@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 04월 25일 (일)\n🌙 음력/월령: 3.19\n🌊 물때: 
@@ -2886,7 +2886,7 @@ BEGIN:VEVENT
 SUMMARY:🔴11물/조류세기422(60%)-[해]
 DTSTART;VALUE=DATE:20270426
 DTEND;VALUE=DATE:20270427
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270426@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 04월 26일 (월)\n🌙 음력/월령: 3.20\n🌊 물때: 
@@ -2911,7 +2911,7 @@ BEGIN:VEVENT
 SUMMARY:🔴12물/조류세기353(50%)-[해]
 DTSTART;VALUE=DATE:20270427
 DTEND;VALUE=DATE:20270428
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270427@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 04월 27일 (화)\n🌙 음력/월령: 3.21\n🌊 물때: 
@@ -2936,7 +2936,7 @@ BEGIN:VEVENT
 SUMMARY:🔴13물/조류세기282(40%)-[해]
 DTSTART;VALUE=DATE:20270428
 DTEND;VALUE=DATE:20270429
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270428@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 04월 28일 (수)\n🌙 음력/월령: 3.22\n🌊 물때: 
@@ -2961,7 +2961,7 @@ BEGIN:VEVENT
 SUMMARY:🔴조금/조류세기224(32%)-[해]
 DTSTART;VALUE=DATE:20270429
 DTEND;VALUE=DATE:20270430
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270429@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 04월 29일 (목)\n🌙 음력/월령: 3.23\n🌊 물때: 
@@ -2986,7 +2986,7 @@ BEGIN:VEVENT
 SUMMARY:🔴무시/조류세기210(30%)-[해]
 DTSTART;VALUE=DATE:20270430
 DTEND;VALUE=DATE:20270501
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270430@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 04월 30일 (금)\n🌙 음력/월령: 3.24\n🌊 물때: 
@@ -3011,7 +3011,7 @@ BEGIN:VEVENT
 SUMMARY:🔴1물/조류세기264(38%)-[해]
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270501@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 05월 01일 (토)\n🌙 음력/월령: 3.25\n🌊 물때: 
@@ -3036,7 +3036,7 @@ BEGIN:VEVENT
 SUMMARY:🔴2물/조류세기302(43%)-[해]
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270502@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 05월 02일 (일)\n🌙 음력/월령: 3.26\n🌊 물때: 
@@ -3061,7 +3061,7 @@ BEGIN:VEVENT
 SUMMARY:🔴3물/조류세기384(55%)-[해]
 DTSTART;VALUE=DATE:20270503
 DTEND;VALUE=DATE:20270504
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270503@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 05월 03일 (월)\n🌙 음력/월령: 3.27\n🌊 물때: 
@@ -3086,7 +3086,7 @@ BEGIN:VEVENT
 SUMMARY:🔴4물/조류세기458(65%)-[해]
 DTSTART;VALUE=DATE:20270504
 DTEND;VALUE=DATE:20270505
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270504@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 05월 04일 (화)\n🌙 음력/월령: 3.28\n🌊 물때: 
@@ -3111,7 +3111,7 @@ BEGIN:VEVENT
 SUMMARY:🔴5물/조류세기517(74%)-[해]
 DTSTART;VALUE=DATE:20270505
 DTEND;VALUE=DATE:20270506
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270505@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 05월 05일 (수)\n🌙 음력/월령: 3.29\n🌊 물때: 
@@ -3136,7 +3136,7 @@ BEGIN:VEVENT
 SUMMARY:⚪7물/조류세기558(80%)-[해]
 DTSTART;VALUE=DATE:20270506
 DTEND;VALUE=DATE:20270507
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270506@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 05월 06일 (목)\n🌙 음력/월령: 4.1\n🌊 물때: 7
@@ -3161,7 +3161,7 @@ BEGIN:VEVENT
 SUMMARY:⚪8물/조류세기578(83%)-[해]
 DTSTART;VALUE=DATE:20270507
 DTEND;VALUE=DATE:20270508
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270507@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 05월 07일 (금)\n🌙 음력/월령: 4.2\n🌊 물때: 8
@@ -3186,7 +3186,7 @@ BEGIN:VEVENT
 SUMMARY:⚪9물/조류세기578(83%)-[해]
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270508@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 05월 08일 (토)\n🌙 음력/월령: 4.3\n🌊 물때: 9
@@ -3211,7 +3211,7 @@ BEGIN:VEVENT
 SUMMARY:🔴10물/조류세기522(75%)-[해]
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270509@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 05월 09일 (일)\n🌙 음력/월령: 4.4\n🌊 물때: 1
@@ -3236,7 +3236,7 @@ BEGIN:VEVENT
 SUMMARY:🔴11물/조류세기530(76%)-[해]
 DTSTART;VALUE=DATE:20270510
 DTEND;VALUE=DATE:20270511
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270510@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 05월 10일 (월)\n🌙 음력/월령: 4.5\n🌊 물때: 1
@@ -3261,7 +3261,7 @@ BEGIN:VEVENT
 SUMMARY:🔴12물/조류세기482(69%)-[해]
 DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270512
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270511@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 05월 11일 (화)\n🌙 음력/월령: 4.6\n🌊 물때: 1
@@ -3286,7 +3286,7 @@ BEGIN:VEVENT
 SUMMARY:🔴13물/조류세기424(61%)-[해]
 DTSTART;VALUE=DATE:20270512
 DTEND;VALUE=DATE:20270513
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270512@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 05월 12일 (수)\n🌙 음력/월령: 4.7\n🌊 물때: 1
@@ -3311,7 +3311,7 @@ BEGIN:VEVENT
 SUMMARY:🔴조금/조류세기372(53%)-[해]
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270514
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270513@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 05월 13일 (목)\n🌙 음력/월령: 4.8\n🌊 물때: 
@@ -3336,7 +3336,7 @@ BEGIN:VEVENT
 SUMMARY:🔴무시/조류세기348(50%)-[해]
 DTSTART;VALUE=DATE:20270514
 DTEND;VALUE=DATE:20270515
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270514@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 05월 14일 (금)\n🌙 음력/월령: 4.9\n🌊 물때: 
@@ -3361,7 +3361,7 @@ BEGIN:VEVENT
 SUMMARY:🔴1물/조류세기366(52%)-[해]
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270515@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 05월 15일 (토)\n🌙 음력/월령: 4.10\n🌊 물때: 
@@ -3386,7 +3386,7 @@ BEGIN:VEVENT
 SUMMARY:🔴2물/조류세기402(57%)-[해]
 DTSTART;VALUE=DATE:20270516
 DTEND;VALUE=DATE:20270517
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270516@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 05월 16일 (일)\n🌙 음력/월령: 4.11\n🌊 물때: 
@@ -3411,7 +3411,7 @@ BEGIN:VEVENT
 SUMMARY:🔴3물/조류세기440(63%)-[해]
 DTSTART;VALUE=DATE:20270517
 DTEND;VALUE=DATE:20270518
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270517@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 05월 17일 (월)\n🌙 음력/월령: 4.12\n🌊 물때: 
@@ -3436,7 +3436,7 @@ BEGIN:VEVENT
 SUMMARY:🔴4물/조류세기486(69%)-[해]
 DTSTART;VALUE=DATE:20270518
 DTEND;VALUE=DATE:20270519
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270518@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 05월 18일 (화)\n🌙 음력/월령: 4.13\n🌊 물때: 
@@ -3461,7 +3461,7 @@ BEGIN:VEVENT
 SUMMARY:🔴5물/조류세기512(73%)-[해]
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270520
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270519@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 05월 19일 (수)\n🌙 음력/월령: 4.14\n🌊 물때: 
@@ -3486,7 +3486,7 @@ BEGIN:VEVENT
 SUMMARY:🔴6물/조류세기520(74%)-[해]
 DTSTART;VALUE=DATE:20270520
 DTEND;VALUE=DATE:20270521
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270520@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 05월 20일 (목)\n🌙 음력/월령: 4.15\n🌊 물때: 
@@ -3511,7 +3511,7 @@ BEGIN:VEVENT
 SUMMARY:🔴7물/조류세기515(74%)-[해]
 DTSTART;VALUE=DATE:20270521
 DTEND;VALUE=DATE:20270522
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270521@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 05월 21일 (금)\n🌙 음력/월령: 4.16\n🌊 물때: 
@@ -3536,7 +3536,7 @@ BEGIN:VEVENT
 SUMMARY:🔴8물/조류세기498(71%)-[해]
 DTSTART;VALUE=DATE:20270522
 DTEND;VALUE=DATE:20270523
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270522@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 05월 22일 (토)\n🌙 음력/월령: 4.17\n🌊 물때: 
@@ -3561,7 +3561,7 @@ BEGIN:VEVENT
 SUMMARY:🔴9물/조류세기477(68%)-[해]
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270523@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 05월 23일 (일)\n🌙 음력/월령: 4.18\n🌊 물때: 
@@ -3586,7 +3586,7 @@ BEGIN:VEVENT
 SUMMARY:🔴10물/조류세기422(60%)-[해]
 DTSTART;VALUE=DATE:20270524
 DTEND;VALUE=DATE:20270525
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270524@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 05월 24일 (월)\n🌙 음력/월령: 4.19\n🌊 물때: 
@@ -3611,7 +3611,7 @@ BEGIN:VEVENT
 SUMMARY:🔴11물/조류세기429(61%)-[해]
 DTSTART;VALUE=DATE:20270525
 DTEND;VALUE=DATE:20270526
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270525@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 05월 25일 (화)\n🌙 음력/월령: 4.20\n🌊 물때: 
@@ -3636,7 +3636,7 @@ BEGIN:VEVENT
 SUMMARY:🔴12물/조류세기394(56%)-[해]
 DTSTART;VALUE=DATE:20270526
 DTEND;VALUE=DATE:20270527
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270526@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 05월 26일 (수)\n🌙 음력/월령: 4.21\n🌊 물때: 
@@ -3661,7 +3661,7 @@ BEGIN:VEVENT
 SUMMARY:🔴13물/조류세기350(50%)-[해]
 DTSTART;VALUE=DATE:20270527
 DTEND;VALUE=DATE:20270528
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270527@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 05월 27일 (목)\n🌙 음력/월령: 4.22\n🌊 물때: 
@@ -3686,7 +3686,7 @@ BEGIN:VEVENT
 SUMMARY:🔴조금/조류세기308(44%)-[해]
 DTSTART;VALUE=DATE:20270528
 DTEND;VALUE=DATE:20270529
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270528@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 05월 28일 (금)\n🌙 음력/월령: 4.23\n🌊 물때: 
@@ -3711,7 +3711,7 @@ BEGIN:VEVENT
 SUMMARY:🔴무시/조류세기280(40%)-[해]
 DTSTART;VALUE=DATE:20270529
 DTEND;VALUE=DATE:20270530
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270529@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 05월 29일 (토)\n🌙 음력/월령: 4.24\n🌊 물때: 
@@ -3736,7 +3736,7 @@ BEGIN:VEVENT
 SUMMARY:🔴1물/조류세기280(40%)-[해]
 DTSTART;VALUE=DATE:20270530
 DTEND;VALUE=DATE:20270531
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270530@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 05월 30일 (일)\n🌙 음력/월령: 4.25\n🌊 물때: 
@@ -3761,7 +3761,7 @@ BEGIN:VEVENT
 SUMMARY:🔴2물/조류세기302(43%)-[해]
 DTSTART;VALUE=DATE:20270531
 DTEND;VALUE=DATE:20270601
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270531@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 05월 31일 (월)\n🌙 음력/월령: 4.26\n🌊 물때: 
@@ -3786,7 +3786,7 @@ BEGIN:VEVENT
 SUMMARY:🔴3물/조류세기349(50%)-[해]
 DTSTART;VALUE=DATE:20270601
 DTEND;VALUE=DATE:20270602
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270601@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 06월 01일 (화)\n🌙 음력/월령: 4.27\n🌊 물때: 
@@ -3811,7 +3811,7 @@ BEGIN:VEVENT
 SUMMARY:🔴4물/조류세기412(59%)-[해]
 DTSTART;VALUE=DATE:20270602
 DTEND;VALUE=DATE:20270603
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270602@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 06월 02일 (수)\n🌙 음력/월령: 4.28\n🌊 물때: 
@@ -3836,7 +3836,7 @@ BEGIN:VEVENT
 SUMMARY:🔴5물/조류세기470(67%)-[해]
 DTSTART;VALUE=DATE:20270603
 DTEND;VALUE=DATE:20270604
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270603@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 06월 03일 (목)\n🌙 음력/월령: 4.29\n🌊 물때: 
@@ -3861,7 +3861,7 @@ BEGIN:VEVENT
 SUMMARY:🔴6물/조류세기516(74%)-[해]
 DTSTART;VALUE=DATE:20270604
 DTEND;VALUE=DATE:20270605
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270604@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 06월 04일 (금)\n🌙 음력/월령: 4.30\n🌊 물때: 
@@ -3886,7 +3886,7 @@ BEGIN:VEVENT
 SUMMARY:🔴7물/조류세기548(78%)-[해]
 DTSTART;VALUE=DATE:20270605
 DTEND;VALUE=DATE:20270606
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270605@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 06월 05일 (토)\n🌙 음력/월령: 5.1\n🌊 물때: 7
@@ -3911,7 +3911,7 @@ BEGIN:VEVENT
 SUMMARY:⚪8물/조류세기564(81%)-[해]
 DTSTART;VALUE=DATE:20270606
 DTEND;VALUE=DATE:20270607
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270606@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 06월 06일 (일)\n🌙 음력/월령: 5.2\n🌊 물때: 8
@@ -3936,7 +3936,7 @@ BEGIN:VEVENT
 SUMMARY:⚪9물/조류세기564(81%)-[해]
 DTSTART;VALUE=DATE:20270607
 DTEND;VALUE=DATE:20270608
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270607@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 06월 07일 (월)\n🌙 음력/월령: 5.3\n🌊 물때: 9
@@ -3961,7 +3961,7 @@ BEGIN:VEVENT
 SUMMARY:🔴10물/조류세기511(73%)-[해]
 DTSTART;VALUE=DATE:20270608
 DTEND;VALUE=DATE:20270609
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270608@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 06월 08일 (화)\n🌙 음력/월령: 5.4\n🌊 물때: 1
@@ -3986,7 +3986,7 @@ BEGIN:VEVENT
 SUMMARY:🔴11물/조류세기534(76%)-[해]
 DTSTART;VALUE=DATE:20270609
 DTEND;VALUE=DATE:20270610
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270609@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 06월 09일 (수)\n🌙 음력/월령: 5.5\n🌊 물때: 1
@@ -4011,7 +4011,7 @@ BEGIN:VEVENT
 SUMMARY:🔴12물/조류세기500(71%)-[해]
 DTSTART;VALUE=DATE:20270610
 DTEND;VALUE=DATE:20270611
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270610@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 06월 10일 (목)\n🌙 음력/월령: 5.6\n🌊 물때: 1
@@ -4036,7 +4036,7 @@ BEGIN:VEVENT
 SUMMARY:🔴13물/조류세기454(65%)-[해]
 DTSTART;VALUE=DATE:20270611
 DTEND;VALUE=DATE:20270612
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270611@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 06월 11일 (금)\n🌙 음력/월령: 5.7\n🌊 물때: 1
@@ -4061,7 +4061,7 @@ BEGIN:VEVENT
 SUMMARY:🔴조금/조류세기412(59%)-[해]
 DTSTART;VALUE=DATE:20270612
 DTEND;VALUE=DATE:20270613
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270612@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 06월 12일 (토)\n🌙 음력/월령: 5.8\n🌊 물때: 
@@ -4086,7 +4086,7 @@ BEGIN:VEVENT
 SUMMARY:🔴무시/조류세기383(55%)-[해]
 DTSTART;VALUE=DATE:20270613
 DTEND;VALUE=DATE:20270614
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270613@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 06월 13일 (일)\n🌙 음력/월령: 5.9\n🌊 물때: 
@@ -4111,7 +4111,7 @@ BEGIN:VEVENT
 SUMMARY:🔴1물/조류세기356(51%)-[해]
 DTSTART;VALUE=DATE:20270614
 DTEND;VALUE=DATE:20270615
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270614@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 06월 14일 (월)\n🌙 음력/월령: 5.10\n🌊 물때: 
@@ -4136,7 +4136,7 @@ BEGIN:VEVENT
 SUMMARY:🔴2물/조류세기379(54%)-[해]
 DTSTART;VALUE=DATE:20270615
 DTEND;VALUE=DATE:20270616
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270615@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 06월 15일 (화)\n🌙 음력/월령: 5.11\n🌊 물때: 
@@ -4161,7 +4161,7 @@ BEGIN:VEVENT
 SUMMARY:🔴3물/조류세기403(58%)-[해]
 DTSTART;VALUE=DATE:20270616
 DTEND;VALUE=DATE:20270617
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270616@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 06월 16일 (수)\n🌙 음력/월령: 5.12\n🌊 물때: 
@@ -4186,7 +4186,7 @@ BEGIN:VEVENT
 SUMMARY:🔴4물/조류세기427(61%)-[해]
 DTSTART;VALUE=DATE:20270617
 DTEND;VALUE=DATE:20270618
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270617@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 06월 17일 (목)\n🌙 음력/월령: 5.13\n🌊 물때: 
@@ -4211,7 +4211,7 @@ BEGIN:VEVENT
 SUMMARY:🔴5물/조류세기445(64%)-[해]
 DTSTART;VALUE=DATE:20270618
 DTEND;VALUE=DATE:20270619
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270618@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 06월 18일 (금)\n🌙 음력/월령: 5.14\n🌊 물때: 
@@ -4236,7 +4236,7 @@ BEGIN:VEVENT
 SUMMARY:🔴6물/조류세기456(65%)-[해]
 DTSTART;VALUE=DATE:20270619
 DTEND;VALUE=DATE:20270620
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270619@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 06월 19일 (토)\n🌙 음력/월령: 5.15\n🌊 물때: 
@@ -4261,7 +4261,7 @@ BEGIN:VEVENT
 SUMMARY:🔴7물/조류세기464(66%)-[해]
 DTSTART;VALUE=DATE:20270620
 DTEND;VALUE=DATE:20270621
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270620@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 06월 20일 (일)\n🌙 음력/월령: 5.16\n🌊 물때: 
@@ -4286,7 +4286,7 @@ BEGIN:VEVENT
 SUMMARY:🔴8물/조류세기470(67%)-[해]
 DTSTART;VALUE=DATE:20270621
 DTEND;VALUE=DATE:20270622
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270621@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 06월 21일 (월)\n🌙 음력/월령: 5.17\n🌊 물때: 
@@ -4311,7 +4311,7 @@ BEGIN:VEVENT
 SUMMARY:🔴9물/조류세기470(67%)-[해]
 DTSTART;VALUE=DATE:20270622
 DTEND;VALUE=DATE:20270623
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270622@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 06월 22일 (화)\n🌙 음력/월령: 5.18\n🌊 물때: 
@@ -4336,7 +4336,7 @@ BEGIN:VEVENT
 SUMMARY:🔴10물/조류세기440(63%)-[해]
 DTSTART;VALUE=DATE:20270623
 DTEND;VALUE=DATE:20270624
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270623@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 06월 23일 (수)\n🌙 음력/월령: 5.19\n🌊 물때: 
@@ -4361,7 +4361,7 @@ BEGIN:VEVENT
 SUMMARY:🔴11물/조류세기455(65%)-[해]
 DTSTART;VALUE=DATE:20270624
 DTEND;VALUE=DATE:20270625
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270624@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 06월 24일 (목)\n🌙 음력/월령: 5.20\n🌊 물때: 
@@ -4386,7 +4386,7 @@ BEGIN:VEVENT
 SUMMARY:🔴12물/조류세기431(62%)-[해]
 DTSTART;VALUE=DATE:20270625
 DTEND;VALUE=DATE:20270626
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270625@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 06월 25일 (금)\n🌙 음력/월령: 5.21\n🌊 물때: 
@@ -4411,7 +4411,7 @@ BEGIN:VEVENT
 SUMMARY:🔴13물/조류세기397(57%)-[해]
 DTSTART;VALUE=DATE:20270626
 DTEND;VALUE=DATE:20270627
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270626@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 06월 26일 (토)\n🌙 음력/월령: 5.22\n🌊 물때: 
@@ -4436,7 +4436,7 @@ BEGIN:VEVENT
 SUMMARY:🔴조금/조류세기360(51%)-[해]
 DTSTART;VALUE=DATE:20270627
 DTEND;VALUE=DATE:20270628
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270627@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 06월 27일 (일)\n🌙 음력/월령: 5.23\n🌊 물때: 
@@ -4461,7 +4461,7 @@ BEGIN:VEVENT
 SUMMARY:🔴무시/조류세기330(47%)-[해]
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270629
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270628@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 06월 28일 (월)\n🌙 음력/월령: 5.24\n🌊 물때: 
@@ -4486,7 +4486,7 @@ BEGIN:VEVENT
 SUMMARY:🔴1물/조류세기320(46%)-[해]
 DTSTART;VALUE=DATE:20270629
 DTEND;VALUE=DATE:20270630
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270629@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 06월 29일 (화)\n🌙 음력/월령: 5.25\n🌊 물때: 
@@ -4511,7 +4511,7 @@ BEGIN:VEVENT
 SUMMARY:🔴2물/조류세기298(43%)-[해]
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270630@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 06월 30일 (수)\n🌙 음력/월령: 5.26\n🌊 물때: 
@@ -4536,7 +4536,7 @@ BEGIN:VEVENT
 SUMMARY:🔴3물/조류세기367(52%)-[해]
 DTSTART;VALUE=DATE:20270701
 DTEND;VALUE=DATE:20270702
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270701@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 07월 01일 (목)\n🌙 음력/월령: 5.27\n🌊 물때: 
@@ -4561,7 +4561,7 @@ BEGIN:VEVENT
 SUMMARY:🔴4물/조류세기426(61%)-[해]
 DTSTART;VALUE=DATE:20270702
 DTEND;VALUE=DATE:20270703
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270702@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 07월 02일 (금)\n🌙 음력/월령: 5.28\n🌊 물때: 
@@ -4586,7 +4586,7 @@ BEGIN:VEVENT
 SUMMARY:🔴5물/조류세기488(70%)-[해]
 DTSTART;VALUE=DATE:20270703
 DTEND;VALUE=DATE:20270704
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270703@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 07월 03일 (토)\n🌙 음력/월령: 5.29\n🌊 물때: 
@@ -4611,7 +4611,7 @@ BEGIN:VEVENT
 SUMMARY:🔴7물/조류세기543(78%)-[해]
 DTSTART;VALUE=DATE:20270704
 DTEND;VALUE=DATE:20270705
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270704@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 07월 04일 (일)\n🌙 음력/월령: 6.1\n🌊 물때: 7
@@ -4636,7 +4636,7 @@ BEGIN:VEVENT
 SUMMARY:⚪8물/조류세기586(84%)-[해]
 DTSTART;VALUE=DATE:20270705
 DTEND;VALUE=DATE:20270706
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270705@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 07월 05일 (월)\n🌙 음력/월령: 6.2\n🌊 물때: 8
@@ -4661,7 +4661,7 @@ BEGIN:VEVENT
 SUMMARY:🟡9물/조류세기614(88%)-[해]
 DTSTART;VALUE=DATE:20270706
 DTEND;VALUE=DATE:20270707
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270706@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 07월 06일 (화)\n🌙 음력/월령: 6.3\n🌊 물때: 9
@@ -4686,7 +4686,7 @@ BEGIN:VEVENT
 SUMMARY:⚪10물/조류세기586(84%)-[해]
 DTSTART;VALUE=DATE:20270707
 DTEND;VALUE=DATE:20270708
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270707@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 07월 07일 (수)\n🌙 음력/월령: 6.4\n🌊 물때: 1
@@ -4711,7 +4711,7 @@ BEGIN:VEVENT
 SUMMARY:🟡11물/조류세기616(88%)-[해]
 DTSTART;VALUE=DATE:20270708
 DTEND;VALUE=DATE:20270709
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270708@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 07월 08일 (목)\n🌙 음력/월령: 6.5\n🌊 물때: 1
@@ -4736,7 +4736,7 @@ BEGIN:VEVENT
 SUMMARY:⚪12물/조류세기582(83%)-[해]
 DTSTART;VALUE=DATE:20270709
 DTEND;VALUE=DATE:20270710
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270709@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 07월 09일 (금)\n🌙 음력/월령: 6.6\n🌊 물때: 1
@@ -4761,7 +4761,7 @@ BEGIN:VEVENT
 SUMMARY:🔴13물/조류세기524(75%)-[해]
 DTSTART;VALUE=DATE:20270710
 DTEND;VALUE=DATE:20270711
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270710@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 07월 10일 (토)\n🌙 음력/월령: 6.7\n🌊 물때: 1
@@ -4786,7 +4786,7 @@ BEGIN:VEVENT
 SUMMARY:🔴조금/조류세기451(64%)-[해]
 DTSTART;VALUE=DATE:20270711
 DTEND;VALUE=DATE:20270712
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270711@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 07월 11일 (일)\n🌙 음력/월령: 6.8\n🌊 물때: 
@@ -4811,7 +4811,7 @@ BEGIN:VEVENT
 SUMMARY:🔴무시/조류세기376(54%)-[해]
 DTSTART;VALUE=DATE:20270712
 DTEND;VALUE=DATE:20270713
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270712@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 07월 12일 (월)\n🌙 음력/월령: 6.9\n🌊 물때: 
@@ -4836,7 +4836,7 @@ BEGIN:VEVENT
 SUMMARY:🔴1물/조류세기298(43%)-[해]
 DTSTART;VALUE=DATE:20270713
 DTEND;VALUE=DATE:20270714
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270713@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 07월 13일 (화)\n🌙 음력/월령: 6.10\n🌊 물때: 
@@ -4861,7 +4861,7 @@ BEGIN:VEVENT
 SUMMARY:🔴2물/조류세기306(44%)-[해]
 DTSTART;VALUE=DATE:20270714
 DTEND;VALUE=DATE:20270715
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270714@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 07월 14일 (수)\n🌙 음력/월령: 6.11\n🌊 물때: 
@@ -4886,7 +4886,7 @@ BEGIN:VEVENT
 SUMMARY:🔴3물/조류세기326(47%)-[해]
 DTSTART;VALUE=DATE:20270715
 DTEND;VALUE=DATE:20270716
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270715@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 07월 15일 (목)\n🌙 음력/월령: 6.12\n🌊 물때: 
@@ -4911,7 +4911,7 @@ BEGIN:VEVENT
 SUMMARY:🔴4물/조류세기364(52%)-[해]
 DTSTART;VALUE=DATE:20270716
 DTEND;VALUE=DATE:20270717
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270716@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 07월 16일 (금)\n🌙 음력/월령: 6.13\n🌊 물때: 
@@ -4936,7 +4936,7 @@ BEGIN:VEVENT
 SUMMARY:🔴5물/조류세기406(58%)-[해]
 DTSTART;VALUE=DATE:20270717
 DTEND;VALUE=DATE:20270718
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270717@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 07월 17일 (토)\n🌙 음력/월령: 6.14\n🌊 물때: 
@@ -4961,7 +4961,7 @@ BEGIN:VEVENT
 SUMMARY:🔴6물/조류세기444(63%)-[해]
 DTSTART;VALUE=DATE:20270718
 DTEND;VALUE=DATE:20270719
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270718@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 07월 18일 (일)\n🌙 음력/월령: 6.15\n🌊 물때: 
@@ -4986,7 +4986,7 @@ BEGIN:VEVENT
 SUMMARY:🔴7물/조류세기477(68%)-[해]
 DTSTART;VALUE=DATE:20270719
 DTEND;VALUE=DATE:20270720
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270719@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 07월 19일 (월)\n🌙 음력/월령: 6.16\n🌊 물때: 
@@ -5011,7 +5011,7 @@ BEGIN:VEVENT
 SUMMARY:🔴8물/조류세기504(72%)-[해]
 DTSTART;VALUE=DATE:20270720
 DTEND;VALUE=DATE:20270721
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270720@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 07월 20일 (화)\n🌙 음력/월령: 6.17\n🌊 물때: 
@@ -5036,7 +5036,7 @@ BEGIN:VEVENT
 SUMMARY:🔴9물/조류세기520(74%)-[해]
 DTSTART;VALUE=DATE:20270721
 DTEND;VALUE=DATE:20270722
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270721@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 07월 21일 (수)\n🌙 음력/월령: 6.18\n🌊 물때: 
@@ -5061,7 +5061,7 @@ BEGIN:VEVENT
 SUMMARY:🔴10물/조류세기510(73%)-[해]
 DTSTART;VALUE=DATE:20270722
 DTEND;VALUE=DATE:20270723
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270722@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 07월 22일 (목)\n🌙 음력/월령: 6.19\n🌊 물때: 
@@ -5086,7 +5086,7 @@ BEGIN:VEVENT
 SUMMARY:🔴11물/조류세기524(75%)-[해]
 DTSTART;VALUE=DATE:20270723
 DTEND;VALUE=DATE:20270724
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270723@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 07월 23일 (금)\n🌙 음력/월령: 6.20\n🌊 물때: 
@@ -5111,7 +5111,7 @@ BEGIN:VEVENT
 SUMMARY:🔴12물/조류세기504(72%)-[해]
 DTSTART;VALUE=DATE:20270724
 DTEND;VALUE=DATE:20270725
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270724@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 07월 24일 (토)\n🌙 음력/월령: 6.21\n🌊 물때: 
@@ -5136,7 +5136,7 @@ BEGIN:VEVENT
 SUMMARY:🔴13물/조류세기470(67%)-[해]
 DTSTART;VALUE=DATE:20270725
 DTEND;VALUE=DATE:20270726
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270725@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 07월 25일 (일)\n🌙 음력/월령: 6.22\n🌊 물때: 
@@ -5161,7 +5161,7 @@ BEGIN:VEVENT
 SUMMARY:🔴조금/조류세기422(60%)-[해]
 DTSTART;VALUE=DATE:20270726
 DTEND;VALUE=DATE:20270727
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270726@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 07월 26일 (월)\n🌙 음력/월령: 6.23\n🌊 물때: 
@@ -5186,7 +5186,7 @@ BEGIN:VEVENT
 SUMMARY:🔴무시/조류세기366(52%)-[해]
 DTSTART;VALUE=DATE:20270727
 DTEND;VALUE=DATE:20270728
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270727@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 07월 27일 (화)\n🌙 음력/월령: 6.24\n🌊 물때: 
@@ -5211,7 +5211,7 @@ BEGIN:VEVENT
 SUMMARY:🔴1물/조류세기318(45%)-[해]
 DTSTART;VALUE=DATE:20270728
 DTEND;VALUE=DATE:20270729
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270728@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 07월 28일 (수)\n🌙 음력/월령: 6.25\n🌊 물때: 
@@ -5236,7 +5236,7 @@ BEGIN:VEVENT
 SUMMARY:🔴2물/조류세기260(37%)-[해]
 DTSTART;VALUE=DATE:20270729
 DTEND;VALUE=DATE:20270730
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270729@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 07월 29일 (목)\n🌙 음력/월령: 6.26\n🌊 물때: 
@@ -5261,7 +5261,7 @@ BEGIN:VEVENT
 SUMMARY:🔴3물/조류세기326(47%)-[해]
 DTSTART;VALUE=DATE:20270730
 DTEND;VALUE=DATE:20270731
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270730@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 07월 30일 (금)\n🌙 음력/월령: 6.27\n🌊 물때: 
@@ -5286,7 +5286,7 @@ BEGIN:VEVENT
 SUMMARY:🔴4물/조류세기400(57%)-[해]
 DTSTART;VALUE=DATE:20270731
 DTEND;VALUE=DATE:20270801
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270731@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 07월 31일 (토)\n🌙 음력/월령: 6.28\n🌊 물때: 
@@ -5311,7 +5311,7 @@ BEGIN:VEVENT
 SUMMARY:🔴5물/조류세기490(70%)-[해]
 DTSTART;VALUE=DATE:20270801
 DTEND;VALUE=DATE:20270802
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270801@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 08월 01일 (일)\n🌙 음력/월령: 6.29\n🌊 물때: 
@@ -5336,7 +5336,7 @@ BEGIN:VEVENT
 SUMMARY:⚪7물/조류세기574(82%)-[해]
 DTSTART;VALUE=DATE:20270802
 DTEND;VALUE=DATE:20270803
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270802@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 08월 02일 (월)\n🌙 음력/월령: 7.1\n🌊 물때: 7
@@ -5361,7 +5361,7 @@ BEGIN:VEVENT
 SUMMARY:🟡8물/조류세기640(91%)-[해]
 DTSTART;VALUE=DATE:20270803
 DTEND;VALUE=DATE:20270804
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270803@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 08월 03일 (화)\n🌙 음력/월령: 7.2\n🌊 물때: 8
@@ -5386,7 +5386,7 @@ BEGIN:VEVENT
 SUMMARY:🟡9물/조류세기644(92%)-[해]
 DTSTART;VALUE=DATE:20270804
 DTEND;VALUE=DATE:20270805
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270804@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 08월 04일 (수)\n🌙 음력/월령: 7.3\n🌊 물때: 9
@@ -5411,7 +5411,7 @@ BEGIN:VEVENT
 SUMMARY:🟢10물/조류세기666(95%)-[해]
 DTSTART;VALUE=DATE:20270805
 DTEND;VALUE=DATE:20270806
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270805@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 08월 05일 (목)\n🌙 음력/월령: 7.4\n🌊 물때: 1
@@ -5436,7 +5436,7 @@ BEGIN:VEVENT
 SUMMARY:🟢11물/조류세기678(97%)-[해]
 DTSTART;VALUE=DATE:20270806
 DTEND;VALUE=DATE:20270807
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270806@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 08월 06일 (금)\n🌙 음력/월령: 7.5\n🌊 물때: 1
@@ -5461,7 +5461,7 @@ BEGIN:VEVENT
 SUMMARY:🟡12물/조류세기630(90%)-[해]
 DTSTART;VALUE=DATE:20270807
 DTEND;VALUE=DATE:20270808
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270807@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 08월 07일 (토)\n🌙 음력/월령: 7.6\n🌊 물때: 1
@@ -5486,7 +5486,7 @@ BEGIN:VEVENT
 SUMMARY:🔴13물/조류세기552(79%)-[해]
 DTSTART;VALUE=DATE:20270808
 DTEND;VALUE=DATE:20270809
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270808@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 08월 08일 (일)\n🌙 음력/월령: 7.7\n🌊 물때: 1
@@ -5511,7 +5511,7 @@ BEGIN:VEVENT
 SUMMARY:🔴조금/조류세기452(65%)-[해]
 DTSTART;VALUE=DATE:20270809
 DTEND;VALUE=DATE:20270810
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270809@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 08월 09일 (월)\n🌙 음력/월령: 7.8\n🌊 물때: 
@@ -5536,7 +5536,7 @@ BEGIN:VEVENT
 SUMMARY:🔴무시/조류세기346(49%)-[해]
 DTSTART;VALUE=DATE:20270810
 DTEND;VALUE=DATE:20270811
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270810@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 08월 10일 (화)\n🌙 음력/월령: 7.9\n🌊 물때: 
@@ -5561,7 +5561,7 @@ BEGIN:VEVENT
 SUMMARY:🔴1물/조류세기264(38%)-[해]
 DTSTART;VALUE=DATE:20270811
 DTEND;VALUE=DATE:20270812
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270811@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 08월 11일 (수)\n🌙 음력/월령: 7.10\n🌊 물때: 
@@ -5586,7 +5586,7 @@ BEGIN:VEVENT
 SUMMARY:🔴2물/조류세기198(28%)-[해]
 DTSTART;VALUE=DATE:20270812
 DTEND;VALUE=DATE:20270813
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270812@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 08월 12일 (목)\n🌙 음력/월령: 7.11\n🌊 물때: 
@@ -5611,7 +5611,7 @@ BEGIN:VEVENT
 SUMMARY:🔴3물/조류세기270(39%)-[해]
 DTSTART;VALUE=DATE:20270813
 DTEND;VALUE=DATE:20270814
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270813@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 08월 13일 (금)\n🌙 음력/월령: 7.12\n🌊 물때: 
@@ -5636,7 +5636,7 @@ BEGIN:VEVENT
 SUMMARY:🔴4물/조류세기336(48%)-[해]
 DTSTART;VALUE=DATE:20270814
 DTEND;VALUE=DATE:20270815
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270814@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 08월 14일 (토)\n🌙 음력/월령: 7.13\n🌊 물때: 
@@ -5661,7 +5661,7 @@ BEGIN:VEVENT
 SUMMARY:🔴5물/조류세기404(58%)-[해]
 DTSTART;VALUE=DATE:20270815
 DTEND;VALUE=DATE:20270816
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270815@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 08월 15일 (일)\n🌙 음력/월령: 7.14\n🌊 물때: 
@@ -5686,7 +5686,7 @@ BEGIN:VEVENT
 SUMMARY:🔴6물/조류세기466(67%)-[해]
 DTSTART;VALUE=DATE:20270816
 DTEND;VALUE=DATE:20270817
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270816@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 08월 16일 (월)\n🌙 음력/월령: 7.15\n🌊 물때: 
@@ -5711,7 +5711,7 @@ BEGIN:VEVENT
 SUMMARY:🔴7물/조류세기514(73%)-[해]
 DTSTART;VALUE=DATE:20270817
 DTEND;VALUE=DATE:20270818
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270817@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 08월 17일 (화)\n🌙 음력/월령: 7.16\n🌊 물때: 
@@ -5736,7 +5736,7 @@ BEGIN:VEVENT
 SUMMARY:🔴8물/조류세기551(79%)-[해]
 DTSTART;VALUE=DATE:20270818
 DTEND;VALUE=DATE:20270819
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270818@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 08월 18일 (수)\n🌙 음력/월령: 7.17\n🌊 물때: 
@@ -5761,7 +5761,7 @@ BEGIN:VEVENT
 SUMMARY:⚪9물/조류세기572(82%)-[해]
 DTSTART;VALUE=DATE:20270819
 DTEND;VALUE=DATE:20270820
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270819@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 08월 19일 (목)\n🌙 음력/월령: 7.18\n🌊 물때: 
@@ -5786,7 +5786,7 @@ BEGIN:VEVENT
 SUMMARY:⚪10물/조류세기574(82%)-[해]
 DTSTART;VALUE=DATE:20270820
 DTEND;VALUE=DATE:20270821
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270820@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 08월 20일 (금)\n🌙 음력/월령: 7.19\n🌊 물때: 
@@ -5811,7 +5811,7 @@ BEGIN:VEVENT
 SUMMARY:⚪11물/조류세기574(82%)-[해]
 DTSTART;VALUE=DATE:20270821
 DTEND;VALUE=DATE:20270822
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270821@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 08월 21일 (토)\n🌙 음력/월령: 7.20\n🌊 물때: 
@@ -5836,7 +5836,7 @@ BEGIN:VEVENT
 SUMMARY:🔴12물/조류세기551(79%)-[해]
 DTSTART;VALUE=DATE:20270822
 DTEND;VALUE=DATE:20270823
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270822@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 08월 22일 (일)\n🌙 음력/월령: 7.21\n🌊 물때: 
@@ -5861,7 +5861,7 @@ BEGIN:VEVENT
 SUMMARY:🔴13물/조류세기510(73%)-[해]
 DTSTART;VALUE=DATE:20270823
 DTEND;VALUE=DATE:20270824
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270823@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 08월 23일 (월)\n🌙 음력/월령: 7.22\n🌊 물때: 
@@ -5886,7 +5886,7 @@ BEGIN:VEVENT
 SUMMARY:🔴조금/조류세기449(64%)-[해]
 DTSTART;VALUE=DATE:20270824
 DTEND;VALUE=DATE:20270825
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270824@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 08월 24일 (화)\n🌙 음력/월령: 7.23\n🌊 물때: 
@@ -5911,7 +5911,7 @@ BEGIN:VEVENT
 SUMMARY:🔴무시/조류세기374(53%)-[해]
 DTSTART;VALUE=DATE:20270825
 DTEND;VALUE=DATE:20270826
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270825@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 08월 25일 (수)\n🌙 음력/월령: 7.24\n🌊 물때: 
@@ -5936,7 +5936,7 @@ BEGIN:VEVENT
 SUMMARY:🔴1물/조류세기300(43%)-[해]
 DTSTART;VALUE=DATE:20270826
 DTEND;VALUE=DATE:20270827
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270826@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 08월 26일 (목)\n🌙 음력/월령: 7.25\n🌊 물때: 
@@ -5961,7 +5961,7 @@ BEGIN:VEVENT
 SUMMARY:🔴2물/조류세기272(39%)-[해]
 DTSTART;VALUE=DATE:20270827
 DTEND;VALUE=DATE:20270828
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270827@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 08월 27일 (금)\n🌙 음력/월령: 7.26\n🌊 물때: 
@@ -5986,7 +5986,7 @@ BEGIN:VEVENT
 SUMMARY:🔴3물/조류세기258(37%)-[해]
 DTSTART;VALUE=DATE:20270828
 DTEND;VALUE=DATE:20270829
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270828@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 08월 28일 (토)\n🌙 음력/월령: 7.27\n🌊 물때: 
@@ -6011,7 +6011,7 @@ BEGIN:VEVENT
 SUMMARY:🔴4물/조류세기406(58%)-[해]
 DTSTART;VALUE=DATE:20270829
 DTEND;VALUE=DATE:20270830
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270829@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 08월 29일 (일)\n🌙 음력/월령: 7.28\n🌊 물때: 
@@ -6036,7 +6036,7 @@ BEGIN:VEVENT
 SUMMARY:🔴5물/조류세기520(74%)-[해]
 DTSTART;VALUE=DATE:20270830
 DTEND;VALUE=DATE:20270831
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270830@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 08월 30일 (월)\n🌙 음력/월령: 7.29\n🌊 물때: 
@@ -6061,7 +6061,7 @@ BEGIN:VEVENT
 SUMMARY:🟡6물/조류세기616(88%)-[해]
 DTSTART;VALUE=DATE:20270831
 DTEND;VALUE=DATE:20270901
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270831@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 08월 31일 (화)\n🌙 음력/월령: 7.30\n🌊 물때: 
@@ -6086,7 +6086,7 @@ BEGIN:VEVENT
 SUMMARY:🟢7물/조류세기684(98%)-[해]
 DTSTART;VALUE=DATE:20270901
 DTEND;VALUE=DATE:20270902
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270901@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 09월 01일 (수)\n🌙 음력/월령: 8.1\n🌊 물때: 7
@@ -6108,77 +6108,78 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🟢8물/조류세기699(100%)-[해]
+SUMMARY:🟢8물/조류세기699(최대세기)-[해]
 DTSTART;VALUE=DATE:20270902
 DTEND;VALUE=DATE:20270903
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270902@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 09월 02일 (목)\n🌙 음력/월령: 8.2\n🌊 물때: 8
- 물\n📏 일일 평균 고저차: 699 cm (100% / 기준 700cm)\n📏 일
- 일 최대 고저차: 717 cm\n\n🤿 [해루질 적합도]: ★★★★
- ★\n👉 평가: 최상 🟢 (해루질 황금 물때! 물 극도로 빠
- 짐\, 대박 기대)\n🔻 최저 간조(가장 물 많이 빠질 때): 11
- :13 (32cm)\n\n⏰ [해루질 시간 가이드]:\n  • 🚪 진입 추천:
-  간조 2시간 전부터 진입\n  • 🚨 철수 필수: 간조 시각 
- 1시간 후 반드시 퇴수! (물돌이 시작되면 위험)\n\n🔻 [당
- 일 간조 시각 & 조위]:\n  • 11:13 : 수위 32cm (▼-717)\n\n🌊 
- [당일 만조 시각 & 조위]:\n  • 04:23 : 수위 749cm (▲+748)\n  
- • 16:38 : 수위 713cm (▲+681)\n\n☀️ 일출/일몰: 06:06/19:03\n
- 🌕 월출/월몰: 07:37/19:39\n\n⚠️ 해루질 안전수칙:\n  1. 
- 반드시 2인 1조 이상 동행\n  2. 구명조끼 및 호루라기/스
- 마트폰 방수팩 필수\n  3. 안개 발생 시 즉시 나침반/스마
- 트폰 지도 확인 후 퇴수
+ 물\n📏 일일 평균 고저차: 699 cm (최대세기 (100%) / 기준 70
+ 0cm)\n📏 일일 최대 고저차: 717 cm\n\n🤿 [해루질 적합도]: 
+ ★★★★★\n👉 평가: 최상 🟢 (해루질 황금 물때! 물 
+ 극도로 빠짐\, 대박 기대)\n🔻 최저 간조(가장 물 많이 
+ 빠질 때): 11:13 (32cm)\n\n⏰ [해루질 시간 가이드]:\n  • 🚪
+  진입 추천: 간조 2시간 전부터 진입\n  • 🚨 철수 필수:
+  간조 시각 1시간 후 반드시 퇴수! (물돌이 시작되면 위
+ 험)\n\n🔻 [당일 간조 시각 & 조위]:\n  • 11:13 : 수위 32cm (
+ ▼-717)\n\n🌊 [당일 만조 시각 & 조위]:\n  • 04:23 : 수위 74
+ 9cm (▲+748)\n  • 16:38 : 수위 713cm (▲+681)\n\n☀️ 일출/일
+ 몰: 06:06/19:03\n🌕 월출/월몰: 07:37/19:39\n\n⚠️ 해루질 안
+ 전수칙:\n  1. 반드시 2인 1조 이상 동행\n  2. 구명조끼 및 
+ 호루라기/스마트폰 방수팩 필수\n  3. 안개 발생 시 즉시 
+ 나침반/스마트폰 지도 확인 후 퇴수
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🟢9물/조류세기711(102%)-[해]
+SUMMARY:🟢9물/조류세기711(최대세기)-[해]
 DTSTART;VALUE=DATE:20270903
 DTEND;VALUE=DATE:20270904
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270903@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 09월 03일 (금)\n🌙 음력/월령: 8.3\n🌊 물때: 9
- 물\n📏 일일 평균 고저차: 711 cm (102% / 기준 700cm)\n📏 일
- 일 최대 고저차: 719 cm\n\n🤿 [해루질 적합도]: ★★★★
- ★\n👉 평가: 최상 🟢 (해루질 황금 물때! 물 극도로 빠
- 짐\, 대박 기대)\n🔻 최저 간조(가장 물 많이 빠질 때): 11
- :49 (21cm)\n\n⏰ [해루질 시간 가이드]:\n  • 🚪 진입 추천:
-  간조 2시간 전부터 진입\n  • 🚨 철수 필수: 간조 시각 
- 1시간 후 반드시 퇴수! (물돌이 시작되면 위험)\n\n🔻 [당
- 일 간조 시각 & 조위]:\n  • 11:49 : 수위 21cm (▼-719)\n\n🌊 
- [당일 만조 시각 & 조위]:\n  • 04:59 : 수위 740cm (▲+741)\n  
- • 17:19 : 수위 724cm (▲+703)\n\n☀️ 일출/일몰: 06:07/19:01\n
- 🌕 월출/월몰: 08:48/20:09\n\n⚠️ 해루질 안전수칙:\n  1. 
- 반드시 2인 1조 이상 동행\n  2. 구명조끼 및 호루라기/스
- 마트폰 방수팩 필수\n  3. 안개 발생 시 즉시 나침반/스마
- 트폰 지도 확인 후 퇴수
+ 물\n📏 일일 평균 고저차: 711 cm (최대세기 (102%) / 기준 70
+ 0cm)\n📏 일일 최대 고저차: 719 cm\n\n🤿 [해루질 적합도]: 
+ ★★★★★\n👉 평가: 최상 🟢 (해루질 황금 물때! 물 
+ 극도로 빠짐\, 대박 기대)\n🔻 최저 간조(가장 물 많이 
+ 빠질 때): 11:49 (21cm)\n\n⏰ [해루질 시간 가이드]:\n  • 🚪
+  진입 추천: 간조 2시간 전부터 진입\n  • 🚨 철수 필수:
+  간조 시각 1시간 후 반드시 퇴수! (물돌이 시작되면 위
+ 험)\n\n🔻 [당일 간조 시각 & 조위]:\n  • 11:49 : 수위 21cm (
+ ▼-719)\n\n🌊 [당일 만조 시각 & 조위]:\n  • 04:59 : 수위 74
+ 0cm (▲+741)\n  • 17:19 : 수위 724cm (▲+703)\n\n☀️ 일출/일
+ 몰: 06:07/19:01\n🌕 월출/월몰: 08:48/20:09\n\n⚠️ 해루질 안
+ 전수칙:\n  1. 반드시 2인 1조 이상 동행\n  2. 구명조끼 및 
+ 호루라기/스마트폰 방수팩 필수\n  3. 안개 발생 시 즉시 
+ 나침반/스마트폰 지도 확인 후 퇴수
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🟢10물/조류세기691(99%)-[해]
+SUMMARY:🟢10물/조류세기691(최대세기)-[해]
 DTSTART;VALUE=DATE:20270904
 DTEND;VALUE=DATE:20270905
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270904@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 09월 04일 (토)\n🌙 음력/월령: 8.4\n🌊 물때: 1
- 0물\n📏 일일 평균 고저차: 691 cm (99% / 기준 700cm)\n📏 일
- 일 최대 고저차: 695 cm\n\n🤿 [해루질 적합도]: ★★★★
- ★\n👉 평가: 최상 🟢 (해루질 황금 물때! 물 극도로 빠
- 짐\, 대박 기대)\n🔻 최저 간조(가장 물 많이 빠질 때): 00
- :06 (20cm)\n\n⏰ [해루질 시간 가이드]:\n  • 🚪 진입 추천:
-  간조 2시간 전부터 진입\n  • 🚨 철수 필수: 간조 시각 
- 1시간 후 반드시 퇴수! (물돌이 시작되면 위험)\n\n🔻 [당
- 일 간조 시각 & 조위]:\n  • 00:06 : 수위 20cm (▼-691)\n  • 1
- 2:23 : 수위 28cm (▼-687)\n\n🌊 [당일 만조 시각 & 조위]:\n  
- • 05:34 : 수위 715cm (▲+695)\n  • 17:59 : 수위 715cm (▲+687)\n
- \n☀️ 일출/일몰: 06:08/19:00\n🌕 월출/월몰: 09:58/20:41\n\n
- ⚠️ 해루질 안전수칙:\n  1. 반드시 2인 1조 이상 동행\n  
- 2. 구명조끼 및 호루라기/스마트폰 방수팩 필수\n  3. 안
- 개 발생 시 즉시 나침반/스마트폰 지도 확인 후 퇴수
+ 0물\n📏 일일 평균 고저차: 691 cm (최대세기 (99%) / 기준 70
+ 0cm)\n📏 일일 최대 고저차: 695 cm\n\n🤿 [해루질 적합도]: 
+ ★★★★★\n👉 평가: 최상 🟢 (해루질 황금 물때! 물 
+ 극도로 빠짐\, 대박 기대)\n🔻 최저 간조(가장 물 많이 
+ 빠질 때): 00:06 (20cm)\n\n⏰ [해루질 시간 가이드]:\n  • 🚪
+  진입 추천: 간조 2시간 전부터 진입\n  • 🚨 철수 필수:
+  간조 시각 1시간 후 반드시 퇴수! (물돌이 시작되면 위
+ 험)\n\n🔻 [당일 간조 시각 & 조위]:\n  • 00:06 : 수위 20cm (
+ ▼-691)\n  • 12:23 : 수위 28cm (▼-687)\n\n🌊 [당일 만조 시
+ 각 & 조위]:\n  • 05:34 : 수위 715cm (▲+695)\n  • 17:59 : 수위
+  715cm (▲+687)\n\n☀️ 일출/일몰: 06:08/19:00\n🌕 월출/월몰:
+  09:58/20:41\n\n⚠️ 해루질 안전수칙:\n  1. 반드시 2인 1조 
+ 이상 동행\n  2. 구명조끼 및 호루라기/스마트폰 방수팩 
+ 필수\n  3. 안개 발생 시 즉시 나침반/스마트폰 지도 확인
+  후 퇴수
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6186,7 +6187,7 @@ BEGIN:VEVENT
 SUMMARY:🟡11물/조류세기629(90%)-[해]
 DTSTART;VALUE=DATE:20270905
 DTEND;VALUE=DATE:20270906
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270905@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 09월 05일 (일)\n🌙 음력/월령: 8.5\n🌊 물때: 1
@@ -6211,7 +6212,7 @@ BEGIN:VEVENT
 SUMMARY:🔴12물/조류세기538(77%)-[해]
 DTSTART;VALUE=DATE:20270906
 DTEND;VALUE=DATE:20270907
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270906@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 09월 06일 (월)\n🌙 음력/월령: 8.6\n🌊 물때: 1
@@ -6236,7 +6237,7 @@ BEGIN:VEVENT
 SUMMARY:🔴13물/조류세기428(61%)-[해]
 DTSTART;VALUE=DATE:20270907
 DTEND;VALUE=DATE:20270908
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270907@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 09월 07일 (화)\n🌙 음력/월령: 8.7\n🌊 물때: 1
@@ -6261,7 +6262,7 @@ BEGIN:VEVENT
 SUMMARY:🔴조금/조류세기312(45%)-[해]
 DTSTART;VALUE=DATE:20270908
 DTEND;VALUE=DATE:20270909
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270908@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 09월 08일 (수)\n🌙 음력/월령: 8.8\n🌊 물때: 
@@ -6286,7 +6287,7 @@ BEGIN:VEVENT
 SUMMARY:🔴무시/조류세기218(31%)-[해]
 DTSTART;VALUE=DATE:20270909
 DTEND;VALUE=DATE:20270910
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270909@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 09월 09일 (목)\n🌙 음력/월령: 8.9\n🌊 물때: 
@@ -6311,7 +6312,7 @@ BEGIN:VEVENT
 SUMMARY:🔴1물/조류세기150(21%)-[해]
 DTSTART;VALUE=DATE:20270910
 DTEND;VALUE=DATE:20270911
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270910@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 09월 10일 (금)\n🌙 음력/월령: 8.10\n🌊 물때: 
@@ -6336,7 +6337,7 @@ BEGIN:VEVENT
 SUMMARY:🔴2물/조류세기236(34%)-[해]
 DTSTART;VALUE=DATE:20270911
 DTEND;VALUE=DATE:20270912
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270911@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 09월 11일 (토)\n🌙 음력/월령: 8.11\n🌊 물때: 
@@ -6361,7 +6362,7 @@ BEGIN:VEVENT
 SUMMARY:🔴3물/조류세기322(46%)-[해]
 DTSTART;VALUE=DATE:20270912
 DTEND;VALUE=DATE:20270913
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270912@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 09월 12일 (일)\n🌙 음력/월령: 8.12\n🌊 물때: 
@@ -6386,7 +6387,7 @@ BEGIN:VEVENT
 SUMMARY:🔴4물/조류세기407(58%)-[해]
 DTSTART;VALUE=DATE:20270913
 DTEND;VALUE=DATE:20270914
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270913@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 09월 13일 (월)\n🌙 음력/월령: 8.13\n🌊 물때: 
@@ -6411,7 +6412,7 @@ BEGIN:VEVENT
 SUMMARY:🔴5물/조류세기482(69%)-[해]
 DTSTART;VALUE=DATE:20270914
 DTEND;VALUE=DATE:20270915
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270914@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 09월 14일 (화)\n🌙 음력/월령: 8.14\n🌊 물때: 
@@ -6436,7 +6437,7 @@ BEGIN:VEVENT
 SUMMARY:🔴6물/조류세기540(77%)-[해]
 DTSTART;VALUE=DATE:20270915
 DTEND;VALUE=DATE:20270916
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270915@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 09월 15일 (수)\n🌙 음력/월령: 8.15\n🌊 물때: 
@@ -6461,7 +6462,7 @@ BEGIN:VEVENT
 SUMMARY:⚪7물/조류세기580(83%)-[해]
 DTSTART;VALUE=DATE:20270916
 DTEND;VALUE=DATE:20270917
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270916@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 09월 16일 (목)\n🌙 음력/월령: 8.16\n🌊 물때: 
@@ -6486,7 +6487,7 @@ BEGIN:VEVENT
 SUMMARY:⚪8물/조류세기600(86%)-[해]
 DTSTART;VALUE=DATE:20270917
 DTEND;VALUE=DATE:20270918
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270917@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 09월 17일 (금)\n🌙 음력/월령: 8.17\n🌊 물때: 
@@ -6511,7 +6512,7 @@ BEGIN:VEVENT
 SUMMARY:⚪9물/조류세기602(86%)-[해]
 DTSTART;VALUE=DATE:20270918
 DTEND;VALUE=DATE:20270919
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270918@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 09월 18일 (토)\n🌙 음력/월령: 8.18\n🌊 물때: 
@@ -6536,7 +6537,7 @@ BEGIN:VEVENT
 SUMMARY:⚪10물/조류세기608(87%)-[해]
 DTSTART;VALUE=DATE:20270919
 DTEND;VALUE=DATE:20270920
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270919@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 09월 19일 (일)\n🌙 음력/월령: 8.19\n🌊 물때: 
@@ -6561,7 +6562,7 @@ BEGIN:VEVENT
 SUMMARY:⚪11물/조류세기567(81%)-[해]
 DTSTART;VALUE=DATE:20270920
 DTEND;VALUE=DATE:20270921
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270920@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 09월 20일 (월)\n🌙 음력/월령: 8.20\n🌊 물때: 
@@ -6586,7 +6587,7 @@ BEGIN:VEVENT
 SUMMARY:🔴12물/조류세기520(74%)-[해]
 DTSTART;VALUE=DATE:20270921
 DTEND;VALUE=DATE:20270922
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270921@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 09월 21일 (화)\n🌙 음력/월령: 8.21\n🌊 물때: 
@@ -6611,7 +6612,7 @@ BEGIN:VEVENT
 SUMMARY:🔴13물/조류세기450(64%)-[해]
 DTSTART;VALUE=DATE:20270922
 DTEND;VALUE=DATE:20270923
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270922@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 09월 22일 (수)\n🌙 음력/월령: 8.22\n🌊 물때: 
@@ -6636,7 +6637,7 @@ BEGIN:VEVENT
 SUMMARY:🔴조금/조류세기364(52%)-[해]
 DTSTART;VALUE=DATE:20270923
 DTEND;VALUE=DATE:20270924
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270923@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 09월 23일 (목)\n🌙 음력/월령: 8.23\n🌊 물때: 
@@ -6661,7 +6662,7 @@ BEGIN:VEVENT
 SUMMARY:🔴무시/조류세기284(41%)-[해]
 DTSTART;VALUE=DATE:20270924
 DTEND;VALUE=DATE:20270925
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270924@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 09월 24일 (금)\n🌙 음력/월령: 8.24\n🌊 물때: 
@@ -6686,7 +6687,7 @@ BEGIN:VEVENT
 SUMMARY:🔴1물/조류세기262(37%)-[해]
 DTSTART;VALUE=DATE:20270925
 DTEND;VALUE=DATE:20270926
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270925@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 09월 25일 (토)\n🌙 음력/월령: 8.25\n🌊 물때: 
@@ -6711,7 +6712,7 @@ BEGIN:VEVENT
 SUMMARY:🔴2물/조류세기274(39%)-[해]
 DTSTART;VALUE=DATE:20270926
 DTEND;VALUE=DATE:20270927
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270926@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 09월 26일 (일)\n🌙 음력/월령: 8.26\n🌊 물때: 
@@ -6736,7 +6737,7 @@ BEGIN:VEVENT
 SUMMARY:🔴3물/조류세기428(61%)-[해]
 DTSTART;VALUE=DATE:20270927
 DTEND;VALUE=DATE:20270928
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270927@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 09월 27일 (월)\n🌙 음력/월령: 8.27\n🌊 물때: 
@@ -6761,7 +6762,7 @@ BEGIN:VEVENT
 SUMMARY:🔴4물/조류세기540(77%)-[해]
 DTSTART;VALUE=DATE:20270928
 DTEND;VALUE=DATE:20270929
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270928@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 09월 28일 (화)\n🌙 음력/월령: 8.28\n🌊 물때: 
@@ -6786,7 +6787,7 @@ BEGIN:VEVENT
 SUMMARY:🟡5물/조류세기629(90%)-[해]
 DTSTART;VALUE=DATE:20270929
 DTEND;VALUE=DATE:20270930
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270929@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 09월 29일 (수)\n🌙 음력/월령: 8.29\n🌊 물때: 
@@ -6811,7 +6812,7 @@ BEGIN:VEVENT
 SUMMARY:🟢7물/조류세기682(97%)-[해]
 DTSTART;VALUE=DATE:20270930
 DTEND;VALUE=DATE:20271001
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20270930@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 09월 30일 (목)\n🌙 음력/월령: 9.1\n🌊 물때: 7
@@ -6833,27 +6834,28 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🟢8물/조류세기700(100%)-[해]
+SUMMARY:🟢8물/조류세기700(최대세기)-[해]
 DTSTART;VALUE=DATE:20271001
 DTEND;VALUE=DATE:20271002
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271001@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 10월 01일 (금)\n🌙 음력/월령: 9.2\n🌊 물때: 8
- 물\n📏 일일 평균 고저차: 700 cm (100% / 기준 700cm)\n📏 일
- 일 최대 고저차: 720 cm\n\n🤿 [해루질 적합도]: ★★★★
- ★\n👉 평가: 최상 🟢 (해루질 황금 물때! 물 극도로 빠
- 짐\, 대박 기대)\n🔻 최저 간조(가장 물 많이 빠질 때): 10
- :41 (17cm)\n\n⏰ [해루질 시간 가이드]:\n  • 🚪 진입 추천:
-  간조 2시간 전부터 진입\n  • 🚨 철수 필수: 간조 시각 
- 1시간 후 반드시 퇴수! (물돌이 시작되면 위험)\n\n🔻 [당
- 일 간조 시각 & 조위]:\n  • 10:41 : 수위 17cm (▼-694)\n  • 2
- 3:05 : 수위 30cm (▼-707)\n\n🌊 [당일 만조 시각 & 조위]:\n  
- • 03:52 : 수위 711cm (▲+687)\n  • 16:17 : 수위 737cm (▲+720)\n
- \n☀️ 일출/일몰: 06:29/18:19\n🌕 월출/월몰: 07:35/18:37\n\n
- ⚠️ 해루질 안전수칙:\n  1. 반드시 2인 1조 이상 동행\n  
- 2. 구명조끼 및 호루라기/스마트폰 방수팩 필수\n  3. 안
- 개 발생 시 즉시 나침반/스마트폰 지도 확인 후 퇴수
+ 물\n📏 일일 평균 고저차: 700 cm (최대세기 (100%) / 기준 70
+ 0cm)\n📏 일일 최대 고저차: 720 cm\n\n🤿 [해루질 적합도]: 
+ ★★★★★\n👉 평가: 최상 🟢 (해루질 황금 물때! 물 
+ 극도로 빠짐\, 대박 기대)\n🔻 최저 간조(가장 물 많이 
+ 빠질 때): 10:41 (17cm)\n\n⏰ [해루질 시간 가이드]:\n  • 🚪
+  진입 추천: 간조 2시간 전부터 진입\n  • 🚨 철수 필수:
+  간조 시각 1시간 후 반드시 퇴수! (물돌이 시작되면 위
+ 험)\n\n🔻 [당일 간조 시각 & 조위]:\n  • 10:41 : 수위 17cm (
+ ▼-694)\n  • 23:05 : 수위 30cm (▼-707)\n\n🌊 [당일 만조 시
+ 각 & 조위]:\n  • 03:52 : 수위 711cm (▲+687)\n  • 16:17 : 수위
+  737cm (▲+720)\n\n☀️ 일출/일몰: 06:29/18:19\n🌕 월출/월몰:
+  07:35/18:37\n\n⚠️ 해루질 안전수칙:\n  1. 반드시 2인 1조 
+ 이상 동행\n  2. 구명조끼 및 호루라기/스마트폰 방수팩 
+ 필수\n  3. 안개 발생 시 즉시 나침반/스마트폰 지도 확인
+  후 퇴수
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6861,7 +6863,7 @@ BEGIN:VEVENT
 SUMMARY:🟢9물/조류세기682(97%)-[해]
 DTSTART;VALUE=DATE:20271002
 DTEND;VALUE=DATE:20271003
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271002@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 10월 02일 (토)\n🌙 음력/월령: 9.3\n🌊 물때: 9
@@ -6886,7 +6888,7 @@ BEGIN:VEVENT
 SUMMARY:🟢10물/조류세기668(95%)-[해]
 DTSTART;VALUE=DATE:20271003
 DTEND;VALUE=DATE:20271004
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271003@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 10월 03일 (일)\n🌙 음력/월령: 9.4\n🌊 물때: 1
@@ -6911,7 +6913,7 @@ BEGIN:VEVENT
 SUMMARY:⚪11물/조류세기588(84%)-[해]
 DTSTART;VALUE=DATE:20271004
 DTEND;VALUE=DATE:20271005
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271004@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 10월 04일 (월)\n🌙 음력/월령: 9.5\n🌊 물때: 1
@@ -6936,7 +6938,7 @@ BEGIN:VEVENT
 SUMMARY:🔴12물/조류세기502(72%)-[해]
 DTSTART;VALUE=DATE:20271005
 DTEND;VALUE=DATE:20271006
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271005@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 10월 05일 (화)\n🌙 음력/월령: 9.6\n🌊 물때: 1
@@ -6961,7 +6963,7 @@ BEGIN:VEVENT
 SUMMARY:🔴13물/조류세기404(58%)-[해]
 DTSTART;VALUE=DATE:20271006
 DTEND;VALUE=DATE:20271007
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271006@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 10월 06일 (수)\n🌙 음력/월령: 9.7\n🌊 물때: 1
@@ -6986,7 +6988,7 @@ BEGIN:VEVENT
 SUMMARY:🔴조금/조류세기302(43%)-[해]
 DTSTART;VALUE=DATE:20271007
 DTEND;VALUE=DATE:20271008
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271007@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 10월 07일 (목)\n🌙 음력/월령: 9.8\n🌊 물때: 
@@ -7011,7 +7013,7 @@ BEGIN:VEVENT
 SUMMARY:🔴무시/조류세기211(30%)-[해]
 DTSTART;VALUE=DATE:20271008
 DTEND;VALUE=DATE:20271009
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271008@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 10월 08일 (금)\n🌙 음력/월령: 9.9\n🌊 물때: 
@@ -7036,7 +7038,7 @@ BEGIN:VEVENT
 SUMMARY:🔴1물/조류세기174(25%)-[해]
 DTSTART;VALUE=DATE:20271009
 DTEND;VALUE=DATE:20271010
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271009@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 10월 09일 (토)\n🌙 음력/월령: 9.10\n🌊 물때: 
@@ -7061,7 +7063,7 @@ BEGIN:VEVENT
 SUMMARY:🔴2물/조류세기182(26%)-[해]
 DTSTART;VALUE=DATE:20271010
 DTEND;VALUE=DATE:20271011
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271010@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 10월 10일 (일)\n🌙 음력/월령: 9.11\n🌊 물때: 
@@ -7086,7 +7088,7 @@ BEGIN:VEVENT
 SUMMARY:🔴3물/조류세기296(42%)-[해]
 DTSTART;VALUE=DATE:20271011
 DTEND;VALUE=DATE:20271012
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271011@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 10월 11일 (월)\n🌙 음력/월령: 9.12\n🌊 물때: 
@@ -7111,7 +7113,7 @@ BEGIN:VEVENT
 SUMMARY:🔴4물/조류세기386(55%)-[해]
 DTSTART;VALUE=DATE:20271012
 DTEND;VALUE=DATE:20271013
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271012@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 10월 12일 (화)\n🌙 음력/월령: 9.13\n🌊 물때: 
@@ -7136,7 +7138,7 @@ BEGIN:VEVENT
 SUMMARY:🔴5물/조류세기466(67%)-[해]
 DTSTART;VALUE=DATE:20271013
 DTEND;VALUE=DATE:20271014
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271013@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 10월 13일 (수)\n🌙 음력/월령: 9.14\n🌊 물때: 
@@ -7161,7 +7163,7 @@ BEGIN:VEVENT
 SUMMARY:🔴6물/조류세기530(76%)-[해]
 DTSTART;VALUE=DATE:20271014
 DTEND;VALUE=DATE:20271015
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271014@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 10월 14일 (목)\n🌙 음력/월령: 9.15\n🌊 물때: 
@@ -7186,7 +7188,7 @@ BEGIN:VEVENT
 SUMMARY:⚪7물/조류세기572(82%)-[해]
 DTSTART;VALUE=DATE:20271015
 DTEND;VALUE=DATE:20271016
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271015@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 10월 15일 (금)\n🌙 음력/월령: 9.16\n🌊 물때: 
@@ -7211,7 +7213,7 @@ BEGIN:VEVENT
 SUMMARY:⚪8물/조류세기595(85%)-[해]
 DTSTART;VALUE=DATE:20271016
 DTEND;VALUE=DATE:20271017
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271016@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 10월 16일 (토)\n🌙 음력/월령: 9.17\n🌊 물때: 
@@ -7236,7 +7238,7 @@ BEGIN:VEVENT
 SUMMARY:⚪9물/조류세기598(85%)-[해]
 DTSTART;VALUE=DATE:20271017
 DTEND;VALUE=DATE:20271018
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271017@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 10월 17일 (일)\n🌙 음력/월령: 9.18\n🌊 물때: 
@@ -7261,7 +7263,7 @@ BEGIN:VEVENT
 SUMMARY:⚪10물/조류세기582(83%)-[해]
 DTSTART;VALUE=DATE:20271018
 DTEND;VALUE=DATE:20271019
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271018@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 10월 18일 (월)\n🌙 음력/월령: 9.19\n🌊 물때: 
@@ -7286,7 +7288,7 @@ BEGIN:VEVENT
 SUMMARY:⚪11물/조류세기592(85%)-[해]
 DTSTART;VALUE=DATE:20271019
 DTEND;VALUE=DATE:20271020
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271019@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 10월 19일 (화)\n🌙 음력/월령: 9.20\n🌊 물때: 
@@ -7311,7 +7313,7 @@ BEGIN:VEVENT
 SUMMARY:🔴12물/조류세기514(73%)-[해]
 DTSTART;VALUE=DATE:20271020
 DTEND;VALUE=DATE:20271021
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271020@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 10월 20일 (수)\n🌙 음력/월령: 9.21\n🌊 물때: 
@@ -7336,7 +7338,7 @@ BEGIN:VEVENT
 SUMMARY:🔴13물/조류세기446(64%)-[해]
 DTSTART;VALUE=DATE:20271021
 DTEND;VALUE=DATE:20271022
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271021@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 10월 21일 (목)\n🌙 음력/월령: 9.22\n🌊 물때: 
@@ -7361,7 +7363,7 @@ BEGIN:VEVENT
 SUMMARY:🔴조금/조류세기368(53%)-[해]
 DTSTART;VALUE=DATE:20271022
 DTEND;VALUE=DATE:20271023
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271022@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 10월 22일 (금)\n🌙 음력/월령: 9.23\n🌊 물때: 
@@ -7386,7 +7388,7 @@ BEGIN:VEVENT
 SUMMARY:🔴무시/조류세기302(43%)-[해]
 DTSTART;VALUE=DATE:20271023
 DTEND;VALUE=DATE:20271024
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271023@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 10월 23일 (토)\n🌙 음력/월령: 9.24\n🌊 물때: 
@@ -7411,7 +7413,7 @@ BEGIN:VEVENT
 SUMMARY:🔴1물/조류세기292(42%)-[해]
 DTSTART;VALUE=DATE:20271024
 DTEND;VALUE=DATE:20271025
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271024@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 10월 24일 (일)\n🌙 음력/월령: 9.25\n🌊 물때: 
@@ -7436,7 +7438,7 @@ BEGIN:VEVENT
 SUMMARY:🔴2물/조류세기310(44%)-[해]
 DTSTART;VALUE=DATE:20271025
 DTEND;VALUE=DATE:20271026
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271025@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 10월 25일 (월)\n🌙 음력/월령: 9.26\n🌊 물때: 
@@ -7461,7 +7463,7 @@ BEGIN:VEVENT
 SUMMARY:🔴3물/조류세기433(62%)-[해]
 DTSTART;VALUE=DATE:20271026
 DTEND;VALUE=DATE:20271027
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271026@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 10월 26일 (화)\n🌙 음력/월령: 9.27\n🌊 물때: 
@@ -7486,7 +7488,7 @@ BEGIN:VEVENT
 SUMMARY:🔴4물/조류세기524(75%)-[해]
 DTSTART;VALUE=DATE:20271027
 DTEND;VALUE=DATE:20271028
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271027@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 10월 27일 (수)\n🌙 음력/월령: 9.28\n🌊 물때: 
@@ -7511,7 +7513,7 @@ BEGIN:VEVENT
 SUMMARY:⚪5물/조류세기593(85%)-[해]
 DTSTART;VALUE=DATE:20271028
 DTEND;VALUE=DATE:20271029
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271028@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 10월 28일 (목)\n🌙 음력/월령: 9.29\n🌊 물때: 
@@ -7536,7 +7538,7 @@ BEGIN:VEVENT
 SUMMARY:🟡7물/조류세기630(90%)-[해]
 DTSTART;VALUE=DATE:20271029
 DTEND;VALUE=DATE:20271030
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271029@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 10월 29일 (금)\n🌙 음력/월령: 10.1\n🌊 물때: 
@@ -7561,7 +7563,7 @@ BEGIN:VEVENT
 SUMMARY:🟡8물/조류세기636(91%)-[해]
 DTSTART;VALUE=DATE:20271030
 DTEND;VALUE=DATE:20271031
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271030@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 10월 30일 (토)\n🌙 음력/월령: 10.2\n🌊 물때: 
@@ -7586,7 +7588,7 @@ BEGIN:VEVENT
 SUMMARY:🟡9물/조류세기615(88%)-[해]
 DTSTART;VALUE=DATE:20271031
 DTEND;VALUE=DATE:20271101
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271031@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 10월 31일 (일)\n🌙 음력/월령: 10.3\n🌊 물때: 
@@ -7611,7 +7613,7 @@ BEGIN:VEVENT
 SUMMARY:⚪10물/조류세기575(82%)-[해]
 DTSTART;VALUE=DATE:20271101
 DTEND;VALUE=DATE:20271102
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271101@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 11월 01일 (월)\n🌙 음력/월령: 10.4\n🌊 물때: 
@@ -7636,7 +7638,7 @@ BEGIN:VEVENT
 SUMMARY:⚪11물/조류세기566(81%)-[해]
 DTSTART;VALUE=DATE:20271102
 DTEND;VALUE=DATE:20271103
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271102@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 11월 02일 (화)\n🌙 음력/월령: 10.5\n🌊 물때: 
@@ -7661,7 +7663,7 @@ BEGIN:VEVENT
 SUMMARY:🔴12물/조류세기475(68%)-[해]
 DTSTART;VALUE=DATE:20271103
 DTEND;VALUE=DATE:20271104
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271103@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 11월 03일 (수)\n🌙 음력/월령: 10.6\n🌊 물때: 
@@ -7686,7 +7688,7 @@ BEGIN:VEVENT
 SUMMARY:🔴13물/조류세기404(58%)-[해]
 DTSTART;VALUE=DATE:20271104
 DTEND;VALUE=DATE:20271105
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271104@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 11월 04일 (목)\n🌙 음력/월령: 10.7\n🌊 물때: 
@@ -7711,7 +7713,7 @@ BEGIN:VEVENT
 SUMMARY:🔴조금/조류세기330(47%)-[해]
 DTSTART;VALUE=DATE:20271105
 DTEND;VALUE=DATE:20271106
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271105@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 11월 05일 (금)\n🌙 음력/월령: 10.8\n🌊 물때: 
@@ -7736,7 +7738,7 @@ BEGIN:VEVENT
 SUMMARY:🔴무시/조류세기258(37%)-[해]
 DTSTART;VALUE=DATE:20271106
 DTEND;VALUE=DATE:20271107
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271106@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 11월 06일 (토)\n🌙 음력/월령: 10.9\n🌊 물때: 
@@ -7761,7 +7763,7 @@ BEGIN:VEVENT
 SUMMARY:🔴1물/조류세기206(29%)-[해]
 DTSTART;VALUE=DATE:20271107
 DTEND;VALUE=DATE:20271108
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271107@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 11월 07일 (일)\n🌙 음력/월령: 10.10\n🌊 물때:
@@ -7786,7 +7788,7 @@ BEGIN:VEVENT
 SUMMARY:🔴2물/조류세기211(30%)-[해]
 DTSTART;VALUE=DATE:20271108
 DTEND;VALUE=DATE:20271109
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271108@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 11월 08일 (월)\n🌙 음력/월령: 10.11\n🌊 물때:
@@ -7811,7 +7813,7 @@ BEGIN:VEVENT
 SUMMARY:🔴3물/조류세기252(36%)-[해]
 DTSTART;VALUE=DATE:20271109
 DTEND;VALUE=DATE:20271110
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271109@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 11월 09일 (화)\n🌙 음력/월령: 10.12\n🌊 물때:
@@ -7836,7 +7838,7 @@ BEGIN:VEVENT
 SUMMARY:🔴4물/조류세기338(48%)-[해]
 DTSTART;VALUE=DATE:20271110
 DTEND;VALUE=DATE:20271111
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271110@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 11월 10일 (수)\n🌙 음력/월령: 10.13\n🌊 물때:
@@ -7861,7 +7863,7 @@ BEGIN:VEVENT
 SUMMARY:🔴5물/조류세기415(59%)-[해]
 DTSTART;VALUE=DATE:20271111
 DTEND;VALUE=DATE:20271112
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271111@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 11월 11일 (목)\n🌙 음력/월령: 10.14\n🌊 물때:
@@ -7886,7 +7888,7 @@ BEGIN:VEVENT
 SUMMARY:🔴6물/조류세기482(69%)-[해]
 DTSTART;VALUE=DATE:20271112
 DTEND;VALUE=DATE:20271113
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271112@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 11월 12일 (금)\n🌙 음력/월령: 10.15\n🌊 물때:
@@ -7911,7 +7913,7 @@ BEGIN:VEVENT
 SUMMARY:🔴7물/조류세기532(76%)-[해]
 DTSTART;VALUE=DATE:20271113
 DTEND;VALUE=DATE:20271114
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271113@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 11월 13일 (토)\n🌙 음력/월령: 10.16\n🌊 물때:
@@ -7936,7 +7938,7 @@ BEGIN:VEVENT
 SUMMARY:⚪8물/조류세기564(81%)-[해]
 DTSTART;VALUE=DATE:20271114
 DTEND;VALUE=DATE:20271115
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271114@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 11월 14일 (일)\n🌙 음력/월령: 10.17\n🌊 물때:
@@ -7961,7 +7963,7 @@ BEGIN:VEVENT
 SUMMARY:⚪9물/조류세기577(82%)-[해]
 DTSTART;VALUE=DATE:20271115
 DTEND;VALUE=DATE:20271116
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271115@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 11월 15일 (월)\n🌙 음력/월령: 10.18\n🌊 물때:
@@ -7986,7 +7988,7 @@ BEGIN:VEVENT
 SUMMARY:⚪10물/조류세기572(82%)-[해]
 DTSTART;VALUE=DATE:20271116
 DTEND;VALUE=DATE:20271117
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271116@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 11월 16일 (화)\n🌙 음력/월령: 10.19\n🌊 물때:
@@ -8011,7 +8013,7 @@ BEGIN:VEVENT
 SUMMARY:⚪11물/조류세기600(86%)-[해]
 DTSTART;VALUE=DATE:20271117
 DTEND;VALUE=DATE:20271118
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271117@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 11월 17일 (수)\n🌙 음력/월령: 10.20\n🌊 물때:
@@ -8036,7 +8038,7 @@ BEGIN:VEVENT
 SUMMARY:🔴12물/조류세기525(75%)-[해]
 DTSTART;VALUE=DATE:20271118
 DTEND;VALUE=DATE:20271119
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271118@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 11월 18일 (목)\n🌙 음력/월령: 10.21\n🌊 물때:
@@ -8061,7 +8063,7 @@ BEGIN:VEVENT
 SUMMARY:🔴13물/조류세기474(68%)-[해]
 DTSTART;VALUE=DATE:20271119
 DTEND;VALUE=DATE:20271120
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271119@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 11월 19일 (금)\n🌙 음력/월령: 10.22\n🌊 물때:
@@ -8086,7 +8088,7 @@ BEGIN:VEVENT
 SUMMARY:🔴조금/조류세기416(59%)-[해]
 DTSTART;VALUE=DATE:20271120
 DTEND;VALUE=DATE:20271121
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271120@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 11월 20일 (토)\n🌙 음력/월령: 10.23\n🌊 물때:
@@ -8111,7 +8113,7 @@ BEGIN:VEVENT
 SUMMARY:🔴무시/조류세기365(52%)-[해]
 DTSTART;VALUE=DATE:20271121
 DTEND;VALUE=DATE:20271122
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271121@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 11월 21일 (일)\n🌙 음력/월령: 10.24\n🌊 물때:
@@ -8136,7 +8138,7 @@ BEGIN:VEVENT
 SUMMARY:🔴1물/조류세기342(49%)-[해]
 DTSTART;VALUE=DATE:20271122
 DTEND;VALUE=DATE:20271123
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271122@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 11월 22일 (월)\n🌙 음력/월령: 10.25\n🌊 물때:
@@ -8161,7 +8163,7 @@ BEGIN:VEVENT
 SUMMARY:🔴2물/조류세기362(52%)-[해]
 DTSTART;VALUE=DATE:20271123
 DTEND;VALUE=DATE:20271124
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271123@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 11월 23일 (화)\n🌙 음력/월령: 10.26\n🌊 물때:
@@ -8186,7 +8188,7 @@ BEGIN:VEVENT
 SUMMARY:🔴3물/조류세기414(59%)-[해]
 DTSTART;VALUE=DATE:20271124
 DTEND;VALUE=DATE:20271125
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271124@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 11월 24일 (수)\n🌙 음력/월령: 10.27\n🌊 물때:
@@ -8211,7 +8213,7 @@ BEGIN:VEVENT
 SUMMARY:🔴4물/조류세기466(67%)-[해]
 DTSTART;VALUE=DATE:20271125
 DTEND;VALUE=DATE:20271126
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271125@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 11월 25일 (목)\n🌙 음력/월령: 10.28\n🌊 물때:
@@ -8236,7 +8238,7 @@ BEGIN:VEVENT
 SUMMARY:🔴5물/조류세기511(73%)-[해]
 DTSTART;VALUE=DATE:20271126
 DTEND;VALUE=DATE:20271127
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271126@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 11월 26일 (금)\n🌙 음력/월령: 10.29\n🌊 물때:
@@ -8261,7 +8263,7 @@ BEGIN:VEVENT
 SUMMARY:🔴6물/조류세기540(77%)-[해]
 DTSTART;VALUE=DATE:20271127
 DTEND;VALUE=DATE:20271128
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271127@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 11월 27일 (토)\n🌙 음력/월령: 10.30\n🌊 물때:
@@ -8286,7 +8288,7 @@ BEGIN:VEVENT
 SUMMARY:🔴7물/조류세기549(78%)-[해]
 DTSTART;VALUE=DATE:20271128
 DTEND;VALUE=DATE:20271129
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271128@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 11월 28일 (일)\n🌙 음력/월령: 11.1\n🌊 물때: 
@@ -8311,7 +8313,7 @@ BEGIN:VEVENT
 SUMMARY:🔴8물/조류세기540(77%)-[해]
 DTSTART;VALUE=DATE:20271129
 DTEND;VALUE=DATE:20271130
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271129@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 11월 29일 (월)\n🌙 음력/월령: 11.2\n🌊 물때: 
@@ -8336,7 +8338,7 @@ BEGIN:VEVENT
 SUMMARY:🔴9물/조류세기522(75%)-[해]
 DTSTART;VALUE=DATE:20271130
 DTEND;VALUE=DATE:20271201
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271130@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 11월 30일 (화)\n🌙 음력/월령: 11.3\n🌊 물때: 
@@ -8361,7 +8363,7 @@ BEGIN:VEVENT
 SUMMARY:🔴10물/조류세기538(77%)-[해]
 DTSTART;VALUE=DATE:20271201
 DTEND;VALUE=DATE:20271202
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271201@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 12월 01일 (수)\n🌙 음력/월령: 11.4\n🌊 물때: 
@@ -8386,7 +8388,7 @@ BEGIN:VEVENT
 SUMMARY:🔴11물/조류세기476(68%)-[해]
 DTSTART;VALUE=DATE:20271202
 DTEND;VALUE=DATE:20271203
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271202@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 12월 02일 (목)\n🌙 음력/월령: 11.5\n🌊 물때: 
@@ -8411,7 +8413,7 @@ BEGIN:VEVENT
 SUMMARY:🔴12물/조류세기438(63%)-[해]
 DTSTART;VALUE=DATE:20271203
 DTEND;VALUE=DATE:20271204
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271203@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 12월 03일 (금)\n🌙 음력/월령: 11.6\n🌊 물때: 
@@ -8436,7 +8438,7 @@ BEGIN:VEVENT
 SUMMARY:🔴13물/조류세기394(56%)-[해]
 DTSTART;VALUE=DATE:20271204
 DTEND;VALUE=DATE:20271205
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271204@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 12월 04일 (토)\n🌙 음력/월령: 11.7\n🌊 물때: 
@@ -8461,7 +8463,7 @@ BEGIN:VEVENT
 SUMMARY:🔴조금/조류세기342(49%)-[해]
 DTSTART;VALUE=DATE:20271205
 DTEND;VALUE=DATE:20271206
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271205@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 12월 05일 (일)\n🌙 음력/월령: 11.8\n🌊 물때: 
@@ -8486,7 +8488,7 @@ BEGIN:VEVENT
 SUMMARY:🔴무시/조류세기289(41%)-[해]
 DTSTART;VALUE=DATE:20271206
 DTEND;VALUE=DATE:20271207
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271206@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 12월 06일 (월)\n🌙 음력/월령: 11.9\n🌊 물때: 
@@ -8511,7 +8513,7 @@ BEGIN:VEVENT
 SUMMARY:🔴1물/조류세기252(36%)-[해]
 DTSTART;VALUE=DATE:20271207
 DTEND;VALUE=DATE:20271208
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271207@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 12월 07일 (화)\n🌙 음력/월령: 11.10\n🌊 물때:
@@ -8536,7 +8538,7 @@ BEGIN:VEVENT
 SUMMARY:🔴2물/조류세기251(36%)-[해]
 DTSTART;VALUE=DATE:20271208
 DTEND;VALUE=DATE:20271209
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271208@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 12월 08일 (수)\n🌙 음력/월령: 11.11\n🌊 물때:
@@ -8561,7 +8563,7 @@ BEGIN:VEVENT
 SUMMARY:🔴3물/조류세기304(43%)-[해]
 DTSTART;VALUE=DATE:20271209
 DTEND;VALUE=DATE:20271210
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271209@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 12월 09일 (목)\n🌙 음력/월령: 11.12\n🌊 물때:
@@ -8586,7 +8588,7 @@ BEGIN:VEVENT
 SUMMARY:🔴4물/조류세기348(50%)-[해]
 DTSTART;VALUE=DATE:20271210
 DTEND;VALUE=DATE:20271211
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271210@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 12월 10일 (금)\n🌙 음력/월령: 11.13\n🌊 물때:
@@ -8611,7 +8613,7 @@ BEGIN:VEVENT
 SUMMARY:🔴5물/조류세기414(59%)-[해]
 DTSTART;VALUE=DATE:20271211
 DTEND;VALUE=DATE:20271212
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271211@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 12월 11일 (토)\n🌙 음력/월령: 11.14\n🌊 물때:
@@ -8636,7 +8638,7 @@ BEGIN:VEVENT
 SUMMARY:🔴6물/조류세기476(68%)-[해]
 DTSTART;VALUE=DATE:20271212
 DTEND;VALUE=DATE:20271213
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271212@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 12월 12일 (일)\n🌙 음력/월령: 11.15\n🌊 물때:
@@ -8661,7 +8663,7 @@ BEGIN:VEVENT
 SUMMARY:🔴7물/조류세기524(75%)-[해]
 DTSTART;VALUE=DATE:20271213
 DTEND;VALUE=DATE:20271214
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271213@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 12월 13일 (월)\n🌙 음력/월령: 11.16\n🌊 물때:
@@ -8686,7 +8688,7 @@ BEGIN:VEVENT
 SUMMARY:⚪8물/조류세기560(80%)-[해]
 DTSTART;VALUE=DATE:20271214
 DTEND;VALUE=DATE:20271215
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271214@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 12월 14일 (화)\n🌙 음력/월령: 11.17\n🌊 물때:
@@ -8711,7 +8713,7 @@ BEGIN:VEVENT
 SUMMARY:⚪9물/조류세기580(83%)-[해]
 DTSTART;VALUE=DATE:20271215
 DTEND;VALUE=DATE:20271216
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271215@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 12월 15일 (수)\n🌙 음력/월령: 11.18\n🌊 물때:
@@ -8736,7 +8738,7 @@ BEGIN:VEVENT
 SUMMARY:🟡10물/조류세기630(90%)-[해]
 DTSTART;VALUE=DATE:20271216
 DTEND;VALUE=DATE:20271217
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271216@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 12월 16일 (목)\n🌙 음력/월령: 11.19\n🌊 물때:
@@ -8761,7 +8763,7 @@ BEGIN:VEVENT
 SUMMARY:⚪11물/조류세기576(82%)-[해]
 DTSTART;VALUE=DATE:20271217
 DTEND;VALUE=DATE:20271218
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271217@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 12월 17일 (금)\n🌙 음력/월령: 11.20\n🌊 물때:
@@ -8786,7 +8788,7 @@ BEGIN:VEVENT
 SUMMARY:🔴12물/조류세기550(79%)-[해]
 DTSTART;VALUE=DATE:20271218
 DTEND;VALUE=DATE:20271219
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271218@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 12월 18일 (토)\n🌙 음력/월령: 11.21\n🌊 물때:
@@ -8811,7 +8813,7 @@ BEGIN:VEVENT
 SUMMARY:🔴13물/조류세기506(72%)-[해]
 DTSTART;VALUE=DATE:20271219
 DTEND;VALUE=DATE:20271220
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271219@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 12월 19일 (일)\n🌙 음력/월령: 11.22\n🌊 물때:
@@ -8836,7 +8838,7 @@ BEGIN:VEVENT
 SUMMARY:🔴조금/조류세기450(64%)-[해]
 DTSTART;VALUE=DATE:20271220
 DTEND;VALUE=DATE:20271221
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271220@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 12월 20일 (월)\n🌙 음력/월령: 11.23\n🌊 물때:
@@ -8861,7 +8863,7 @@ BEGIN:VEVENT
 SUMMARY:🔴무시/조류세기394(56%)-[해]
 DTSTART;VALUE=DATE:20271221
 DTEND;VALUE=DATE:20271222
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271221@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 12월 21일 (화)\n🌙 음력/월령: 11.24\n🌊 물때:
@@ -8886,7 +8888,7 @@ BEGIN:VEVENT
 SUMMARY:🔴1물/조류세기358(51%)-[해]
 DTSTART;VALUE=DATE:20271222
 DTEND;VALUE=DATE:20271223
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271222@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 12월 22일 (수)\n🌙 음력/월령: 11.25\n🌊 물때:
@@ -8911,7 +8913,7 @@ BEGIN:VEVENT
 SUMMARY:🔴2물/조류세기376(54%)-[해]
 DTSTART;VALUE=DATE:20271223
 DTEND;VALUE=DATE:20271224
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271223@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 12월 23일 (목)\n🌙 음력/월령: 11.26\n🌊 물때:
@@ -8936,7 +8938,7 @@ BEGIN:VEVENT
 SUMMARY:🔴3물/조류세기380(54%)-[해]
 DTSTART;VALUE=DATE:20271224
 DTEND;VALUE=DATE:20271225
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271224@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 12월 24일 (금)\n🌙 음력/월령: 11.27\n🌊 물때:
@@ -8961,7 +8963,7 @@ BEGIN:VEVENT
 SUMMARY:🔴4물/조류세기412(59%)-[해]
 DTSTART;VALUE=DATE:20271225
 DTEND;VALUE=DATE:20271226
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271225@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 12월 25일 (토)\n🌙 음력/월령: 11.28\n🌊 물때:
@@ -8986,7 +8988,7 @@ BEGIN:VEVENT
 SUMMARY:🔴5물/조류세기446(64%)-[해]
 DTSTART;VALUE=DATE:20271226
 DTEND;VALUE=DATE:20271227
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271226@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 12월 26일 (일)\n🌙 음력/월령: 11.29\n🌊 물때:
@@ -9011,7 +9013,7 @@ BEGIN:VEVENT
 SUMMARY:🔴6물/조류세기473(68%)-[해]
 DTSTART;VALUE=DATE:20271227
 DTEND;VALUE=DATE:20271228
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271227@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 12월 27일 (월)\n🌙 음력/월령: 11.30\n🌊 물때:
@@ -9036,7 +9038,7 @@ BEGIN:VEVENT
 SUMMARY:🔴7물/조류세기491(70%)-[해]
 DTSTART;VALUE=DATE:20271228
 DTEND;VALUE=DATE:20271229
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271228@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 12월 28일 (화)\n🌙 음력/월령: 12.1\n🌊 물때: 
@@ -9061,7 +9063,7 @@ BEGIN:VEVENT
 SUMMARY:🔴8물/조류세기502(72%)-[해]
 DTSTART;VALUE=DATE:20271229
 DTEND;VALUE=DATE:20271230
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271229@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 12월 29일 (수)\n🌙 음력/월령: 12.2\n🌊 물때: 
@@ -9086,7 +9088,7 @@ BEGIN:VEVENT
 SUMMARY:🔴9물/조류세기508(73%)-[해]
 DTSTART;VALUE=DATE:20271230
 DTEND;VALUE=DATE:20271231
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271230@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 12월 30일 (목)\n🌙 음력/월령: 12.3\n🌊 물때: 
@@ -9111,7 +9113,7 @@ BEGIN:VEVENT
 SUMMARY:🔴10물/조류세기537(77%)-[해]
 DTSTART;VALUE=DATE:20271231
 DTEND;VALUE=DATE:20280101
-DTSTAMP:20261012T133313Z
+DTSTAMP:20261012T134219Z
 UID:haerujil-mageompo-2027-20271231@westcoast-tides
 DESCRIPTION:📍 관측지점: 서해 마검포 (해루질물때)\n📅 
  양력: 2027년 12월 31일 (금)\n🌙 음력/월령: 12.4\n🌊 물때: 

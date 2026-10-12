@@ -43,7 +43,7 @@ MONTHLY_TARGETS = {
     7: {"primary": "농어", "others": ["참돔", "백조기", "광어"]},
     8: {"primary": "백조기", "others": ["농어", "참돔", "광어"]},
     9: {"primary": "쭈꾸미", "others": ["갑오징어", "광어", "우럭"]},
-    10: {"primary": "갑오징어", "others": ["쭈꾸미", "광어", "우럭"]},
+    10: {"primary": "쭈꾸미", "others": ["갑오징어", "광어", "우럭"]},
     11: {"primary": "쭈꾸미", "others": ["갑오징어", "광어", "우럭"]},
     12: {"primary": "광어", "others": ["우럭"]},
 }
@@ -224,8 +224,10 @@ def parse_tide_entries(raw_text: str):
     """
     entries = []
     # 정규식 패턴: 시:분 (수위) [▲▼변동]
-    pattern = r"(\d{2}:\d{2})\s*\(([-+]?\s*\d+)\)(?:\s*([▲▼][-+]?\d+))?"
-    matches = re.finditer(pattern, raw_text)
+    # \xa0 (non-breaking space) 및 음수 조위(\xa0-8 등) 대응
+    clean_text = raw_text.replace('\xa0', ' ')
+    pattern = r"(\d{2}:\d{2})\s*\(\s*([-+]?\d+)\s*\)(?:\s*([▲▼][-+]?\d+))?"
+    matches = re.finditer(pattern, clean_text)
     for m in matches:
         t_time = m.group(1)
         level_str = m.group(2).replace(" ", "")
@@ -293,6 +295,8 @@ def build_port_calendar(port: dict, year: int = 2027):
             avg_range = 0
             pct = 0
 
+        pct_str = "최대세기" if pct > 98 else f"{pct}%"
+
         month = item["month"]
         targets = MONTHLY_TARGETS.get(month, {"primary": None, "others": []})
         primary_fish = targets.get("primary")
@@ -304,7 +308,7 @@ def build_port_calendar(port: dict, year: int = 2027):
             stars = "★" * score + "☆" * (5 - score)
             badge = "🟢" if score == 5 else ("🟡" if score == 4 else ("⚪" if score == 3 else "🔴"))
             fish_char = FISH_ABBR.get(primary_fish, primary_fish[0])
-            summary = f"{badge}{tide_name}/조류세기{avg_range}({pct}%)-[{fish_char}]"
+            summary = f"{badge}{tide_name}/조류세기{avg_range}({pct_str})-[{fish_char}]"
 
             f_lines = [f"🎯 [{month}월 주요 어종별 출조 적합도]:"]
             f_lines.append(f"  • {primary_fish} (주력) : {stars} {badge} ({tip})")
@@ -315,7 +319,7 @@ def build_port_calendar(port: dict, year: int = 2027):
                 f_lines.append(f"  • {o_fish} : {o_stars} {o_badge} ({o_tip})")
             fish_section = "\n".join(f_lines) + "\n\n"
         else:
-            summary = f"{tide_name}/조류세기{avg_range}({pct}%)"
+            summary = f"{tide_name}/조류세기{avg_range}({pct_str})"
 
         event.add('summary', summary)
 
@@ -323,7 +327,8 @@ def build_port_calendar(port: dict, year: int = 2027):
         low_details = "\n".join([f"  • {e['time']} : 수위 {e['level']}cm ({e['diff']})" for e in item["low_tides"]]) or "  (정보 없음)"
         high_details = "\n".join([f"  • {e['time']} : 수위 {e['level']}cm ({e['diff']})" for e in item["high_tides"]]) or "  (정보 없음)"
 
-        diff_str = f"📏 일일 평균 고저차: {avg_range} cm ({pct}% / 기준 {base_max}cm)"
+        pct_label = f"최대세기 ({pct}%)" if pct > 98 else f"{pct}%"
+        diff_str = f"📏 일일 평균 고저차: {avg_range} cm ({pct_label} / 기준 {base_max}cm)"
         if high_levels and low_levels:
             max_day_range = max(high_levels) - min(low_levels)
             diff_str += f"\n📏 일일 최대 고저차: {max_day_range} cm"
@@ -425,8 +430,10 @@ def build_haerujil_calendar(port: dict, year: int = 2027):
             h_badge = "🔴"
             h_status = "별로 🔴 (물이 충분히 안 빠짐, 비추천)"
 
+        pct_str = "최대세기" if pct > 98 else f"{pct}%"
+
         h_stars = "★" * h_score + "☆" * (5 - h_score)
-        summary = f"{h_badge}{tide_name}/조류세기{avg_range}({pct}%)-[해]"
+        summary = f"{h_badge}{tide_name}/조류세기{avg_range}({pct_str})-[해]"
         event.add('summary', summary)
 
         # 간조/만조 정보 및 최저 수위
@@ -436,7 +443,8 @@ def build_haerujil_calendar(port: dict, year: int = 2027):
         low_details = "\n".join([f"  • {e['time']} : 수위 {e['level']}cm ({e['diff']})" for e in item["low_tides"]]) or "  (정보 없음)"
         high_details = "\n".join([f"  • {e['time']} : 수위 {e['level']}cm ({e['diff']})" for e in item["high_tides"]]) or "  (정보 없음)"
 
-        diff_str = f"📏 일일 평균 고저차: {avg_range} cm ({pct}% / 기준 {base_max}cm)"
+        pct_label = f"최대세기 ({pct}%)" if pct > 98 else f"{pct}%"
+        diff_str = f"📏 일일 평균 고저차: {avg_range} cm ({pct_label} / 기준 {base_max}cm)"
         if high_levels and low_levels:
             max_day_range = max(high_levels) - min(low_levels)
             diff_str += f"\n📏 일일 최대 고저차: {max_day_range} cm"
