@@ -52,7 +52,7 @@ def calc_fish_score(fish: str, pct: int):
     """
     고저차 비율(%)에 따른 어종별 출조 점수(1~5점) 및 가이드 반환
     """
-    if fish in ["쭈꾸미", "갑오징어"]:
+    if fish == "쭈꾸미":
         if pct <= 35:
             return 5, "최적의 조류! 봉돌 10~12호 가볍게 운용"
         elif pct <= 45:
@@ -63,6 +63,17 @@ def calc_fish_score(fish: str, pct: int):
             return 2, "물살 다소 빠름, 봉돌 16~18호"
         else:
             return 1, "물살 거셈, 바닥 찍기 어려움 주의"
+    elif fish == "갑오징어":
+        if 45 <= pct <= 65:
+            return 5, "갑오징어 최적 조류! 에기 액션 및 배 흘림 최상"
+        elif (40 <= pct < 45) or (66 <= pct <= 72):
+            return 4, "양호한 조류, 갑오징어 입질 활발 (봉돌 12~16호)"
+        elif (35 <= pct < 40) or (73 <= pct <= 80):
+            return 3, "보통 수준 (물살 다소 약하거나 빠름)"
+        elif pct < 35:
+            return 2, "조류 부족 (에기 액션 저조, 물 정체)"
+        else:
+            return 1, "사리 급류 (채비 날림, 바닥 감도 저하)"
     elif fish == "백조기":
         if pct <= 40:
             return 5, "최적의 소조기! 바닥 입질 매우 편함"

@@ -27,7 +27,7 @@
 | **7월** | **농어** | 외수질 산새우 - 조류 거셀수록 먹이활동 폭발 (고저차 60~85% 최고) |
 | **8월** | **백조기** | 가벼운 바닥 채비 - 물살 느릴수록 낚시 편함 (고저차 40% 이하 최고) |
 | **9월** | **쭈꾸미** | 두족류 에기 낚시 - 봉돌 가볍게 바닥 찍는 소조기 (고저차 35% 이하 최고) |
-| **10월** | **갑오징어** | 대물 갑오징어 피크 - 조류 느릴수록 바닥 감도 우수 (고저차 35% 이하 최고) |
+| **10월** | **갑오징어** | 에기 액션 및 적당한 배 흘림이 살아나는 중조기 (고저차 45~65% 최고, 정체/사리 비추) |
 | **11월** | **쭈꾸미** | 늦가을 쭈꾸미 - 물 안 가는 소조기 최고 (고저차 35% 이하 최고) |
 | **12월** | **광어** | 초겨울 대광어 다운샷 - 적당한 배 흘림 조류 최고 |
 
@@ -65,21 +65,21 @@
 ## 🔗 구글 캘린더 즉시 구독 링크 (URL로 추가)
 
 > 💡 **구글 캘린더 즉시 반영 안내**:  
-> 구글 캘린더는 URL 끝에 버전 파라미터(`?v=3`)가 붙은 신규 URL로 등록할 때 캐시를 무시하고 즉시 최신 신호등 컬러 캘린더를 가져옵니다.  
+> 구글 캘린더는 URL 끝에 버전 파라미터(`?v=4`)가 붙은 신규 URL로 등록할 때 캐시를 무시하고 즉시 최신 신호등 컬러 캘린더를 가져옵니다.  
 > 기존 캘린더가 있다면 삭제 후 아래 링크로 다시 등록해 주세요!
 
 | 거점 항구 | 캘린더 명칭 | 구글 캘린더 등록 링크 (신호등 & 어종 평가 탑재) |
 | :--- | :--- | :--- |
-| **🌊 서해 전역** | 서해 7물때표 (물때/음력) | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/tides_west_2027.ics?v=3` |
-| **인천** | 2027 서해 물때표 [인천] | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_incheon_2027.ics?v=3` |
-| **평택** | 2027 서해 물때표 [평택] | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_pyeongtaek_2027.ics?v=3` |
-| **신진도 (안흥)** | 2027 서해 물때표 [신진도] | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_sinjindo_2027.ics?v=3` |
-| **마검포 (태안)** | 2027 서해 물때표 [마검포] | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_mageompo_2027.ics?v=3` |
-| **원산도 (보령)** | 2027 서해 물때표 [원산도] | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_wonsando_2027.ics?v=3` |
-| **무창포 (보령)** | 2027 서해 물때표 [무창포] | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_muchangpo_2027.ics?v=3` |
-| **홍원항 (서천)** | 2027 서해 물때표 [홍원항] | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_hongwon_2027.ics?v=3` |
-| **군산** | 2027 서해 물때표 [군산] | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_gunsan_2027.ics?v=3` |
-| **목포** | 2027 서해 물때표 [목포] | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_mokpo_2027.ics?v=3` |
+| **🌊 서해 전역** | 서해 7물때표 (물때/음력) | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/tides_west_2027.ics?v=4` |
+| **인천** | 2027 서해 물때표 [인천] | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_incheon_2027.ics?v=4` |
+| **평택** | 2027 서해 물때표 [평택] | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_pyeongtaek_2027.ics?v=4` |
+| **신진도 (안흥)** | 2027 서해 물때표 [신진도] | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_sinjindo_2027.ics?v=4` |
+| **마검포 (태안)** | 2027 서해 물때표 [마검포] | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_mageompo_2027.ics?v=4` |
+| **원산도 (보령)** | 2027 서해 물때표 [원산도] | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_wonsando_2027.ics?v=4` |
+| **무창포 (보령)** | 2027 서해 물때표 [무창포] | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_muchangpo_2027.ics?v=4` |
+| **홍원항 (서천)** | 2027 서해 물때표 [홍원항] | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_hongwon_2027.ics?v=4` |
+| **군산** | 2027 서해 물때표 [군산] | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_gunsan_2027.ics?v=4` |
+| **목포** | 2027 서해 물때표 [목포] | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_mokpo_2027.ics?v=4` |
 
 ---
 
