@@ -66,14 +66,14 @@ def calc_fish_score(fish: str, pct: int):
     70% 이상을 사리 급류 최악(🔴) 기준으로 적용
     """
     if fish == "쭈꾸미":
-        if pct <= 38:
+        if pct <= 42:
             return 5, "최적의 조류! 봉돌 10~12호 가볍게 운용"
-        elif pct <= 50:
+        elif pct <= 57:
             return 4, "양호한 조류! 봉돌 12~14호 추천"
-        elif pct <= 69:
+        elif pct <= 77:
             return 3, "보통 조류, 봉돌 14~18호 운용 가능"
         else:
-            return 1, "70% 이상 사리 급류 주의 (바닥 찍기 어려움)"
+            return 1, "78% 이상 사리 급류 주의 (바닥 찍기 어려움)"
     elif fish == "갑오징어":
         if 45 <= pct <= 65:
             return 5, "갑오징어 최적 조류! 에기 액션 및 배 흘림 최상"
