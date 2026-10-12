@@ -8,7 +8,7 @@
 
 ### 1. 🎣 [지역-낚시물때] 캘린더
 월별 대표 대상어에 맞는 조류 유속(고저차 비율%)을 분석하여 출조 신호등을 표시합니다.
-* **제목 포맷**: **`{신호등}{지역}{물때}-(고저차)비율%[{어종약칭}]`** (예: `🟢인천1물-(184)20%[쭈]`)
+* **제목 포맷**: **`{신호등}{물때}/조류세기{고저차}(비율%)-[{어종약칭}]`** (예: `🟢1물/조류세기184(20%)-[쭈]`)
 * **신호등 기준**:
   - 🟢 **최고 (5점)**: 해당 어종에 최적화된 황금 조류
   - 🟡 **양호 (4점)**: 출조하기 좋은 물때
@@ -20,7 +20,7 @@
 
 ### 2. 🤿 [지역-해루질물때] 캘린더
 물이 가장 많이 빠져 갯벌과 바닥이 멀리 드러나는 사리(대조기) 물때를 분석하여 해루질 신호등을 표시합니다.
-* **제목 포맷**: **`{신호등}{지역}{물때}-(고저차)비율%[해]`** (예: `🟢인천8물-(940)104%[해]`)
+* **제목 포맷**: **`{신호등}{물때}/조류세기{고저차}(비율%)-[해]`** (예: `🟢8물/조류세기940(104%)-[해]`)
 * **신호등 기준**:
   - 🟢 **최상 (95% 이상)**: 대박 물때! 물이 극도로 빠져 깊은 갯벌/바닥 노출 (마이너스 조위 등)
   - 🟡 **좋음 (88% ~ 94%)**: 해루질 적극 추천 물때, 갯벌 넓게 노출
@@ -38,15 +38,15 @@
 
 | 거점 항구 | 캘린더 명칭 | 구글 캘린더 등록 링크 |
 | :--- | :--- | :--- |
-| **인천** | 2027 인천-낚시물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_incheon_2027.ics?v=6` |
-| **평택** | 2027 평택-낚시물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_pyeongtaek_2027.ics?v=6` |
-| **신진도 (안흥)** | 2027 신진도-낚시물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_sinjindo_2027.ics?v=6` |
-| **마검포 (태안)** | 2027 마검포-낚시물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_mageompo_2027.ics?v=6` |
-| **원산도 (보령)** | 2027 원산도-낚시물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_wonsando_2027.ics?v=6` |
-| **무창포 (보령)** | 2027 무창포-낚시물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_muchangpo_2027.ics?v=6` |
-| **홍원항 (서천)** | 2027 홍원항-낚시물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_hongwon_2027.ics?v=6` |
-| **군산** | 2027 군산-낚시물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_gunsan_2027.ics?v=6` |
-| **목포** | 2027 목포-낚시물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_mokpo_2027.ics?v=6` |
+| **인천** | 27년 인천 낚시물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_incheon_2027.ics?v=7` |
+| **평택** | 27년 평택 낚시물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_pyeongtaek_2027.ics?v=7` |
+| **신진도 (안흥)** | 27년 신진도 낚시물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_sinjindo_2027.ics?v=7` |
+| **마검포 (태안)** | 27년 마검포 낚시물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_mageompo_2027.ics?v=7` |
+| **원산도 (보령)** | 27년 원산도 낚시물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_wonsando_2027.ics?v=7` |
+| **무창포 (보령)** | 27년 무창포 낚시물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_muchangpo_2027.ics?v=7` |
+| **홍원항 (서천)** | 27년 홍원항 낚시물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_hongwon_2027.ics?v=7` |
+| **군산** | 27년 군산 낚시물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_gunsan_2027.ics?v=7` |
+| **목포** | 27년 목포 낚시물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_mokpo_2027.ics?v=7` |
 
 ---
 
@@ -54,20 +54,20 @@
 
 | 거점 항구 | 캘린더 명칭 | 구글 캘린더 등록 링크 |
 | :--- | :--- | :--- |
-| **인천** | 2027 인천-해루질물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_incheon_haerujil_2027.ics?v=6` |
-| **평택** | 2027 평택-해루질물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_pyeongtaek_haerujil_2027.ics?v=6` |
-| **신진도 (안흥)** | 2027 신진도-해루질물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_sinjindo_haerujil_2027.ics?v=6` |
-| **마검포 (태안)** | 2027 마검포-해루질물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_mageompo_haerujil_2027.ics?v=6` |
-| **원산도 (보령)** | 2027 원산도-해루질물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_wonsando_haerujil_2027.ics?v=6` |
-| **무창포 (보령)** | 2027 무창포-해루질물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_muchangpo_haerujil_2027.ics?v=6` |
-| **홍원항 (서천)** | 2027 홍원항-해루질물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_hongwon_haerujil_2027.ics?v=6` |
-| **군산** | 2027 군산-해루질물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_gunsan_haerujil_2027.ics?v=6` |
-| **목포** | 2027 목포-해루질물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_mokpo_haerujil_2027.ics?v=6` |
+| **인천** | 27년 인천 해루질물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_incheon_haerujil_2027.ics?v=7` |
+| **평택** | 27년 평택 해루질물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_pyeongtaek_haerujil_2027.ics?v=7` |
+| **신진도 (안흥)** | 27년 신진도 해루질물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_sinjindo_haerujil_2027.ics?v=7` |
+| **마검포 (태안)** | 27년 마검포 해루질물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_mageompo_haerujil_2027.ics?v=7` |
+| **원산도 (보령)** | 27년 원산도 해루질물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_wonsando_haerujil_2027.ics?v=7` |
+| **무창포 (보령)** | 27년 무창포 해루질물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_muchangpo_haerujil_2027.ics?v=7` |
+| **홍원항 (서천)** | 27년 홍원항 해루질물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_hongwon_haerujil_2027.ics?v=7` |
+| **군산** | 27년 군산 해루질물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_gunsan_haerujil_2027.ics?v=7` |
+| **목포** | 27년 목포 해루질물때 | `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/calendars/tides_mokpo_haerujil_2027.ics?v=7` |
 
 ---
 
 ### 🌊 3. 서해 전역 기본 물때 (물때명 & 음력만)
-* **등록 링크**: `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/tides_west_2027.ics?v=6`
+* **등록 링크**: `https://raw.githubusercontent.com/sanjangboarder/tide_cal/main/tides_west_2027.ics?v=7`
 * **표기 형태**: `13물/음 12월7일`, `조금/음 12월8일`
 
 ---

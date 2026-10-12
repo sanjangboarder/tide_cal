@@ -261,9 +261,9 @@ def build_port_calendar(port: dict, year: int = 2027):
     cal.add('version', '2.0')
     cal.add('calscale', 'GREGORIAN')
     cal.add('method', 'PUBLISH')
-    cal.add('x-wr-calname', f'2027 {port_name}-낚시물때')
+    cal.add('x-wr-calname', f'{str(year)[-2:]}년 {port_name} 낚시물때')
     cal.add('x-wr-timezone', 'Asia/Seoul')
-    cal.add('x-wr-caldesc', f'2027년 {port_name} 낚시 물때표 (어종별 맞춤 출조 지수 탑재)')
+    cal.add('x-wr-caldesc', f'{year}년 {port_name} 낚시 물때표 (어종별 맞춤 출조 지수 탑재)')
 
     delta = datetime.timedelta(days=1)
     now_utc = datetime.datetime.now(datetime.timezone.utc)
@@ -304,7 +304,7 @@ def build_port_calendar(port: dict, year: int = 2027):
             stars = "★" * score + "☆" * (5 - score)
             badge = "🟢" if score == 5 else ("🟡" if score == 4 else ("⚪" if score == 3 else "🔴"))
             fish_char = FISH_ABBR.get(primary_fish, primary_fish[0])
-            summary = f"{badge}{port_name}{tide_name}-({avg_range}){pct}%[{fish_char}]"
+            summary = f"{badge}{tide_name}/조류세기{avg_range}({pct}%)-[{fish_char}]"
 
             f_lines = [f"🎯 [{month}월 주요 어종별 출조 적합도]:"]
             f_lines.append(f"  • {primary_fish} (주력) : {stars} {badge} ({tip})")
@@ -315,7 +315,7 @@ def build_port_calendar(port: dict, year: int = 2027):
                 f_lines.append(f"  • {o_fish} : {o_stars} {o_badge} ({o_tip})")
             fish_section = "\n".join(f_lines) + "\n\n"
         else:
-            summary = f"{port_name}{tide_name}-({avg_range}){pct}%"
+            summary = f"{tide_name}/조류세기{avg_range}({pct}%)"
 
         event.add('summary', summary)
 
@@ -351,7 +351,7 @@ def build_port_calendar(port: dict, year: int = 2027):
     with open(out_file, "wb") as f:
         f.write(cal.to_ical())
 
-    print(f"✅ [{port_name}-낚시물때] 생성 완료: {out_file} (총 {len(year_data)}일)")
+    print(f"✅ [{str(year)[-2:]}년 {port_name} 낚시물때] 생성 완료: {out_file} (총 {len(year_data)}일)")
     return out_file
 
 def build_haerujil_calendar(port: dict, year: int = 2027):
@@ -373,9 +373,9 @@ def build_haerujil_calendar(port: dict, year: int = 2027):
     cal.add('version', '2.0')
     cal.add('calscale', 'GREGORIAN')
     cal.add('method', 'PUBLISH')
-    cal.add('x-wr-calname', f'2027 {port_name}-해루질물때')
+    cal.add('x-wr-calname', f'{str(year)[-2:]}년 {port_name} 해루질물때')
     cal.add('x-wr-timezone', 'Asia/Seoul')
-    cal.add('x-wr-caldesc', f'2027년 {port_name} 해루질 물때표 (고저차 80%~95%+ 신호등 가이드 탑재)')
+    cal.add('x-wr-caldesc', f'{year}년 {port_name} 해루질 물때표 (고저차 80%~95%+ 신호등 가이드 탑재)')
 
     delta = datetime.timedelta(days=1)
     now_utc = datetime.datetime.now(datetime.timezone.utc)
@@ -426,7 +426,7 @@ def build_haerujil_calendar(port: dict, year: int = 2027):
             h_status = "별로 🔴 (물이 충분히 안 빠짐, 비추천)"
 
         h_stars = "★" * h_score + "☆" * (5 - h_score)
-        summary = f"{h_badge}{port_name}{tide_name}-({avg_range}){pct}%[해]"
+        summary = f"{h_badge}{tide_name}/조류세기{avg_range}({pct}%)-[해]"
         event.add('summary', summary)
 
         # 간조/만조 정보 및 최저 수위
@@ -472,7 +472,7 @@ def build_haerujil_calendar(port: dict, year: int = 2027):
     with open(out_file, "wb") as f:
         f.write(cal.to_ical())
 
-    print(f"✅ [{port_name}-해루질물때] 생성 완료: {out_file} (총 {len(year_data)}일)")
+    print(f"✅ [{str(year)[-2:]}년 {port_name} 해루질물때] 생성 완료: {out_file} (총 {len(year_data)}일)")
     return out_file
 
 if __name__ == "__main__":
