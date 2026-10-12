@@ -48,83 +48,92 @@ MONTHLY_TARGETS = {
     12: {"primary": "광어", "others": ["우럭"]},
 }
 
+FISH_ABBR = {
+    "쭈꾸미": "쭈",
+    "갑오징어": "갑",
+    "참돔": "참",
+    "광어": "광",
+    "우럭": "우",
+    "농어": "농",
+    "백조기": "백",
+    "도다리": "도",
+    "노래미": "노",
+}
+
 def calc_fish_score(fish: str, pct: int):
     """
     고저차 비율(%)에 따른 어종별 출조 점수(1~5점) 및 가이드 반환
+    70% 이상을 사리 급류 최악(🔴) 기준으로 적용
     """
     if fish == "쭈꾸미":
-        if pct <= 35:
+        if pct <= 38:
             return 5, "최적의 조류! 봉돌 10~12호 가볍게 운용"
-        elif pct <= 45:
+        elif pct <= 50:
             return 4, "양호한 조류! 봉돌 12~14호 추천"
-        elif pct <= 55:
-            return 3, "보통 조류, 봉돌 14~16호 운용"
-        elif pct <= 65:
-            return 2, "물살 다소 빠름, 봉돌 16~18호"
+        elif pct <= 69:
+            return 3, "보통 조류, 봉돌 14~18호 운용 가능"
         else:
-            return 1, "물살 거셈, 바닥 찍기 어려움 주의"
+            return 1, "70% 이상 사리 급류 주의 (바닥 찍기 어려움)"
     elif fish == "갑오징어":
         if 45 <= pct <= 65:
             return 5, "갑오징어 최적 조류! 에기 액션 및 배 흘림 최상"
-        elif (40 <= pct < 45) or (66 <= pct <= 72):
+        elif (38 <= pct < 45) or (66 <= pct <= 69):
             return 4, "양호한 조류, 갑오징어 입질 활발 (봉돌 12~16호)"
-        elif (35 <= pct < 40) or (73 <= pct <= 80):
-            return 3, "보통 수준 (물살 다소 약하거나 빠름)"
-        elif pct < 35:
+        elif 30 <= pct < 38:
+            return 3, "조류 다소 약함 (에기 가볍게 운용)"
+        elif pct < 30:
             return 2, "조류 부족 (에기 액션 저조, 물 정체)"
         else:
-            return 1, "사리 급류 (채비 날림, 바닥 감도 저하)"
+            return 1, "70% 이상 사리 급류 주의 (채비 날림)"
     elif fish == "백조기":
-        if pct <= 40:
+        if pct <= 42:
             return 5, "최적의 소조기! 바닥 입질 매우 편함"
-        elif pct <= 50:
+        elif pct <= 55:
             return 4, "양호한 조류, 채비 안정적"
-        elif pct <= 60:
+        elif pct <= 69:
             return 3, "보통 조류, 봉돌 35~40호"
-        elif pct <= 70:
-            return 2, "물살 다소 빠름"
         else:
-            return 1, "조류 강함, 채비 굴러감"
+            return 1, "70% 이상 조류 강함, 채비 굴러감"
     elif fish == "우럭":
-        if 35 <= pct <= 50:
+        if 35 <= pct <= 55:
             return 5, "어초/침선 최적의 황금 물때"
-        elif 51 <= pct <= 60:
+        elif 56 <= pct <= 69:
             return 4, "양호한 입질, 봉돌 40~50호"
         elif pct < 35:
             return 3, "조류 다소 정체, 활성도 보통"
-        elif 61 <= pct <= 70:
-            return 2, "물살 다소 거셈, 밑걸림 주의"
         else:
-            return 1, "사리 물때, 조류 너무 세서 비추"
+            return 1, "70% 이상 사리 물때, 조류 너무 세서 비추"
     elif fish == "광어":
         if 45 <= pct <= 65:
             return 5, "다운샷 최적 조류! 배 흘림 최상"
-        elif (40 <= pct < 45) or (66 <= pct <= 72):
+        elif (38 <= pct < 45) or (66 <= pct <= 69):
             return 4, "양호한 배 흘림 조류"
-        elif (35 <= pct < 40) or (73 <= pct <= 80):
-            return 3, "보통 수준"
+        elif 30 <= pct < 38:
+            return 3, "조류 다소 완만"
+        elif pct < 30:
+            return 2, "조류 부족 (배 정체)"
         else:
-            return 2, "조류 너무 느리거나 너무 빠름"
+            return 1, "70% 이상 급류 (바닥 안착 어려움)"
     elif fish == "참돔":
-        if 60 <= pct <= 80:
+        if 55 <= pct <= 75:
             return 5, "타이라바 최적 조류! 넥타이 액션 최상"
-        elif (50 <= pct < 60) or (81 <= pct <= 90):
+        elif (45 <= pct < 55) or (76 <= pct <= 85):
             return 4, "양호한 조류, 타이라바 추천"
-        elif 40 <= pct < 50:
+        elif 38 <= pct < 45:
             return 3, "조류 다소 완만"
         else:
-            return 2, "조류 부족 또는 대사리"
+            return 2, "조류 부족 또는 대사리 급류"
     elif fish == "농어":
-        if 60 <= pct <= 85:
+        if 55 <= pct <= 80:
             return 5, "외수질 최적 조류! 먹이활동 극대화"
-        elif (50 <= pct < 60) or (86 <= pct <= 95):
+        elif (45 <= pct < 55) or (81 <= pct <= 90):
             return 4, "양호한 조류, 활성도 좋음"
-        elif 40 <= pct < 50:
+        elif 38 <= pct < 45:
             return 3, "보통 수준"
         else:
-            return 2, "조류 약해 농어 활성도 저조"
+            return 2, "조류 부족 또는 극대사리"
     elif fish in ["도다리", "노래미"]:
-        if pct <= 45:
+        if pct <= 50:
             return 4, "봄철 원투/바닥 채비 무난"
         else:
             return 3, "물살 다소 있음"
@@ -294,7 +303,8 @@ def build_port_calendar(port: dict, year: int = 2027):
             score, tip = calc_fish_score(primary_fish, pct)
             stars = "★" * score + "☆" * (5 - score)
             badge = "🟢" if score == 5 else ("🟡" if score == 4 else ("⚪" if score == 3 else "🔴"))
-            summary = f"{badge}{port_name}{tide_name}-({avg_range}){pct}% [{primary_fish}{stars}]"
+            fish_char = FISH_ABBR.get(primary_fish, primary_fish[0])
+            summary = f"{badge}{port_name}{tide_name}-({avg_range}){pct}%[{fish_char}]"
 
             f_lines = [f"🎯 [{month}월 주요 어종별 출조 적합도]:"]
             f_lines.append(f"  • {primary_fish} (주력) : {stars} {badge} ({tip})")
