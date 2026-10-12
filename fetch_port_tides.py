@@ -16,15 +16,15 @@ from bs4 import BeautifulSoup
 from icalendar import Calendar, Event
 
 PORTS = [
-    {"id": 158, "code": "incheon", "name": "인천"},
-    {"id": 149, "code": "pyeongtaek", "name": "평택"},
-    {"id": 132, "code": "sinjindo", "name": "신진도"},
-    {"id": 1400, "code": "mageompo", "name": "마검포"},
-    {"id": 353, "code": "wonsando", "name": "원산도"},
-    {"id": 236, "code": "muchangpo", "name": "무창포"},
-    {"id": 523, "code": "hongwon", "name": "홍원항"},
-    {"id": 120, "code": "gunsan", "name": "군산"},
-    {"id": 105, "code": "mokpo", "name": "목포"},
+    {"id": 158, "code": "incheon", "name": "인천", "base_max": 900},
+    {"id": 149, "code": "pyeongtaek", "name": "평택", "base_max": 900},
+    {"id": 132, "code": "sinjindo", "name": "신진도", "base_max": 650},
+    {"id": 1400, "code": "mageompo", "name": "마검포", "base_max": 700},
+    {"id": 353, "code": "wonsando", "name": "원산도", "base_max": 700},
+    {"id": 236, "code": "muchangpo", "name": "무창포", "base_max": 700},
+    {"id": 523, "code": "hongwon", "name": "홍원항", "base_max": 700},
+    {"id": 120, "code": "gunsan", "name": "군산", "base_max": 700},
+    {"id": 105, "code": "mokpo", "name": "목포", "base_max": 500},
 ]
 
 CACHE_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "cache")
@@ -162,6 +162,8 @@ def build_port_calendar(port: dict, year: int = 2027):
     delta = datetime.timedelta(days=1)
     now_utc = datetime.datetime.now(datetime.timezone.utc)
 
+    base_max = port.get("base_max", 700)
+
     for item in year_data:
         event = Event()
         c_date = datetime.date(item["year"], item["month"], item["day"])
@@ -171,32 +173,32 @@ def build_port_calendar(port: dict, year: int = 2027):
         event.add('dtend', c_date + delta)
 
         tide_name = item["tide_name"] or "물때"
-        
-        # 간조/만조 요약 텍스트
-        low_times_str = ", ".join([f"{e['time']}({e['level']})" for e in item["low_tides"]]) if item["low_tides"] else "-"
-        high_times_str = ", ".join([f"{e['time']}({e['level']})" for e in item["high_tides"]]) if item["high_tides"] else "-"
 
-        # 캘린더 제목 (가장 중요한 간조 정보 강조)
-        # 예: [인천 8물] 🔻간 12:21(-51) 🌊만 18:34(916)
-        # 만약 간조가 여러개면 최저 간조 찾기
-        min_low = min(item["low_tides"], key=lambda x: x["level"]) if item["low_tides"] else None
-        max_high = max(item["high_tides"], key=lambda x: x["level"]) if item["high_tides"] else None
+        # 일평균 고저차 계산: (만조 수위 평균) - (간조 수위 평균)
+        high_levels = [e["level"] for e in item["high_tides"] if e.get("level") is not None]
+        low_levels = [e["level"] for e in item["low_tides"] if e.get("level") is not None]
 
-        min_low_str = f"{min_low['time']}({min_low['level']})" if min_low else "-"
-        max_high_str = f"{max_high['time']}({max_high['level']})" if max_high else "-"
+        if high_levels and low_levels:
+            avg_high = sum(high_levels) / len(high_levels)
+            avg_low = sum(low_levels) / len(low_levels)
+            avg_range = round(avg_high - avg_low)
+            pct = round((avg_range / base_max) * 100)
+        else:
+            avg_range = 0
+            pct = 0
 
-        summary = f"[{port_name} {tide_name}] 🔻간 {min_low_str} 🌊만 {max_high_str}"
+        # 사용자 요청 포맷: "인천5물-(고저차)몇%"
+        summary = f"{port_name}{tide_name}-({avg_range}){pct}%"
         event.add('summary', summary)
 
         # 상세 설명 본문
         low_details = "\n".join([f"  • {e['time']} : 수위 {e['level']}cm ({e['diff']})" for e in item["low_tides"]]) or "  (정보 없음)"
         high_details = "\n".join([f"  • {e['time']} : 수위 {e['level']}cm ({e['diff']})" for e in item["high_tides"]]) or "  (정보 없음)"
 
-        # 최대 조차 계산
-        diff_str = ""
-        if min_low and max_high:
-            tide_range = max_high["level"] - min_low["level"]
-            diff_str = f"\n📏 일일 최대 고저차(조차): {tide_range} cm"
+        diff_str = f"📏 일일 평균 고저차: {avg_range} cm ({pct}% / 기준 {base_max}cm)"
+        if high_levels and low_levels:
+            max_day_range = max(high_levels) - min(low_levels)
+            diff_str += f"\n📏 일일 최대 고저차: {max_day_range} cm"
 
         desc_text = (
             f"📍 관측지점: 서해 {port_name}\n"
