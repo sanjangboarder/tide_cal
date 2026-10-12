@@ -33,6 +33,92 @@ OUTPUT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "calendars
 os.makedirs(CACHE_DIR, exist_ok=True)
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
+MONTHLY_TARGETS = {
+    1: {"primary": None, "others": []},
+    2: {"primary": None, "others": []},
+    3: {"primary": "우럭", "others": ["노래미", "도다리"]},
+    4: {"primary": "광어", "others": ["우럭", "도다리"]},
+    5: {"primary": "광어", "others": ["우럭", "참돔"]},
+    6: {"primary": "참돔", "others": ["광어", "우럭", "농어"]},
+    7: {"primary": "농어", "others": ["참돔", "백조기", "광어"]},
+    8: {"primary": "백조기", "others": ["농어", "참돔", "광어"]},
+    9: {"primary": "쭈꾸미", "others": ["갑오징어", "광어", "우럭"]},
+    10: {"primary": "갑오징어", "others": ["쭈꾸미", "광어", "우럭"]},
+    11: {"primary": "쭈꾸미", "others": ["갑오징어", "광어", "우럭"]},
+    12: {"primary": "광어", "others": ["우럭"]},
+}
+
+def calc_fish_score(fish: str, pct: int):
+    """
+    고저차 비율(%)에 따른 어종별 출조 점수(1~5점) 및 가이드 반환
+    """
+    if fish in ["쭈꾸미", "갑오징어"]:
+        if pct <= 35:
+            return 5, "최적의 조류! 봉돌 10~12호 가볍게 운용"
+        elif pct <= 45:
+            return 4, "양호한 조류! 봉돌 12~14호 추천"
+        elif pct <= 55:
+            return 3, "보통 조류, 봉돌 14~16호 운용"
+        elif pct <= 65:
+            return 2, "물살 다소 빠름, 봉돌 16~18호"
+        else:
+            return 1, "물살 거셈, 바닥 찍기 어려움 주의"
+    elif fish == "백조기":
+        if pct <= 40:
+            return 5, "최적의 소조기! 바닥 입질 매우 편함"
+        elif pct <= 50:
+            return 4, "양호한 조류, 채비 안정적"
+        elif pct <= 60:
+            return 3, "보통 조류, 봉돌 35~40호"
+        elif pct <= 70:
+            return 2, "물살 다소 빠름"
+        else:
+            return 1, "조류 강함, 채비 굴러감"
+    elif fish == "우럭":
+        if 35 <= pct <= 50:
+            return 5, "어초/침선 최적의 황금 물때"
+        elif 51 <= pct <= 60:
+            return 4, "양호한 입질, 봉돌 40~50호"
+        elif pct < 35:
+            return 3, "조류 다소 정체, 활성도 보통"
+        elif 61 <= pct <= 70:
+            return 2, "물살 다소 거셈, 밑걸림 주의"
+        else:
+            return 1, "사리 물때, 조류 너무 세서 비추"
+    elif fish == "광어":
+        if 45 <= pct <= 65:
+            return 5, "다운샷 최적 조류! 배 흘림 최상"
+        elif (40 <= pct < 45) or (66 <= pct <= 72):
+            return 4, "양호한 배 흘림 조류"
+        elif (35 <= pct < 40) or (73 <= pct <= 80):
+            return 3, "보통 수준"
+        else:
+            return 2, "조류 너무 느리거나 너무 빠름"
+    elif fish == "참돔":
+        if 60 <= pct <= 80:
+            return 5, "타이라바 최적 조류! 넥타이 액션 최상"
+        elif (50 <= pct < 60) or (81 <= pct <= 90):
+            return 4, "양호한 조류, 타이라바 추천"
+        elif 40 <= pct < 50:
+            return 3, "조류 다소 완만"
+        else:
+            return 2, "조류 부족 또는 대사리"
+    elif fish == "농어":
+        if 60 <= pct <= 85:
+            return 5, "외수질 최적 조류! 먹이활동 극대화"
+        elif (50 <= pct < 60) or (86 <= pct <= 95):
+            return 4, "양호한 조류, 활성도 좋음"
+        elif 40 <= pct < 50:
+            return 3, "보통 수준"
+        else:
+            return 2, "조류 약해 농어 활성도 저조"
+    elif fish in ["도다리", "노래미"]:
+        if pct <= 45:
+            return 4, "봄철 원투/바닥 채비 무난"
+        else:
+            return 3, "물살 다소 있음"
+    return 3, "보통 수준"
+
 def fetch_month_data(port_id: int, year: int, month: int):
     """특정 항구의 특정 연/월 데이터를 가져와 파싱 (캐시 우선)"""
     cache_file = os.path.join(CACHE_DIR, f"{port_id}_{year}_{month:02d}.json")
@@ -187,8 +273,29 @@ def build_port_calendar(port: dict, year: int = 2027):
             avg_range = 0
             pct = 0
 
-        # 사용자 요청 포맷: "인천5물-(고저차)몇%"
-        summary = f"{port_name}{tide_name}-({avg_range}){pct}%"
+        month = item["month"]
+        targets = MONTHLY_TARGETS.get(month, {"primary": None, "others": []})
+        primary_fish = targets.get("primary")
+        other_fishes = targets.get("others", [])
+
+        fish_section = ""
+        if primary_fish:
+            score, tip = calc_fish_score(primary_fish, pct)
+            stars = "★" * score + "☆" * (5 - score)
+            badge = "🟢" if score == 5 else ("🟡" if score == 4 else ("⚪" if score == 3 else "🔴"))
+            summary = f"{badge}{port_name}{tide_name}-({avg_range}){pct}% [{primary_fish}{stars}]"
+
+            f_lines = [f"🎯 [{month}월 주요 어종별 출조 적합도]:"]
+            f_lines.append(f"  • {primary_fish} (주력) : {stars} {badge} ({tip})")
+            for o_fish in other_fishes:
+                o_score, o_tip = calc_fish_score(o_fish, pct)
+                o_stars = "★" * o_score + "☆" * (5 - o_score)
+                o_badge = "🟢" if o_score == 5 else ("🟡" if o_score == 4 else ("⚪" if o_score == 3 else "🔴"))
+                f_lines.append(f"  • {o_fish} : {o_stars} {o_badge} ({o_tip})")
+            fish_section = "\n".join(f_lines) + "\n\n"
+        else:
+            summary = f"{port_name}{tide_name}-({avg_range}){pct}%"
+
         event.add('summary', summary)
 
         # 상세 설명 본문
@@ -206,6 +313,7 @@ def build_port_calendar(port: dict, year: int = 2027):
             f"🌙 음력/월령: {item['lunar_info']}\n"
             f"🌊 물때: {tide_name}\n"
             f"{diff_str}\n\n"
+            f"{fish_section}"
             f"🔻 [간조/저조 - 물 빠질 때]:\n{low_details}\n\n"
             f"🌊 [만조/고조 - 물 찰 때]:\n{high_details}\n\n"
             f"☀️ 일출/일몰: {item['sun']}\n"
